@@ -1,0 +1,7 @@
+<?php
+define("MODULES_DIR", dirname(__FILE__)."/endpoint");
+define("RELEASE_DIR", "/usr/src/test/v3");
+define("ROOT_DIR", dirname(__FILE__));
+define("FIRMWARE_DIR", "/usr/src/provisioner_framework");
+define("BRANCH", "master");
+?>

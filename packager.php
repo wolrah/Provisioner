@@ -3,11 +3,7 @@ global $force;
 $force = isset($_REQUEST['force']) ? TRUE : FALSE;
 $push = isset($_REQUEST['push']) ? TRUE : FALSE;
 set_time_limit(0);
-define("MODULES_DIR", dirname(__FILE__)."/endpoint");
-define("RELEASE_DIR", "/usr/src/test/v3");
-define("ROOT_DIR", dirname(__FILE__));
-define("FIRMWARE_DIR", "/usr/src/provisioner_framework");
-define("BRANCH", "master");
+require_once('packager.config.inc');
 
 file_put_contents(RELEASE_DIR.'/update_status', '1');
 
