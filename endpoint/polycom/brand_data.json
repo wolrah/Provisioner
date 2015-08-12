@@ -36,7 +36,7 @@
           "id": "3",
           "name": "SoundPoint\/Station Modern Models [321,331,335,450,550,560,650,670,5000,6000,7000]",
           "directory": "spipm",
-          "description": "Fixed Duplicate SIP file and 0x20, 0x00 errors. Also added delete functionality",
+          "description": "Firmware 4.0.9, remove VVX phones",
           "changelog": "",
           "last_modified": null
         },
