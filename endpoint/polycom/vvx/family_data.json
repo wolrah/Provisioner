@@ -1,0 +1,129 @@
+{
+  "data": {
+    "name": "VVX\/SoundStructure Current Models",
+    "id": "7",
+    "directory": "vvx",
+    "firmware_ver": 1435939348,
+    "firmware_md5sum": "130ff60693e758bfcf60f740898b66a9",
+    "firmware_pkg": "vvx_firmware.tgz",
+    "description": "Add VVX as new family to support 5.x firmware revisions",
+    "configuration_files": "$mac.cfg,$mac_reg.cfg,sip_vvx.cfg,contacts\/000000000000-directory.xml,logs\/$mac-app.log,logs\/$mac-boot.log,overrides\/$mac-phone.cfg",
+    "changelog": "",
+    "provisioning_types": [
+      "tftp",
+      "http"
+    ],
+    "model_list": [
+      {
+        "model": "VVX 101",
+        "lines": "2",
+        "id": "1",
+        "template_data": [
+          "linekeys.json",
+          "template_data.json",
+          "attendant_keys.json",
+          "buddylist.json"
+        ]
+      },
+      {
+        "model": "VVX 201",
+        "lines": "2",
+        "id": "2",
+        "template_data": [
+          "linekeys.json",
+          "template_data.json",
+          "attendant_keys.json",
+          "buddylist.json"
+        ]
+      },
+      {
+        "model": "VVX 300",
+        "lines": "34",
+        "id": "3",
+        "template_data": [
+          "linekeys.json",
+          "template_data.json",
+          "attendant_keys.json",
+          "buddylist.json"
+        ]
+      },
+      {
+        "model": "VVX 310",
+        "lines": "34",
+        "id": "4",
+        "template_data": [
+          "linekeys.json",
+          "template_data.json",
+          "attendant_keys.json",
+          "buddylist.json"
+        ]
+      },
+      {
+        "model": "VVX 400",
+        "lines": "34",
+        "id": "5",
+        "template_data": [
+          "linekeys.json",
+          "template_data.json",
+          "attendant_keys.json",
+          "buddylist.json"
+        ]
+      },
+      {
+        "model": "VVX 410",
+        "lines": "34",
+        "id": "6",
+        "template_data": [
+          "linekeys.json",
+          "template_data.json",
+          "attendant_keys.json",
+          "buddylist.json"
+        ]
+      },
+      {
+        "model": "VVX 500",
+        "lines": "34",
+        "id": "7",
+        "template_data": [
+          "linekeys.json",
+          "template_data.json",
+          "attendant_keys.json",
+          "buddylist.json"
+        ]
+      },
+      {
+        "model": "VVX 600",
+        "lines": "34",
+        "id": "8",
+        "template_data": [
+          "linekeys.json",
+          "template_data.json",
+          "attendant_keys.json",
+          "buddylist.json"
+        ]
+      },
+      {
+        "model": "VVX 1500",
+        "lines": "24",
+        "id": "9",
+        "template_data": [
+          "linekeys.json",
+          "template_data.json",
+          "attendant_keys.json",
+          "buddylist.json"
+        ]
+      },
+      {
+        "model": "SoundStructure VoIP Interface",
+        "lines": "12",
+        "id": "10",
+        "template_data": [
+          "linekeys.json",
+          "template_data.json",
+          "attendant_keys.json",
+          "buddylist.json"
+        ]
+      }
+    ]
+  }
+}

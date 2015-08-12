@@ -1,0 +1,2755 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary>
+	<phrases>
+		<phrase i="0" t="Bakåt"/>
+		<phrase i="1" t="Ring upp"/>
+		<phrase i="2" t="Redigera/Ring upp" t.VVX_101_201="Red/Rg"/>
+		<phrase i="3" t="Redigera"/>
+		<phrase i="4" t="Upp"/>
+		<phrase i="5" t="Spara"/>
+		<phrase i="6" t="Mer"/>
+		<phrase i="7" t="Nytt"/>
+		<phrase i="8" t="Ok"/>
+		<phrase i="9" t="Lägg till"/>
+		<phrase i="10" t="Rensa"/>
+		<phrase i="11" t="Info" t.VVX_1500="Information"/>
+		<phrase i="12" t="Skicka"/>
+		<phrase i="13" t="Välj" t.VVX_101_201="Val"/>
+		<phrase i="14" t="Radera" t.VVX_101_201="Rad"/>
+		<phrase i="15" t="Importera" t.VVX_101_201="Imp"/>
+		<phrase i="16" t="Blockera" t.VVX_101_201="Blk"/>
+		<phrase i="17" t="Bevaka" t.VVX_101_201="Bev"/>
+		<phrase i="18" t="Ta bort blockering" t.IP_330="Avblck" t.VVX_101_201="Avblk"/>
+		<phrase i="19" t="Min status" t.IP_330="Min stat" t.VVX_300="MinSta" t.VVX_500="Min status" t.VVX_101_201="Stat"/>
+		<phrase i="20" t="Kompisar" t.IP_330="Kompis" t.VVX_101_201="Komp"/>
+		<phrase i="21" t="Återuppta" t.IP_330="Återuppta" t.VVX_101_201="Åut"/>
+		<phrase i="22" t="Spela" t.IP_330="Spela"/>
+		<phrase i="23" t="Avsluta" t.IP_330="Avsluta samtal" t.VVX_101_201="Avs"/>
+		<phrase i="24" t="Nytt samtal" t.IP_330="Nytt samtal" t.VVX_101_201="Ring"/>
+		<phrase i="25" t="Återuppringning" t.VVX_101_201="Åur"/>
+		<phrase i="26" t="Svara" t.IP_330="Svara" t.VVX_101_201="Svr"/>
+		<phrase i="27" t="Namn" t.IP_330="Namn"/>
+		<phrase i="28" t="Nummer" t.IP_330="Nummer" t.VVX_101_201="Num"/>
+		<phrase i="29" t="Parkera" t.IP_330="Parkera"/>
+		<phrase i="30" t="Konferens" t.IP_330="Konf" t.VVX_1500="Konferens" t.VVX_101_201="Konf"/>
+		<phrase i="31" t="Koppla" t.IP_330="Koppla" t.VVX_1500="Koppla" t.VVX_500="Koppla" t.VVX_101_201="Kpla"/>
+		<phrase i="32" t="Avsluta"/>
+		<phrase i="33" t="Nästa"/>
+		<phrase i="34" t="Föregående" t.VVX_1500="Föregående" t.VVX_500="Föregående" t.VVX_101_201="Förg"/>
+		<phrase i="35" t="Svara" t.VVX_101_201="Svra"/>
+		<phrase i="36" t="Avsluta"/>
+		<phrase i="37" t="Avbryt" t.VVX_101_201="Avbr"/>
+		<phrase i="38" t="a-&gt;A"/>
+		<phrase i="39" t="A-&gt;a"/>
+		<phrase i="40" t="-&gt;ABC"/>
+		<phrase i="41" t="&lt;&lt;"/>
+		<phrase i="42" t="Skicka" t.VVX_101_201="Skic"/>
+		<phrase i="43" t="Nästa sida" t.VVX_1500="Nästa sida" t.VVX_500="Nästa sida" t.VVX_101_201="Nsta"/>
+		<phrase i="44" t="Uppdatera"/>
+		<phrase i="45" t="Snabbmeddelande" t.VVX_101_201="IM"/>
+		<phrase i="46" t="Inga meddelanden"/>
+		<phrase i="47" t="Sänd meddelande till" t.VVX_101_201="Sk till"/>
+		<phrase i="48" t="Skriv meddelande" t.VVX_101_201="Skr medd"/>
+		<phrase i="49" t="Min status" t.VVX_101_201="Status"/>
+		<phrase i="50" t="Kontaktlista"/>
+		<phrase i="51" t="Kataloger"/>
+		<phrase i="52" t="Tjänst"/>
+		<phrase i="53" t="Applik."/>
+		<phrase i="54" t="Snabbuppringning"/>
+		<phrase i="55" t="Snabbuppringningsinfo" t.VVX_1500="Snabbuppringningsinfo" t.VVX_500="Snabbuppringningsinfo"/>
+		<phrase i="56" t="Samtalslistor"/>
+		<phrase i="57" t="Redigera kontakt"/>
+		<phrase i="58" t="Kompislista"/>
+		<phrase i="59" t="Bevakarlista"/>
+		<phrase i="60" t="Blockerad lista"/>
+		<phrase i="61" t="Missade samtal"/>
+		<phrase i="62" t="Inkomna samtal"/>
+		<phrase i="63" t="Utgående samtal"/>
+		<phrase i="64" t="CDP-kompatibilitet" t.VVX_101_201="CDP-komp"/>
+		<phrase i="65" t="App.information"/>
+		<phrase i="66" t="Codecs som stöds"/>
+		<phrase i="67" t="Lägg till bevakning"/>
+		<phrase i="68" t="Nätverkssammanställning"/>
+		<phrase i="69" t="Närvaro"/>
+		<phrase i="70" t="Kompisstatus"/>
+		<phrase i="71" t="Ringningstyp"/>
+		<phrase i="72" t="Status"/>
+		<phrase i="73" t="Inställningar"/>
+		<phrase i="74" t="Huvudmeny"/>
+		<phrase i="75" t="Nätverksstatistik"/>
+		<phrase i="76" t="Mediastatistik"/>
+		<phrase i="77" t="Mjukvaruversion"/>
+		<phrase i="78" t="Kontrast"/>
+		<phrase i="79" t="Nätverkskonfiguration" t.IP_330="Nätverkskonfiguration" t.VVX_101_201="Nätverkskonfiguration"/>
+		<phrase i="80" t="Samtalsinformation"/>
+		<phrase i="81" t="Information" t.VVX_101_201="Info"/>
+		<phrase i="82" t="Systeminformation" t.VVX_101_201="Systeminfo"/>
+		<phrase i="83" t="Aktiv"/>
+		<phrase i="84" t="Inaktiv"/>
+		<phrase i="85" t="Okänd abonnent"/>
+		<phrase i="86" t="dag"/>
+		<phrase i="87" t="dagar"/>
+		<phrase i="88" t="Begär"/>
+		<phrase i="89" t="Begäran misslyckades"/>
+		<phrase i="90" t="Svenska"/>
+		<phrase i="91" t="Intern"/>
+		<phrase i="92" t="Full duplex"/>
+		<phrase i="93" t="Halv duplex"/>
+		<phrase i="94" t="Visa"/>
+		<phrase i="95" t="*** VARNING ***"/>
+		<phrase i="96" t="Router"/>
+		<phrase i="97" t="Ner"/>
+		<phrase i="98" t="Förfluten tid"/>
+		<phrase i="99" t="Mottagna pkt"/>
+		<phrase i="100" t="Skickade pkt"/>
+		<phrase i="101" t="Missade pkt"/>
+		<phrase i="102" t="LAN-port"/>
+		<phrase i="103" t="Datorport"/>
+		<phrase i="104" t="Snabbmedd." t.IP_330="IM" t.VVX_1500="Snabbmedd." t.VVX_500="Snabbmedd." t.VVX_101_201="IM"/>
+		<phrase i="105" t="Ange ursprung"/>
+		<phrase i="106" t="Aktivera" t.VVX_101_201="Aktv"/>
+		<phrase i="107" t="Störningar (ms)"/>
+		<phrase i="108" t="Max störningar (ms)"/>
+		<phrase i="109" t="Fördröjningar (ms)"/>
+		<phrase i="110" t="App.version"/>
+		<phrase i="111" t="Startversion"/>
+		<phrase i="112" t="Ring"/>
+		<phrase i="113" t="Inga poster"/>
+		<phrase i="114" t="Missade samtal"/>
+		<phrase i="115" t="Mottagna samtal" t.VVX_101_201="Mott. samtal"/>
+		<phrase i="116" t="Utgående samtal"/>
+		<phrase i="117" t="Raderat"/>
+		<phrase i="118" t="Kontakt"/>
+		<phrase i="119" t="EM"/>
+		<phrase i="120" t="FM"/>
+		<phrase i="121" t="Tid"/>
+		<phrase i="122" t="Namn"/>
+		<phrase i="123" t="Samtalslängd"/>
+		<phrase i="124" t=" säger:"/>
+		<phrase i="125" t="Meddelande till "/>
+		<phrase i="126" t="Fick ditt meddelande."/>
+		<phrase i="127" t="Ring mig."/>
+		<phrase i="128" t="Ring senare."/>
+		<phrase i="129" t="Kan inte prata nu."/>
+		<phrase i="130" t="Gå på lunch?"/>
+		<phrase i="131" t="Importerat"/>
+		<phrase i="132" t="Importering misslyckades"/>
+		<phrase i="133" t="Språk"/>
+		<phrase i="134" t="Skriv in nummer"/>
+		<phrase i="135" t="Skriv in URL"/>
+		<phrase i="136" t="Samtalsuppdelning" t.VVX_101_201="Dela"/>
+		<phrase i="137" t="Konferenskoppling"/>
+		<phrase i="138" t="Till"/>
+		<phrase i="139" t="Från"/>
+		<phrase i="140" t="Vidarebef."/>
+		<phrase i="141" t="För"/>
+		<phrase i="142" t="Parkera"/>
+		<phrase i="143" t="Parkerat"/>
+		<phrase i="144" t=" nytt meddelande"/>
+		<phrase i="145" t=" nya meddelanden"/>
+		<phrase i="146" t="Ring"/>
+		<phrase i="147" t="Nätverket är nere"/>
+		<phrase i="148" t="Konfigurerar om nätverk" t.IP_330="Omkonfigurering" t.VVX_1500="Omkonfigurering" t.VVX_500="Omkonfigurering"/>
+		<phrase i="149" t=" nytt missat samtal"/>
+		<phrase i="150" t=" nya missade samtal"/>
+		<phrase i="151" t="Omstart initierad"/>
+		<phrase i="152" t="Samtal väntar"/>
+		<phrase i="153" t="Frånkopplad"/>
+		<phrase i="154" t="Ansluten"/>
+		<phrase i="155" t="Upptaget"/>
+		<phrase i="156" t="Snart tillbaka"/>
+		<phrase i="157" t="Borta"/>
+		<phrase i="158" t="Upptagen i telefon"/>
+		<phrase i="159" t="Ute på lunch"/>
+		<phrase i="160" t="I möte"/>
+		<phrase i="161" t="Frånkopplad"/>
+		<phrase i="162" t="Stör ej"/>
+		<phrase i="163" t="Timeout"/>
+		<phrase i="164" t="Startserver"/>
+		<phrase i="165" t="Startserver - alt"/>
+		<phrase i="166" t="Startservertyp"/>
+		<phrase i="167" t="Servertyp"/>
+		<phrase i="168" t="Serveradress" t.VVX_101_201="Serveradr."/>
+		<phrase i="169" t="Srvanvändare"/>
+		<phrase i="170" t="Srvlösenord"/>
+		<phrase i="171" t="DHCP-klient"/>
+		<phrase i="172" t="DHCP-meny"/>
+		<phrase i="173" t="IP-adress" t.VVX_1500="IP-adress" t.VVX_500="IP-adress" t.VVX_101_201="IP-adr"/>
+		<phrase i="174" t="Subnätmask" t.VVX_101_201="Submask"/>
+		<phrase i="175" t="IP-gateway" t.VVX_101_201="IP-gtwy"/>
+		<phrase i="176" t="Servermeny"/>
+		<phrase i="177" t="SNTP-adress" t.VVX_101_201="SNTP-adr."/>
+		<phrase i="178" t="GMT"/>
+		<phrase i="179" t="DNS-server"/>
+		<phrase i="180" t="DNS-server (alt)" t.VVX_101_201="DNS-srv(alt)"/>
+		<phrase i="181" t="DNS-domän"/>
+		<phrase i="182" t="VLAN-ID"/>
+		<phrase i="183" t=" Spara konfig."/>
+		<phrase i="184" t=" Avsluta ua spara"/>
+		<phrase i="185" t=" Återuppta inställningar"/>
+		<phrase i="186" t="DHCP"/>
+		<phrase i="187" t="MAC"/>
+		<phrase i="188" t="IP"/>
+		<phrase i="189" t="DNS"/>
+		<phrase i="190" t="Startserver" t.VVX_101_201="Startsrv"/>
+		<phrase i="191" t="Alt. DNS"/>
+		<phrase i="192" t="Option 66" t.VVX_101_201="Opt. 66"/>
+		<phrase i="193" t="Anpassa"/>
+		<phrase i="194" t="Statisk"/>
+		<phrase i="195" t="IP-adress" t.VVX_101_201="IP-adr"/>
+		<phrase i="196" t="Sträng"/>
+		<phrase i="197" t="FTP"/>
+		<phrase i="198" t="Enkel FTP" t.VVX_101_201="TFTP"/>
+		<phrase i="199" t="Aktiverat"/>
+		<phrase i="200" t="Inaktiverat"/>
+		<phrase i="201" t="Mask"/>
+		<phrase i="202" t="**-**"/>
+		<phrase i="203" t="Domän"/>
+		<phrase i="204" t="VLAN-ID"/>
+		<phrase i="205" t="Server"/>
+		<phrase i="206" t="App.version" t.VVX_101_201="App.ver"/>
+		<phrase i="207" t="Fil"/>
+		<phrase i="208" t="Konfig"/>
+		<phrase i="209" t="Uppdaterare"/>
+		<phrase i="210" t="P/N"/>
+		<phrase i="211" t="TxCodec"/>
+		<phrase i="212" t="RxCodec"/>
+		<phrase i="213" t="Språket ändrat."/>
+		<phrase i="214" t="Ändring av språk misslyckades."/>
+		<phrase i="215" t="Vänligen vänta…"/>
+		<phrase i="216" t="Linjeval" t.VVX_101_201="Linjeval"/>
+		<phrase i="217" t="Linje"/>
+		<phrase i="218" t="Sök" t.VVX_101_201="Sök"/>
+		<phrase i="219" t="Sortera"/>
+		<phrase i="220" t="Katalogsökning"/>
+		<phrase i="221" t="Katalogsortering"/>
+		<phrase i="222" t="Förnamn"/>
+		<phrase i="223" t="Efternamn"/>
+		<phrase i="224" t="Systemstatus" t.VVX_101_201="Sys.stat"/>
+		<phrase i="225" t="Allmänt"/>
+		<phrase i="226" t="Kontaktlista" t.VVX_101_201="Kontaktkat"/>
+		<phrase i="227" t="Kontaktar…"/>
+		<phrase i="228" t="Anpassad+Opt. 66" t.VVX_101_201="Anp+Opt.66"/>
+		<phrase i="229" t="Linjeinformation"/>
+		<phrase i="230" t="Registrerad"/>
+		<phrase i="231" t="Ej registrerad"/>
+		<phrase i="232" t="Autentisering"/>
+		<phrase i="233" t="Registrerad användare "/>
+		<phrase i="234" t="Registrerat lösenord " t.VVX_101_201="Reg lösn"/>
+		<phrase i="235" t="Video"/>
+		<phrase i="236" t="Meddel."/>
+		<phrase i="237" t="Meddelandecentral"/>
+		<phrase i="238" t="I konferens"/>
+		<phrase i="239" t="Brådskande"/>
+		<phrase i="240" t="Brådskande"/>
+		<phrase i="241" t="Nya"/>
+		<phrase i="242" t="Nytt"/>
+		<phrase i="243" t="Gamla"/>
+		<phrase i="244" t="Gammalt"/>
+		<phrase i="245" t="Anslut" t.IP_330="Anslut" t.VVX_101_201="Ansl"/>
+		<phrase i="246" t="Lägg till i kontaktlista" t.IP_330="Lägg till i kontaktkat" t.VVX_101_201="Till kontaktkat"/>
+		<phrase i="247" t="Redigera kontakt"/>
+		<phrase i="248" t="Snabbuppringningsindex"/>
+		<phrase i="249" t="Samtalsöverföring"/>
+		<phrase i="250" t="Avvisa" t.VVX_101_201="Avvs"/>
+		<phrase i="251" t="Vidarebefordra" t.VVX_101_201="Vbf"/>
+		<phrase i="252" t="Detta samtal"/>
+		<phrase i="253" t="Återställ användarinställningar" t.VVX_101_201="Återst anv.inst"/>
+		<phrase i="254" t="Omdirigera kontakt"/>
+		<phrase i="255" t="Avvisa automatiskt"/>
+		<phrase i="256" t="Omdirigera automatiskt"/>
+		<phrase i="257" t="Sparad"/>
+		<phrase i="258" t="Fel"/>
+		<phrase i="259" t="Kontakt finns redan."/>
+		<phrase i="260" t="Inaktivera" t.VVX_101_201="Inak"/>
+		<phrase i="261" t="Bevaka kompis"/>
+		<phrase i="262" t="Blockera kompis"/>
+		<phrase i="263" t="Vänligen försök igen."/>
+		<phrase i="264" t="Klocka"/>
+		<phrase i="265" t="Datum"/>
+		<phrase i="266" t="Format"/>
+		<phrase i="267" t="Söndag"/>
+		<phrase i="268" t="Måndag"/>
+		<phrase i="269" t="Tisdag"/>
+		<phrase i="270" t="Onsdag"/>
+		<phrase i="271" t="Torsdag"/>
+		<phrase i="272" t="Fredag"/>
+		<phrase i="273" t="Lördag"/>
+		<phrase i="274" t="Januari"/>
+		<phrase i="275" t="Februari"/>
+		<phrase i="276" t="Mars"/>
+		<phrase i="277" t="April"/>
+		<phrase i="278" t="Maj"/>
+		<phrase i="279" t="Juni"/>
+		<phrase i="280" t="Juli"/>
+		<phrase i="281" t="Augusti"/>
+		<phrase i="282" t="September"/>
+		<phrase i="283" t="Oktober"/>
+		<phrase i="284" t="November"/>
+		<phrase i="285" t="December"/>
+		<phrase i="286" t="Tid"/>
+		<phrase i="287" t="Ställ in allt"/>
+		<phrase i="288" t="Nollställ allt" t.VVX_101_201="RnsAllt"/>
+		<phrase i="289" t="Hörlursminne"/>
+		<phrase i="290" t="Hörlursminne" t.VVX_101_201="Hörlursminne"/>
+		<phrase i="291" t="Fel under import."/>
+		<phrase i="292" t="Aktivt samtal. Åtgärd avslutad." t.IP_330="Blockerat av aktivt samtal"/>
+		<phrase i="293" t="Vänligen ange kontakt."/>
+		<phrase i="294" t="Överför till"/>
+		<phrase i="295" t="Konferenssamtal med" t.IP_330="Konferens med"/>
+		<phrase i="296" t="Bekräfta"/>
+		<phrase i="297" t="Ändra lösenord"/>
+		<phrase i="298" t="Ändra användarlösenord" t.IP_330="Ändra användarlösenord" t.VVX_101_201="Ändra anv.lösen."/>
+		<phrase i="299" t="Ändra admin-lösenord" t.IP_330="Ändra admin.lösenord" t.VVX_101_201="Ändra adm.lösenord"/>
+		<phrase i="300" t="Användarlösenord"/>
+		<phrase i="301" t="Admin.lösenord" t.VVX_1500="Administratörens lösenord"/>
+		<phrase i="302" t="Användarlösenordet ändrat." t.IP_330="Lösenordet ändrat."/>
+		<phrase i="303" t="Admin.lösenordet ändrat." t.IP_330="Admin.lösenordet ändrat." t.VVX_1500="Administratörens lösenord ändrat." t.VVX_500="Administratörens lösenord ändrat."/>
+		<phrase i="304" t="Ledsen, försök igen."/>
+		<phrase i="305" t="Gammalt lösenord"/>
+		<phrase i="306" t="Nytt lösenord"/>
+		<phrase i="307" t="Bekräfta nytt lösenord"/>
+		<phrase i="308" t="Lösenordet för kort." t.IP_330="Lösenord för kort."/>
+		<phrase i="309" t="Föreg. sida" t.VVX_1500="Föregående sida" t.VVX_500="Föregående sida" t.VVX_101_201="Förg"/>
+		<phrase i="310" t="Ascii"/>
+		<phrase i="311" t="Latin"/>
+		<phrase i="312" t="Kyrillisk"/>
+		<phrase i="313" t="Unicode"/>
+		<phrase i="314" t="Minsta längd är"/>
+		<phrase i="315" t="1/A/a"/>
+		<phrase i="316" t="Slut på resurser"/>
+		<phrase i="317" t="Kodning" t.IP_330="Koda" t.VVX_101_201="Kodn"/>
+		<phrase i="318" t="LAN-hastighet"/>
+		<phrase i="319" t="Datorhastighet"/>
+		<phrase i="320" t="Okänt"/>
+		<phrase i="321" t="Flash-inställningar återställda."/>
+		<phrase i="322" t="LAN-läge"/>
+		<phrase i="323" t="Datorläge"/>
+		<phrase i="324" t="SNTP"/>
+		<phrase i="325" t="GMT"/>
+		<phrase i="326" t="Sommartid"/>
+		<phrase i="327" t="Till"/>
+		<phrase i="328" t="Från"/>
+		<phrase i="329" t="CPU-belastning"/>
+		<phrase i="330" t="Snabbare" t.VVX_101_201="Snbb"/>
+		<phrase i="331" t="Långs." t.VVX_101_201="Sakt"/>
+		<phrase i="332" t="Belast."/>
+		<phrase i="333" t="Intervall"/>
+		<phrase i="334" t="Katalogen är full."/>
+		<phrase i="335" t="Fält finns inte."/>
+		<phrase i="336" t="Slutet av katalogen."/>
+		<phrase i="337" t="Kontakten raderades."/>
+		<phrase i="338" t="Linjen upptagen"/>
+		<phrase i="339" t="Nätverksbelastning"/>
+		<phrase i="340" t="Byte per sekund"/>
+		<phrase i="341" t="Paket per sekund" t.VVX_101_201="Paket per sek"/>
+		<phrase i="342" t="DSP-belastning"/>
+		<phrase i="343" t="Värdbelastning"/>
+		<phrase i="344" t="Läge"/>
+		<phrase i="345" t="Diagnostik"/>
+		<phrase i="346" t="Ljuddiagnostik"/>
+		<phrase i="347" t="Tangentbordsdiagnostik"/>
+		<phrase i="348" t="Displaydiagnostik"/>
+		<phrase i="349" t="Högtalare"/>
+		<phrase i="350" t="Telefonlur"/>
+		<phrase i="351" t="Godkänd"/>
+		<phrase i="352" t="Ej godkänd"/>
+		<phrase i="353" t="Test avslutad"/>
+		<phrase i="354" t="Avsluta: Tryck tangent två gånger."/>
+		<phrase i="355" t="Verifiera: tryck en tangent"/>
+		<phrase i="356" t="Avspelning" t.VVX_101_201="Rec"/>
+		<phrase i="357" t="Stopp"/>
+		<phrase i="358" t="Ogiltig tangent"/>
+		<phrase i="359" t="Klyka"/>
+		<phrase i="360" t="Stoppad"/>
+		<phrase i="361" t="Spelar"/>
+		<phrase i="362" t="Inspelning"/>
+		<phrase i="363" t="Dubblerad IP"/>
+		<phrase i="364" t="Starta om"/>
+		<phrase i="365" t="upptäckt från"/>
+		<phrase i="366" t="Sön"/>
+		<phrase i="367" t="Mån"/>
+		<phrase i="368" t="Tis"/>
+		<phrase i="369" t="Ons"/>
+		<phrase i="370" t="Tor"/>
+		<phrase i="371" t="Fre"/>
+		<phrase i="372" t="Lör"/>
+		<phrase i="373" t="Jan"/>
+		<phrase i="374" t="Feb"/>
+		<phrase i="375" t="Mar"/>
+		<phrase i="376" t="Apr"/>
+		<phrase i="377" t="Maj"/>
+		<phrase i="378" t="Jun"/>
+		<phrase i="379" t="Jul"/>
+		<phrase i="380" t="Aug"/>
+		<phrase i="381" t="Sep"/>
+		<phrase i="382" t="Okt"/>
+		<phrase i="383" t="Nov"/>
+		<phrase i="384" t="Dec"/>
+		<phrase i="385" t="Minnesanvändning"/>
+		<phrase i="386" t="Aktivt samtal"/>
+		<phrase i="387" t="Tystnad" t.VVX_101_201="Tst"/>
+		<phrase i="388" t="Server ej tillgänglig."/>
+		<phrase i="389" t="Tidsordning"/>
+		<phrase i="390" t="Datum ovanför tid"/>
+		<phrase i="391" t="Tid ovanför datum"/>
+		<phrase i="392" t="Datum före tid"/>
+		<phrase i="393" t="Tid före datum"/>
+		<phrase i="394" t="Japanskt alfabet"/>
+		<phrase i="395" t="Statustoner för samtal" t.VVX_101_201="Samt.statuston"/>
+		<phrase i="396" t="Stör ej"/>
+		<phrase i="397" t="In/ut" t.IP_330="In/ut" t.IP_450="In/Ut" t.VVX_300="In/Ut"/>
+		<phrase i="398" t="Agt tillg" t.IP_330="Tillgäng." t.IP_450="Tillg" t.VVX_300="Tillg"/>
+		<phrase i="399" t="Ändra" t.VVX_101_201="Ändr"/>
+		<phrase i="400" t="1-&gt;Aa"/>
+		<phrase i="401" t="A-&gt;a1"/>
+		<phrase i="402" t="a-&gt;1A"/>
+		<phrase i="403" t="Visa namn" t.VVX_101_201="Visa namn"/>
+		<phrase i="404" t="Linjer"/>
+		<phrase i="405" t="Etikett"/>
+		<phrase i="406" t="Påbörja tangentloggning" t.VVX_101_201="Börja tang.loggn"/>
+		<phrase i="407" t="URL-samtal är inaktiverat" t.IP_330="URL-samtal är inakt."/>
+		<phrase i="408" t="Vänligen lyft telefonluren"/>
+		<phrase i="409" t="Lyssningsläge"/>
+		<phrase i="410" t="Parkera samtal"/>
+		<phrase i="411" t="Hämta" t.VVX_1500="Hämta" t.VVX_500="Hämta" t.VVX_101_201="Hämt"/>
+		<phrase i="412" t="Gruppsamtal"/>
+		<phrase i="413" t="Diriger." t.VVX_1500="Dirigerat" t.VVX_500="Dirigerat"/>
+		<phrase i="414" t="Hem"/>
+		<phrase i="415" t="Uppdatera" t.VVX_101_201="Uppd"/>
+		<phrase i="416" t="Senaste samtalsretur"/>
+		<phrase i="417" t="Åter föreg. samtal"/>
+		<phrase i="418" t="Funktioner"/>
+		<phrase i="419" t="Blind överföring"/>
+		<phrase i="420" t="Headset"/>
+		<phrase i="421" t="Agenttillgänglighet" t.VVX_101_201="Agenttillg"/>
+		<phrase i="422" t="ACD Logga in/Logga ut"/>
+		<phrase i="423" t="Logga in"/>
+		<phrase i="424" t="Logga ut"/>
+		<phrase i="425" t="Tillgänglig"/>
+		<phrase i="426" t="Ej tillgängl."/>
+		<phrase i="427" t="Användar-ID"/>
+		<phrase i="428" t="Lösenord"/>
+		<phrase i="429" t="Koppla upp" t.VVX_101_201="Kppl"/>
+		<phrase i="430" t="Blind överf. till"/>
+		<phrase i="431" t="Tillgängl." t.VVX_1500="Tillgänglig" t.VVX_500="Tillgänglig" t.VVX_101_201="Tlg"/>
+		<phrase i="432" t="Otillgängl." t.VVX_1500="Otillgänglig" t.VVX_500="Otillgänglig" t.VVX_101_201="Otlg"/>
+		<phrase i="433" t="SIP-konfiguration" t.VVX_101_201="SIP-konfig"/>
+		<phrase i="434" t="Adress"/>
+		<phrase i="435" t="Linjetyp"/>
+		<phrase i="436" t="Namn på tredje part" t.VVX_101_201="Tredje part"/>
+		<phrase i="437" t="Privat"/>
+		<phrase i="438" t="Delad"/>
+		<phrase i="439" t="Port"/>
+		<phrase i="440" t="Transport"/>
+		<phrase i="441" t="Registrera"/>
+		<phrase i="442" t="Utgående proxy" t.IP_330="Utg. proxy" t.VVX_1500="SIP utgående proxy" t.VVX_500="SIP utgående proxy" t.VVX_101_201="Utg. proxy"/>
+		<phrase i="443" t="Utgående port" t.IP_330="Utg. port"/>
+		<phrase i="444" t="RFC2543 Vänta" t.IP_330="RFC2543 Vänta"/>
+		<phrase i="445" t="Ja"/>
+		<phrase i="446" t="Nej"/>
+		<phrase i="447" t="Endast UDP"/>
+		<phrase i="448" t="TCP föredras"/>
+		<phrase i="449" t="Naptr"/>
+		<phrase i="450" t="Autent.anv-ID" t.VVX_1500="Användar-ID för autentisering" t.VVX_500="Användar-ID för autentisering"/>
+		<phrase i="451" t="Autent.lösenord" t.VVX_1500="Lösenord för autentisering" t.VVX_500="Lösenord för autentisering"/>
+		<phrase i="452" t="Starta om telefon"/>
+		<phrase i="453" t="Är du säker?"/>
+		<phrase i="454" t="VLAN-avkänning" t.IP_330="Läge för VLAN-avkänning" t.IP_5000="VLAN-avkänningsläge" t.VVX_1500="VLAN-avkänningsläge" t.VVX_500="VLAN-avkänningsläge" t.VVX_101_201="Avkänn."/>
+		<phrase i="455" t="Fast"/>
+		<phrase i="456" t="VLAN-ID-alt" t.VVX_1500="VLAN-ID-alternativ" t.VVX_500="VLAN-ID-alternativ" t.VVX_101_201="ID-altern."/>
+		<phrase i="457" t="Välj" t.VVX_101_201="Val"/>
+		<phrase i="458" t="Återställ lokal säkerhetsnyckel" t.VVX_101_201="Åts lkl säk.nyc"/>
+		<phrase i="459" t="Val av meddelande"/>
+		<phrase i="460" t="HTTP"/>
+		<phrase i="461" t="HTTPS"/>
+		<phrase i="462" t="FTPS"/>
+		<phrase i="463" t="Installera eget CA-cert" t.VVX_1500="Installera eget CA-certifikat" t.VVX_500="Installera eget CA-certifikat" t.VVX_101_201="Install. eget CA-cert"/>
+		<phrase i="464" t="Ladda ner eget CA-cert" t.VVX_1500="Ladda ner eget CA-certifikat" t.VVX_500="Ladda ner eget CA-certifikat" t.VVX_101_201="Ladda eget CA-cert"/>
+		<phrase i="465" t="Godkänn" t.VVX_101_201="Godk"/>
+		<phrase i="466" t="Konfigurera CA-cert" t.VVX_1500="Konfigurera CA-certifikat" t.VVX_500="Konfigurera CA-certifikat" t.VVX_101_201="Konfig CA-cert"/>
+		<phrase i="467" t="MD5-fingeravtryck"/>
+		<phrase i="468" t="Eget certifikat" t.VVX_101_201="Eget cert"/>
+		<phrase i="469" t="Standardcertifikatlista" t.VVX_1500="Standardcertifikatlista" t.VVX_500="Standardcertifikatlista"/>
+		<phrase i="470" t="Alla certifikat"/>
+		<phrase i="471" t="Konfigurationsmetod" t.VVX_1500="Konfigurationsmetod" t.VVX_500="Konfigurationsmetod"/>
+		<phrase i="472" t="Konfigurationssträng" t.VVX_1500="Konfigurationssträng" t.VVX_500="Konfigurationssträng"/>
+		<phrase i="473" t="Standard"/>
+		<phrase i="474" t="SAS-VP"/>
+		<phrase i="475" t="Nedladdning misslyckades"/>
+		<phrase i="476" t="Server"/>
+		<phrase i="477" t="Applikation"/>
+		<phrase i="478" t="Paketstatistik" t.VVX_101_201="Paketstat"/>
+		<phrase i="479" t="Regionala preferenser" t.VVX_101_201="Regionala pref"/>
+		<phrase i="480" t="Användarinställningar"/>
+		<phrase i="481" t="Admin.inställningar" t.VVX_1500="Administratörsinställningar" t.VVX_500="Administratörsinställningar" t.VVX_101_201="Admin.inställn."/>
+		<phrase i="482" t="Formatera filsystem"/>
+		<phrase i="483" t="TCP/IP-parametrar"/>
+		<phrase i="484" t="Plattform"/>
+		<phrase i="485" t="Nätverk"/>
+		<phrase i="486" t="Telefon"/>
+		<phrase i="487" t="Huvud"/>
+		<phrase i="488" t="Komponenter"/>
+		<phrase i="489" t="Upphovsrätt"/>
+		<phrase i="490" t="Konfiguration"/>
+		<phrase i="491" t="Ethernet"/>
+		<phrase i="492" t="Enkla"/>
+		<phrase i="493" t="Avancerat"/>
+		<phrase i="494" t="Preferenser"/>
+		<phrase i="495" t="Ljudeffekter"/>
+		<phrase i="496" t="TLS-säkerhet"/>
+		<phrase i="497" t="Återställ till standard"/>
+		<phrase i="498" t="Återställ lokal konfiguration" t.IP_330="Åters lokal konf" t.VVX_101_201="Återställ lokal konf"/>
+		<phrase i="499" t="Återställ enhetsinställningar" t.IP_330="Åters enh.inställn." t.VVX_101_201="Åters. enh.inställn."/>
+		<phrase i="500" t="Övergripande"/>
+		<phrase i="501" t="Testa hårdvara"/>
+		<phrase i="502" t="Diagram"/>
+		<phrase i="503" t="CA-certifikat"/>
+		<phrase i="504" t="Tid och datum"/>
+		<phrase i="505" t="TFTP"/>
+		<phrase i="506" t="OGILTIG"/>
+		<phrase i="507" t="Samtal per linjenyckel" t.IP_330="Samtal/LNyc"/>
+		<phrase i="508" t="Antal linjenycklar" t.IP_330="Antal linjenyckl."/>
+		<phrase i="509" t="Bredbandslur"/>
+		<phrase i="510" t="TLS"/>
+		<phrase i="511" t="Lägg till kompis"/>
+		<phrase i="512" t="Filöverföringsförsök"/>
+		<phrase i="513" t="Vänta innan nytt försök"/>
+		<phrase i="514" t="Tillåt" t.VVX_101_201="Tllt"/>
+		<phrase i="515" t="Privat"/>
+		<phrase i="516" t="Privat lista"/>
+		<phrase i="517" t="Privat kompis"/>
+		<phrase i="518" t="Lägg till privat"/>
+		<phrase i="519" t="Redigera privat"/>
+		<phrase i="520" t="Tillgång"/>
+		<phrase i="521" t="EM-ström"/>
+		<phrase i="522" t="Certifikat sparat"/>
+		<phrase i="523" t="Kunde inte spara certifikat" t.IP_330="Kan ej spara cert"/>
+		<phrase i="524" t="Behandlar begäran…"/>
+		<phrase i="525" t="&gt;&gt;"/>
+		<phrase i="526" t="CLink-läge"/>
+		<phrase i="527" t="Klient"/>
+		<phrase i="528" t="Ethernet-meny"/>
+		<phrase i="529" t="LAN-portläge"/>
+		<phrase i="530" t="Datorportläge"/>
+		<phrase i="531" t="Auto"/>
+		<phrase i="532" t="10 HD"/>
+		<phrase i="533" t="10 FD"/>
+		<phrase i="534" t="100 HD"/>
+		<phrase i="535" t="100 FD"/>
+		<phrase i="536" t="Video"/>
+		<phrase i="537" t="Telefon"/>
+		<phrase i="538" t="Luren av-läge"/>
+		<phrase i="539" t="Lägg till video"/>
+		<phrase i="540" t="Välj"/>
+		<phrase i="541" t="Bakgrundsljusstyrka"/>
+		<phrase i="542" t="Från"/>
+		<phrase i="543" t="Låg"/>
+		<phrase i="544" t="Medel"/>
+		<phrase i="545" t="Hög"/>
+		<phrase i="546" t="Samtal per linje"/>
+		<phrase i="547" t="Högtalarvolym"/>
+		<phrase i="548" t="Ringvolym"/>
+		<phrase i="549" t="Hantera" t.VVX_101_201="Hnt"/>
+		<phrase i="550" t="Hantera konferens" t.VVX_101_201="Hnt konf"/>
+		<phrase i="551" t="Ljud av"/>
+		<phrase i="552" t="Ljud på" t.VVX_101_201="Ljud"/>
+		<phrase i="553" t="Radera" t.VVX_101_201="Rad"/>
+		<phrase i="554" t="Medieflöde"/>
+		<phrase i="555" t="Deltagarinfo"/>
+		<phrase i="556" t="Bakgrundsljus på"/>
+		<phrase i="557" t="Bakgrundsljus viloläge"/>
+		<phrase i="558" t="2,5mm-läge"/>
+		<phrase i="559" t="Alla (std)"/>
+		<phrase i="560" t="Mobiltelefon"/>
+		<phrase i="561" t="PC Data-länk"/>
+		<phrase i="562" t="Videosamtal"/>
+		<phrase i="563" t="Tfnsamtal"/>
+		<phrase i="564" t="Endast SIP"/>
+		<phrase i="565" t="Endast POTS"/>
+		<phrase i="566" t="Auto (HDX samtalsinst)" t.VVX_101_201="Auto (HDX-samt.pref)"/>
+		<phrase i="567" t="Samtalstyp ordning"/>
+		<phrase i="568" t="Innehåll"/>
+		<phrase i="569" t="Uppringare"/>
+		<phrase i="570" t="Katalog" t.IP_330="Kat" t.IP_450="Kat" t.IP_5000="Kat" t.VVX_101_201="Kat"/>
+		<phrase i="571" t="Ignorera" t.VVX_101_201="Ignr"/>
+		<phrase i="572" t="Samtal fr:"/>
+		<phrase i="573" t="Volym"/>
+		<phrase i="574" t="Ring"/>
+		<phrase i="575" t="Handsfree"/>
+		<phrase i="576" t="Normal"/>
+		<phrase i="577" t="    &lt;Ny post&gt;"/>
+		<phrase i="578" t="Spara katalog"/>
+		<phrase i="579" t="Bekräftelse"/>
+		<phrase i="580" t="Tjänst ej tillg" t.IP_330="Tjänst ej tillg."/>
+		<phrase i="581" t="Stör ej"/>
+		<phrase i="582" t="Ansluter till"/>
+		<phrase i="583" t="Ink samtal:"/>
+		<phrase i="584" t="DSP-tillstånd"/>
+		<phrase i="585" t="Enh 0"/>
+		<phrase i="586" t="Enh 1"/>
+		<phrase i="587" t="Enh 2"/>
+		<phrase i="588" t="Medd" t.VVX_1500="Meddelanden" t.VVX_500="Meddelanden"/>
+		<phrase i="589" t="Lägg till tfn"/>
+		<phrase i="590" t="Ange fler siffror"/>
+		<phrase i="591" t="Ofullst. adress"/>
+		<phrase i="592" t="Serverstatus"/>
+		<phrase i="593" t="Registrerar"/>
+		<phrase i="594" t="Avregistrerar"/>
+		<phrase i="595" t="Registrera aldrig"/>
+		<phrase i="596" t="Ta bort katalogpost"/>
+		<phrase i="597" t="Konferens med annan"/>
+		<phrase i="598" t="Video- el tfnsamtal?"/>
+		<phrase i="599" t="Hittade ej post"/>
+		<phrase i="600" t="Genom efternamn"/>
+		<phrase i="601" t="Genom förnamn"/>
+		<phrase i="602" t="Nätverk"/>
+		<phrase i="603" t="Uppr" t.VVX_101_201="Ring"/>
+		<phrase i="604" t="Kabel/DSL"/>
+		<phrase i="605" t="LAN"/>
+		<phrase i="606" t="Konferens pågår"/>
+		<phrase i="607" t="Omöjligt"/>
+		<phrase i="608" t="Syslog-meny"/>
+		<phrase i="609" t="Funktion"/>
+		<phrase i="610" t="Renderingsnivå" t.VVX_101_201="Rend.niv"/>
+		<phrase i="611" t="UDP"/>
+		<phrase i="612" t="TCP"/>
+		<phrase i="613" t="Ingen"/>
+		<phrase i="614" t="Ange lösenord"/>
+		<phrase i="615" t="Diskant EQ"/>
+		<phrase i="616" t="Bas EQ"/>
+		<phrase i="617" t="Aux - ljud in"/>
+		<phrase i="618" t="Aux - ljud ut"/>
+		<phrase i="619" t="Auto. förstärkningskontr." t.VVX_101_201="Auto först.ktl"/>
+		<phrase i="620" t="Brusminskning" t.VVX_101_201="Brusminskn"/>
+		<phrase i="621" t="URL"/>
+		<phrase i="622" t="Sänd endast" t.VVX_101_201="Sänd"/>
+		<phrase i="623" t="Sänd och ta emot"/>
+		<phrase i="624" t="Endast ta emot"/>
+		<phrase i="625" t="Inaktiv"/>
+		<phrase i="626" t="Endast TCP"/>
+		<phrase i="627" t="Trådlös mikr"/>
+		<phrase i="628" t="Annan ing"/>
+		<phrase i="629" t="Insp. utg"/>
+		<phrase i="630" t="Extern högtalare"/>
+		<phrase i="631" t="Bas och diskant"/>
+		<phrase i="632" t="Aux ljud"/>
+		<phrase i="633" t="Lokala omvandlare" t.VVX_101_201="Lokal omv"/>
+		<phrase i="634" t="Ljud"/>
+		<phrase i="635" t="Val av lokala omvandlare" t.VVX_101_201="Val av lokal omv"/>
+		<phrase i="636" t="Mikrofon"/>
+		<phrase i="637" t="Högtalare"/>
+		<phrase i="638" t="Konferens" t.VVX_101_201="Konf"/>
+		<phrase i="639" t="MAC först"/>
+		<phrase i="640" t="Högtalarvolym" t.VVX_101_201="Högtalarvolym"/>
+		<phrase i="641" t="Volym för headset"/>
+		<phrase i="642" t="Volym för lur"/>
+		<phrase i="643" t="Ta samtal"/>
+		<phrase i="644" t="Flytta över samtal"/>
+		<phrase i="645" t="Snabbgrupp"/>
+		<phrase i="646" t="Tryck på valfri knapp för att avbryta testet"/>
+		<phrase i="647" t="Test avbrutet"/>
+		<phrase i="648" t="Serienr för UA"/>
+		<phrase i="649" t="1000HD"/>
+		<phrase i="650" t="1000FD"/>
+		<phrase i="651" t="Nätverksdiagnostik"/>
+		<phrase i="652" t="LAN-portdiagnostik"/>
+		<phrase i="653" t="PC-portdiagnostik"/>
+		<phrase i="654" t="Gigabit Ethernetdiagnostik"/>
+		<phrase i="655" t="Normalt läge"/>
+		<phrase i="656" t="Överförd vågform" t.VVX_101_201="Övf vågform"/>
+		<phrase i="657" t="Master överf. störningar"/>
+		<phrase i="658" t="Slave överförda störningar"/>
+		<phrase i="659" t="Överförd förvrängning" t.VVX_101_201="Övf förvrängn"/>
+		<phrase i="660" t="Aktiv mic-indikator"/>
+		<phrase i="661" t="Mobilt ljud inaktiverat"/>
+		<phrase i="662" t="Mobilt ljud aktiverat"/>
+		<phrase i="663" t="Ljudsamtal"/>
+		<phrase i="664" t="Videosamtal"/>
+		<phrase i="665" t="Audio-/videosamtal"/>
+		<phrase i="666" t="Alla samtal"/>
+		<phrase i="667" t="Välj vidarekopplingstyp"/>
+		<phrase i="668" t="Alltid"/>
+		<phrase i="669" t="Ej svar"/>
+		<phrase i="670" t="Vidarekoppla efter signaler" t.IP_330="Vidarek. efter signaler" t.VVX_101_201="Vidarek. efter signaler"/>
+		<phrase i="671" t="Vidarekoppla vid ej svar" t.VVX_101_201="Vidarek ej svar"/>
+		<phrase i="672" t="Vidarekoppla vid upptaget" t.VVX_101_201="Vidk upptag"/>
+		<phrase i="673" t="Vidarekoppla alltid" t.VVX_101_201="Vidarek alltid"/>
+		<phrase i="674" t="VLAN-filtrering"/>
+		<phrase i="675" t="Storm-filtrering"/>
+		<phrase i="676" t="SIP webbinnehåll"/>
+		<phrase i="677" t="Passiv"/>
+		<phrase i="678" t="Seriekopplingsfel:"/>
+		<phrase i="679" t="Flera Ethernet-kablar"/>
+		<phrase i="680" t="Anslut bara en Ethernet-kabel"/>
+		<phrase i="681" t="Versionskonflikt"/>
+		<phrase i="682" t="Kontakta systemadministratören"/>
+		<phrase i="683" t="Visa kontakt"/>
+		<phrase i="684" t="Visa"/>
+		<phrase i="685" t="Maximal ljusstyrka" t.VVX_101_201="Maxstyrka"/>
+		<phrase i="686" t="Testautom."/>
+		<phrase i="687" t="Nyckel för testautom." t.VVX_101_201="TA-nyckel"/>
+		<phrase i="688" t="Testautomatisering aktiverad" t.VVX_101_201="Testautom akt"/>
+		<phrase i="689" t="Testautomatisering inaktiverad" t.VVX_101_201="Testautom inak"/>
+		<phrase i="690" t="Lagringsmedia anslöts"/>
+		<phrase i="691" t="Lagringsmedia borttaget"/>
+		<phrase i="692" t="Avlägsningsbart lagringsmedia" t.VVX_101_201="Brtbrt lagrmed"/>
+		<phrase i="693" t="Bläddra bland inspelningar" t.VVX_101_201="Sök inspelning"/>
+		<phrase i="694" t="Egenskaper för lagringsmedia" t.VVX_101_201="Lagr.media egskp"/>
+		<phrase i="695" t="Totalt"/>
+		<phrase i="696" t="Använt"/>
+		<phrase i="697" t="Ledigt"/>
+		<phrase i="698" t="Inget lagringsmedia anslutet"/>
+		<phrase i="699" t="Inget aktivt samtal pågår"/>
+		<phrase i="700" t="Spela upp senast inspelade"/>
+		<phrase i="701" t="Starta"/>
+		<phrase i="702" t="Pausa"/>
+		<phrase i="703" t="Döp om" t.VVX_101_201="ByNm"/>
+		<phrase i="704" t="Borttagen"/>
+		<phrase i="705" t="Filinfo"/>
+		<phrase i="706" t="Hittade inga WAV-filer"/>
+		<phrase i="707" t="USB-filnamn"/>
+		<phrase i="708" t="Döp om fil"/>
+		<phrase i="709" t="Filnamn kan inte vara tomma"/>
+		<phrase i="710" t="Filen finns redan"/>
+		<phrase i="711" t="Spara som"/>
+		<phrase i="712" t="Specialtecken ej tillåtna"/>
+		<phrase i="713" t="Kunde inte starta inspelningen"/>
+		<phrase i="714" t="Resursen ej tillgänglig"/>
+		<phrase i="715" t="Spela upp igen" t.VVX_101_201="SpIg"/>
+		<phrase i="716" t="Lagringsmedia är fullt."/>
+		<phrase i="717" t="Inspelning avbruten."/>
+		<phrase i="718" t="Inspelning stoppad."/>
+		<phrase i="719" t="Tysta samtal från distans" t.VVX_101_201="TysDi"/>
+		<phrase i="720" t="Öppna"/>
+		<phrase i="721" t="Lagringsmedia borttaget på ett osäkert sätt"/>
+		<phrase i="722" t="Pausad"/>
+		<phrase i="723" t="Slutförd"/>
+		<phrase i="724" t="*R*" t.VVX_1500="R" t.VVX_500="R"/>
+		<phrase i="725" t="*P*" t.VVX_1500="P" t.VVX_500="P"/>
+		<phrase i="726" t="h"/>
+		<phrase i="727" t="min"/>
+		<phrase i="728" t="sek"/>
+		<phrase i="729" t="Full"/>
+		<phrase i="730" t="Företagskatalog" t.IP_330="För.kat." t.VVX_101_201="Företagskat"/>
+		<phrase i="731" t="Företagskatalog" t.VVX_101_201="Företagskat"/>
+		<phrase i="732" t="Servern ej initierad" t.IP_330="Servern ej init" t.IP_5000="Servern ej init"/>
+		<phrase i="733" t="CD-status"/>
+		<phrase i="734" t="Vylagring"/>
+		<phrase i="735" t="Handsfreeläget inaktiverat" t.IP_330="Handsfree inakt."/>
+		<phrase i="736" t="Handsfreeinställningar" t.VVX_101_201="Handsfreeläge"/>
+		<phrase i="737" t="Handsfreeläge"/>
+		<phrase i="738" t="USB-enhet som ej stöds har anslutits"/>
+		<phrase i="739" t="USB-enhet som ej stöds har tagits bort"/>
+		<phrase i="740" t="Headset anslöts"/>
+		<phrase i="741" t="Headset borttaget"/>
+		<phrase i="742" t="Headset"/>
+		<phrase i="743" t="Inställningar för headset"/>
+		<phrase i="744" t="Analogt headsetläge"/>
+		<phrase i="745" t="Analogt headset"/>
+		<phrase i="746" t="Vanligt läge"/>
+		<phrase i="747" t="Jabra DHSG"/>
+		<phrase i="748" t="Wav-filformat som inte stöds" t.VVX_1500="WAV-filformat som ej stöds" t.VVX_500="WAV-filformat som ej stöds"/>
+		<phrase i="749" t="Bryt in" t.IP_330="Bryt in" t.VVX_101_201="BrIn"/>
+		<phrase i="750" t="Inspelning pågår"/>
+		<phrase i="751" t="Åtgärd avbruten"/>
+		<phrase i="752" t="Filtrerad"/>
+		<phrase i="753" t="Uppspelningen avbruten"/>
+		<phrase i="754" t="Fil används"/>
+		<phrase i="755" t="Bakgrund"/>
+		<phrase i="756" t="Förhandsgranska" t.VVX_101_201="Fhgr"/>
+		<phrase i="757" t="Tistel"/>
+		<phrase i="758" t="Enheten ej klar. Försök igen."/>
+		<phrase i="759" t="Abstrakt"/>
+		<phrase i="760" t="Ormbunke"/>
+		<phrase i="761" t="Regndroppe"/>
+		<phrase i="762" t="Det gick inte att hitta filen" t.VVX_1500="Vald bakgrundsbild är inte tillgänglig" t.VVX_500="Vald bakgrundsbild är inte tillgänglig"/>
+		<phrase i="763" t="Gör ljusare"/>
+		<phrase i="764" t="Gör mörkare"/>
+		<phrase i="765" t="Åtgärden tillåts inte"/>
+		<phrase i="766" t="Borttagning pågår."/>
+		<phrase i="767" t="Otillräckligt minne för att fortsätta."/>
+		<phrase i="768" t="Tillgänglig inspelningstid"/>
+		<phrase i="769" t="Enhets-ID"/>
+		<phrase i="770" t="Servern svarar inte" t.VVX_1500="Katalogservern svarar inte" t.VVX_500="Katalogservern svarar inte"/>
+		<phrase i="771" t="Söker…"/>
+		<phrase i="772" t="Etikettfärg"/>
+		<phrase i="773" t="Etikett"/>
+		<phrase i="774" t="Återställ"/>
+		<phrase i="775" t="Ångra"/>
+		<phrase i="776" t="Hittade inga poster"/>
+		<phrase i="777" t="Kontrollerar USB-enhet."/>
+		<phrase i="778" t="Vänta i en minut …"/>
+		<phrase i="779" t="Kan inte spara denna färg."/>
+		<phrase i="780" t="Texten kan vara oläslig."/>
+		<phrase i="781" t="Startar om telefonen"/>
+		<phrase i="782" t="Starta om telefon"/>
+		<phrase i="783" t="Löv"/>
+		<phrase i="784" t="Snabbvalsindex är ogiltigt." t.IP_330="Ogiltigt snabbvalsindex."/>
+		<phrase i="785" t="Starta video"/>
+		<phrase i="786" t="Stoppa video"/>
+		<phrase i="787" t="Helskärm" t.VVX_101_201="Hskm"/>
+		<phrase i="788" t="PIP"/>
+		<phrase i="789" t="Hämta"/>
+		<phrase i="790" t="Höj volym"/>
+		<phrase i="791" t="Sänk volym"/>
+		<phrase i="792" t="Kontakt måste ha ett värde." t.IP_330="Kontakt krävs."/>
+		<phrase i="793" t="Kontaktvärdet finns redan." t.IP_330="Duplicerat kontaktvärde."/>
+		<phrase i="794" t="Ange namn"/>
+		<phrase i="795" t="Växla"/>
+		<phrase i="796" t="Plantronics-läge"/>
+		<phrase i="797" t="Snabbvalsindex finns redan." t.IP_330="Duplicerat snabbval."/>
+		<phrase i="798" t="Lokal kamera"/>
+		<phrase i="799" t="Samtal för uppsyningsman"/>
+		<phrase i="800" t="Fotoram"/>
+		<phrase i="801" t="Kamerainställningar"/>
+		<phrase i="802" t="abc"/>
+		<phrase i="803" t="123"/>
+		<phrase i="804" t="(abc) Ange nummer"/>
+		<phrase i="805" t="(123) Ange nummer"/>
+		<phrase i="806" t="Ogiltig konfig" t.VVX_1500="Ogiltig konfiguration" t.VVX_500="Ogiltig konfiguration"/>
+		<phrase i="807" t="Inloggningsfel"/>
+		<phrase i="808" t="Överför"/>
+		<phrase i="809" t="Målhastighet för bildruta" t.VVX_101_201="Bildhastighet"/>
+		<phrase i="810" t="Ljusstyrkenivå"/>
+		<phrase i="811" t="Mättnadsnivå"/>
+		<phrase i="812" t="Kontrastnivå"/>
+		<phrase i="813" t="Skärpenivå"/>
+		<phrase i="814" t="Undvik flimmer" t.VVX_101_201="Undvik flimmer"/>
+		<phrase i="815" t="Meny"/>
+		<phrase i="816" t="Videoinställningar"/>
+		<phrase i="817" t="Autostart av videosändning"/>
+		<phrase i="818" t="Videoskärmläge (fönster)"/>
+		<phrase i="819" t="Master"/>
+		<phrase i="820" t="Slave"/>
+		<phrase i="821" t="1000BT LAN-klocka"/>
+		<phrase i="822" t="1000BT PC-klocka"/>
+		<phrase i="823" t="Samtalstyp"/>
+		<phrase i="824" t="Audio" t.VVX_101_201="Ljud"/>
+		<phrase i="825" t="Video" t.VVX_101_201="Vid"/>
+		<phrase i="826" t="Konferenstelefonens SIP" t.VVX_101_201="Konf.tel-SIP"/>
+		<phrase i="827" t="HDX-inställning"/>
+		<phrase i="828" t="Typ av röstsamtal"/>
+		<phrase i="829" t="Ekoborttagning"/>
+		<phrase i="830" t="Ekoborttagningsläge" t.VVX_101_201="Ekoborttagn.läge"/>
+		<phrase i="831" t="Gå till"/>
+		<phrase i="832" t="Videoskärmläge (helskärm)"/>
+		<phrase i="833" t="Fotoram"/>
+		<phrase i="834" t="Skärmsläckare"/>
+		<phrase i="835" t="Mapp"/>
+		<phrase i="836" t="Tid per bild (sek)" t.VVX_101_201="Tid per bild (sek)"/>
+		<phrase i="837" t="Väntetid till start (min)"/>
+		<phrase i="838" t="Typ av skärmsläckare" t.VVX_101_201="Skärmsläck.typ"/>
+		<phrase i="839" t="Inga bilder hittades."/>
+		<phrase i="840" t="**-**"/>
+		<phrase i="841" t="Videosändn/-mottagn"/>
+		<phrase i="842" t="Ljudsändn/-mottagn"/>
+		<phrase i="843" t="Mediacodec"/>
+		<phrase i="844" t="Tx/Rx-videoformat" t.VVX_101_201="Tx/Rx-vid.format"/>
+		<phrase i="845" t="Tx/Rx-bildhastighet" t.VVX_101_201="Tx/Rx-bildhg"/>
+		<phrase i="846" t="Tx/Rx-bithastighet (kbps)" t.VVX_101_201="Tx/Rx-vid (kbps)"/>
+		<phrase i="847" t="Tx/Rx-videouppd.begäran" t.VVX_101_201="Tx/Rx-vid.uppd"/>
+		<phrase i="848" t="Mediapaket"/>
+		<phrase i="849" t="USB-hubb anslöts"/>
+		<phrase i="850" t="USB-hubb borttagen"/>
+		<phrase i="851" t="USB-mus anslöts"/>
+		<phrase i="852" t="USB-mus borttagen"/>
+		<phrase i="853" t="USB-tangentbord anslöts"/>
+		<phrase i="854" t="USB-tangentbord borttaget"/>
+		<phrase i="855" t="Videokapabel"/>
+		<phrase i="856" t="Aktiv video"/>
+		<phrase i="857" t="Videostatistik"/>
+		<phrase i="858" t="Audiostatistik"/>
+		<phrase i="859" t="Skärmrengöring"/>
+		<phrase i="860" t="Pekskärm inaktiveras"/>
+		<phrase i="861" t="Tryck på valfri knapp för att avbryta" t.CX_5500="Tryck på tystknappen för att avsluta."/>
+		<phrase i="862" t="Lokal fil"/>
+		<phrase i="863" t="Startplatta"/>
+		<phrase i="864" t="Audiosändn.codec"/>
+		<phrase i="865" t="Audiomott.codec"/>
+		<phrase i="866" t="Videosändn.codec"/>
+		<phrase i="867" t="Videomottagn.codec"/>
+		<phrase i="868" t="Tom skärm" t.VVX_101_201="TmSk"/>
+		<phrase i="869" t="Auto helskärmvideo" t.VVX_101_201="Auto helsk.vid"/>
+		<phrase i="870" t="Välj video" t.VVX_101_201="VVid"/>
+		<phrase i="871" t="Snabbinst." t.VVX_101_201="SIns"/>
+		<phrase i="872" t="Snabbinställning"/>
+		<phrase i="873" t="Bakgrundsfilformatet stöds ej"/>
+		<phrase i="874" t="Ta bort telefonen från nätverket"/>
+		<phrase i="875" t="före du kör Ethernet-diagnostik"/>
+		<phrase i="876" t="Tryck på [0-4] för nätverkstest."/>
+		<phrase i="877" t="Läge: Normalt läge"/>
+		<phrase i="878" t="Läget stöds inte."/>
+		<phrase i="879" t="Extra uttag aktivt"/>
+		<phrase i="880" t="Extra uttag inaktivt"/>
+		<phrase i="881" t="ACD"/>
+		<phrase i="882" t="Logga in" t.VVX_101_201="LgIn"/>
+		<phrase i="883" t="Logga ut" t.VVX_101_201="LgUt"/>
+		<phrase i="884" t="Agentinloggning" t.VVX_101_201="AInlg"/>
+		<phrase i="885" t="Agentutloggning" t.VVX_101_201="AUtl"/>
+		<phrase i="886" t="ACD inloggning/utloggning" t.VVX_101_201="ACD-inlg/utlg"/>
+		<phrase i="887" t="ACD Agenttillstånd"/>
+		<phrase i="888" t="Första ACD-tillstånd" t.VVX_101_201="Ini ACD-tills"/>
+		<phrase i="889" t="Agentinloggning"/>
+		<phrase i="890" t="Agentutloggning"/>
+		<phrase i="891" t="Slutför"/>
+		<phrase i="892" t="Agenttillstånd"/>
+		<phrase i="893" t="Ingen server konfigurerad"/>
+		<phrase i="894" t="Paketstörningar (ms)" t.VVX_101_201="Paketstörn."/>
+		<phrase i="895" t="Maximal störning (ms)" t.VVX_101_201="Max störn"/>
+		<phrase i="896" t="HDX-tillägg"/>
+		<phrase i="897" t="Ange HDX-tillägg:"/>
+		<phrase i="898" t="50 Hz-miljö"/>
+		<phrase i="899" t="60 Hz-miljö"/>
+		<phrase i="900" t="Välj miljö"/>
+		<phrase i="901" t="Inställningar för videosamtal" t.VVX_101_201="Videosamtalinst"/>
+		<phrase i="902" t="Videoskärmläge" t.VVX_101_201="Videoskärmläge"/>
+		<phrase i="903" t="Lokal kameravy"/>
+		<phrase i="904" t="Lokal kameravy (normal)"/>
+		<phrase i="905" t="Lokal kameravy (helskärm)"/>
+		<phrase i="906" t="Lokal kameravy-läge (helskärm)"/>
+		<phrase i="907" t="Beskär"/>
+		<phrase i="908" t="Sida vid sida"/>
+		<phrase i="909" t="Video endast aktivt med en part åt gången."/>
+		<phrase i="910" t="Strömsparande"/>
+		<phrase i="911" t="Timeouts"/>
+		<phrase i="912" t="Arbetstid"/>
+		<phrase i="913" t="Användaravkänning"/>
+		<phrase i="914" t="Starttid"/>
+		<phrase i="915" t="Timeout vid overksam arbetstid" t.VVX_101_201="Overks arb.tid"/>
+		<phrase i="916" t="Timeout vid overksam annan tid" t.VVX_101_201="Ov. ann. tid"/>
+		<phrase i="917" t="Timeout vid overksam användarinmatning" t.VVX_101_201="Anv.inm."/>
+		<phrase i="918" t="Arbetstidssensitivitet" t.VVX_101_201="Arb.tidssens"/>
+		<phrase i="919" t="Sensitivitet för annan tid" t.VVX_101_201="Sens ann tid"/>
+		<phrase i="920" t="Läge för annan tid"/>
+		<phrase i="921" t="Ange fler tecken…" t.VVX_1500="För många resultat erhölls. Ange fler tecken." t.VVX_500="För många resultat erhölls. Ange fler tecken."/>
+		<phrase i="922" t="Avanc. sökn" t.VVX_101_201="AvSö"/>
+		<phrase i="923" t="Avancerad sökning" t.VVX_101_201="Avc"/>
+		<phrase i="924" t="Avsluta hela konferenssamtalet?"/>
+		<phrase i="925" t="PTT-kanallista" t.VVX_101_201="PTT-kan.lista"/>
+		<phrase i="926" t="Batterinivå låg"/>
+		<phrase i="927" t="Inkommande PTT"/>
+		<phrase i="928" t="Kör platsundersökning"/>
+		<phrase i="929" t="Välj ett SSID"/>
+		<phrase i="930" t="Välj kanaler"/>
+		<phrase i="931" t="Sammanfattning"/>
+		<phrase i="932" t="Detalj"/>
+		<phrase i="933" t="MittID"/>
+		<phrase i="934" t="Alla"/>
+		<phrase i="935" t="Användarprofiler"/>
+		<phrase i="936" t="Tyst"/>
+		<phrase i="937" t="Möte"/>
+		<phrase i="938" t="Högtalartelefon"/>
+		<phrase i="939" t="Ställ in som aktiv"/>
+		<phrase i="940" t="Ringsignalinställningar"/>
+		<phrase i="941" t="Textmeddelanden"/>
+		<phrase i="942" t="PTT"/>
+		<phrase i="943" t="Varningar"/>
+		<phrase i="944" t="Båda sammanhang"/>
+		<phrase i="945" t="Sammanhang med luren på"/>
+		<phrase i="946" t="Sammanhang med luren av"/>
+		<phrase i="947" t="Telefonringsignal"/>
+		<phrase i="948" t="Meddelandevarning 1"/>
+		<phrase i="949" t="Meddelandevarning 2"/>
+		<phrase i="950" t="Varningston"/>
+		<phrase i="951" t="Varningsvolym"/>
+		<phrase i="952" t="Vibration"/>
+		<phrase i="953" t="Pop-up"/>
+		<phrase i="954" t="Lysdiodblixt"/>
+		<phrase i="955" t="PBX"/>
+		<phrase i="956" t="Kontinuerlig"/>
+		<phrase i="957" t="Kort pulsering"/>
+		<phrase i="958" t="Lång pulsering"/>
+		<phrase i="959" t="Prioritera bakgrund" t.VVX_101_201="Prio bakgrund"/>
+		<phrase i="960" t="Välj bakgrund" t.VVX_101_201="Välj bakgr"/>
+		<phrase i="961" t="Bakgrund"/>
+		<phrase i="962" t="Linjekonfiguration"/>
+		<phrase i="963" t="Konfigurering av SIP-server" t.IP_330="Konfigurering av SIP-server" t.VVX_1500="Konfigurering av samtalsserver" t.VVX_500="Konfigurering av samtalsserver" t.VVX_101_201="Konf. samtalssrv"/>
+		<phrase i="964" t="OAI-varning"/>
+		<phrase i="965" t="OAI-samtal"/>
+		<phrase i="966" t="LLDP"/>
+		<phrase i="967" t="Platsinformation" t.VVX_101_201="Platsinfo"/>
+		<phrase i="968" t="Skärmdump"/>
+		<phrase i="969" t="SK1"/>
+		<phrase i="970" t="SK2"/>
+		<phrase i="971" t="SK3"/>
+		<phrase i="972" t="SK4"/>
+		<phrase i="973" t="USB-lager: %s kvar"/>
+		<phrase i="974" t="Installerad"/>
+		<phrase i="975" t="Inte installerad"/>
+		<phrase i="976" t="Ogiltig"/>
+		<phrase i="977" t="Inloggning på ACD-linje krävs"/>
+		<phrase i="978" t="Samt.hastig."/>
+		<phrase i="979" t="Välj samt.hastig."/>
+		<phrase i="980" t="Tx/Rx-samtalshastighet (kbps)" t.VVX_101_201="Tx/Rx-SH (kbps)"/>
+		<phrase i="981" t="USB-lager: fullt"/>
+		<phrase i="982" t="Protokollkonfiguration" t.VVX_101_201="Protokollkonfig"/>
+		<phrase i="983" t="Välj protokoll"/>
+		<phrase i="984" t="Protokolltyp"/>
+		<phrase i="985" t="SIP"/>
+		<phrase i="986" t="H.323"/>
+		<phrase i="987" t="SIP + H.323"/>
+		<phrase i="988" t="Auto Gatekeeper-avkänning" t.VVX_101_201="Auto GK-avkänn"/>
+		<phrase i="989" t="Användar-ID"/>
+		<phrase i="990" t="Linjenycklar"/>
+		<phrase i="991" t="Samtalsserver"/>
+		<phrase i="992" t="Samtalsserverlista tom"/>
+		<phrase i="993" t="Ringsignal"/>
+		<phrase i="994" t="Spelar in"/>
+		<phrase i="995" t="Inspelning pausad"/>
+		<phrase i="996" t="Licenser"/>
+		<phrase i="997" t="Inga licenser installerade"/>
+		<phrase i="998" t="Diffie-Hellman Secret Key" t.VVX_101_201="DH Secret Key"/>
+		<phrase i="999" t="Länk som inte stöds"/>
+		<phrase i="1000" t="Secure Shell"/>
+		<phrase i="1001" t="SSH-anslutning"/>
+		<phrase i="1002" t="SSH-status"/>
+		<phrase i="1003" t="Gatewayport"/>
+		<phrase i="1004" t="Ansluten"/>
+		<phrase i="1005" t="Felkod"/>
+		<phrase i="1006" t="Använd H.323"/>
+		<phrase i="1007" t="Använd SIP"/>
+		<phrase i="1008" t="Använd Auto"/>
+		<phrase i="1009" t="(SIP-växling)"/>
+		<phrase i="1010" t="(H.323-växl.)"/>
+		<phrase i="1011" t="(autoväxling)"/>
+		<phrase i="1012" t="Välj Använd SIP eller Använd H.323"/>
+		<phrase i="1013" t="Ospecifierat"/>
+		<phrase i="1014" t="Apps fortsätter"/>
+		<phrase i="1015" t="Apps startsida"/>
+		<phrase i="1016" t="Spelar in (parkera)"/>
+		<phrase i="1017" t="Protokollväxling"/>
+		<phrase i="1018" t="Manuell protokollväxling" t.VVX_101_201="Man prot.växling"/>
+		<phrase i="1019" t="Kontroll av programmerbar tangent"/>
+		<phrase i="1020" t="Protokoll som föredras" t.VVX_101_201="Önskat prot"/>
+		<phrase i="1021" t="Autosvar"/>
+		<phrase i="1022" t="Autosvar SIP-samtal" t.VVX_101_201="Autosvar SIP-sam"/>
+		<phrase i="1023" t="Autosvar H.323-samtal" t.VVX_101_201="AutosvarH323samt"/>
+		<phrase i="1024" t="Mikrofonen tystad"/>
+		<phrase i="1025" t="Video tystad"/>
+		<phrase i="1026" t="Autoväxlingspreferens" t.VVX_101_201="Autoväxlingpref"/>
+		<phrase i="1027" t="Protokoll"/>
+		<phrase i="1028" t="SIP-protokoll"/>
+		<phrase i="1029" t="H.323-protokoll"/>
+		<phrase i="1030" t="Tillåt delning med " t.VVX_101_201="Tillåt delning"/>
+		<phrase i="1031" t="Hörbar ringsignal"/>
+		<phrase i="1032" t="Alternativ 60-format" t.VVX_101_201="Opt60-f"/>
+		<phrase i="1033" t="RFC3925-binär"/>
+		<phrase i="1034" t="ASCII-sträng"/>
+		<phrase i="1035" t="WLAN-inställningar"/>
+		<phrase i="1036" t="Profil"/>
+		<phrase i="1037" t="Profil 1"/>
+		<phrase i="1038" t="Profil 2"/>
+		<phrase i="1039" t="Profil 3"/>
+		<phrase i="1040" t="Profil 4"/>
+		<phrase i="1041" t="Profilnamn"/>
+		<phrase i="1042" t="Visa"/>
+		<phrase i="1043" t="WLAN"/>
+		<phrase i="1044" t="**-**"/>
+		<phrase i="1045" t="SSID"/>
+		<phrase i="1046" t="Säkerhet"/>
+		<phrase i="1047" t="QoS"/>
+		<phrase i="1048" t="Ingen"/>
+		<phrase i="1049" t="WEP"/>
+		<phrase i="1050" t="WPA-PSK"/>
+		<phrase i="1051" t="WPA2-PSK"/>
+		<phrase i="1052" t="Cisco FSR"/>
+		<phrase i="1053" t="WPA2-Enterprise"/>
+		<phrase i="1054" t="Diagnostikkanal" t.VVX_101_201="Diagnostikkanal"/>
+		<phrase i="1055" t="QoS-läge"/>
+		<phrase i="1056" t="Enkel"/>
+		<phrase i="1057" t="Förbättrad"/>
+		<phrase i="1058" t="WMM+PS+AC"/>
+		<phrase i="1059" t="DSCP-taggar"/>
+		<phrase i="1060" t="Röst"/>
+		<phrase i="1061" t="Kontroll"/>
+		<phrase i="1062" t="Annat"/>
+		<phrase i="1063" t="Delad tangent"/>
+		<phrase i="1064" t="Öppet system"/>
+		<phrase i="1065" t="Standardtangent"/>
+		<phrase i="1066" t="Tangentlängd"/>
+		<phrase i="1067" t="Aut."/>
+		<phrase i="1068" t="Tangenter"/>
+		<phrase i="1069" t="Tangent"/>
+		<phrase i="1070" t="WiFi-statistik"/>
+		<phrase i="1071" t="Föregående"/>
+		<phrase i="1072" t="Nästa"/>
+		<phrase i="1073" t="Okänd"/>
+		<phrase i="1074" t="Svag"/>
+		<phrase i="1075" t="Hastighet"/>
+		<phrase i="1076" t="Full"/>
+		<phrase i="1077" t="AthT"/>
+		<phrase i="1078" t="AscT"/>
+		<phrase i="1079" t="AthF"/>
+		<phrase i="1080" t="AscF"/>
+		<phrase i="1081" t="AscT"/>
+		<phrase i="1082" t="SecF"/>
+		<phrase i="1083" t="Cnfg"/>
+		<phrase i="1084" t="CCX"/>
+		<phrase i="1085" t="CCKM"/>
+		<phrase i="1086" t="WMM"/>
+		<phrase i="1087" t="Spara WLAN-inställningar"/>
+		<phrase i="1088" t="Sändningskraft"/>
+		<phrase i="1089" t="Radioinställningar"/>
+		<phrase i="1090" t="a-Band"/>
+		<phrase i="1091" t="b/g-Band"/>
+		<phrase i="1092" t="g only"/>
+		<phrase i="1093" t="b or b/g mixed"/>
+		<phrase i="1094" t="Landskod" t.VVX_101_201="Landskod"/>
+		<phrase i="1095" t="US"/>
+		<phrase i="1096" t="ETSI"/>
+		<phrase i="1097" t="Japan"/>
+		<phrase i="1098" t="Singapore"/>
+		<phrase i="1099" t="Korea"/>
+		<phrase i="1100" t="Taiwan"/>
+		<phrase i="1101" t="Hongkong"/>
+		<phrase i="1102" t="Mexiko"/>
+		<phrase i="1103" t="Tangenter inte sparade"/>
+		<phrase i="1104" t="Lösenfras"/>
+		<phrase i="1105" t="Förhandsdelad tangent"/>
+		<phrase i="1106" t="Användarnamn"/>
+		<phrase i="1107" t="Snabb överlämning"/>
+		<phrase i="1108" t="Ta bort PAC/cert"/>
+		<phrase i="1109" t="Obligatoriskt"/>
+		<phrase i="1110" t="Valfri"/>
+		<phrase i="1111" t="Åtkomstkontr."/>
+		<phrase i="1112" t="Akt/inakt."/>
+		<phrase i="1113" t="Meddelandeprofiler" t.VVX_101_201="Medd.profiler"/>
+		<phrase i="1114" t="Tryck för att prata"/>
+		<phrase i="1115" t="Abonnerade kanaler" t.VVX_101_201="Abonn. kanaler"/>
+		<phrase i="1116" t="Tillåtna kanaler"/>
+		<phrase i="1117" t="Spara och starta om"/>
+		<phrase i="1118" t="PSTN-konfiguration" t.VVX_101_201="PSTN-konfig"/>
+		<phrase i="1119" t="2,5 mm-läge"/>
+		<phrase i="1120" t="Mobiltelefonsljud" t.VVX_101_201="Mobilljud"/>
+		<phrase i="1121" t="Datorljud"/>
+		<phrase i="1122" t="Prompt"/>
+		<phrase i="1123" t="Funktionsläge"/>
+		<phrase i="1124" t="PSTN"/>
+		<phrase i="1125" t="Bevarat meddelande"/>
+		<phrase i="1126" t="Mycket låg batterinivå"/>
+		<phrase i="1127" t="Pekskärmsdiagnostik" t.VVX_101_201="Pekskärmdiagn"/>
+		<phrase i="1128" t="**-**"/>
+		<phrase i="1129" t="Peka på displayen för att testa."/>
+		<phrase i="1130" t="CMA-katalog"/>
+		<phrase i="1131" t="Grupper"/>
+		<phrase i="1132" t="Lägg till kontakt"/>
+		<phrase i="1133" t="CMA-meny"/>
+		<phrase i="1134" t="CMA-läge"/>
+		<phrase i="1135" t="CMA-server"/>
+		<phrase i="1136" t="Inloggningsuppgifter"/>
+		<phrase i="1137" t="Användare"/>
+		<phrase i="1138" t="Giltig t.o.m."/>
+		<phrase i="1139" t="Utgått"/>
+		<phrase i="1140" t="Återställ webbkonfiguration" t.IP_330="Återst. webbkonfig" t.VVX_101_201="Återst webbkonf"/>
+		<phrase i="1141"/>
+		<phrase i="1142"/>
+		<phrase i="1143"/>
+		<phrase i="1144"/>
+		<phrase i="1145"/>
+		<phrase i="1146"/>
+		<phrase i="1147" t="Lås telefon"/>
+		<phrase i="1148" t="Lås"/>
+		<phrase i="1149" t="Lås upp" t.VVX_101_201="LåsUp"/>
+		<phrase i="1150" t="Telefonen är låst."/>
+		<phrase i="1151" t="Endast auktoriserade samtal."/>
+		<phrase i="1152" t="DND när låst"/>
+		<phrase i="1153" t="Tillåt ringning när låst" t.IP_330="Tillåt ringning"/>
+		<phrase i="1154" t="Lås upp telefon?"/>
+		<phrase i="1155" t="Besvara samtalet?"/>
+		<phrase i="1156" t="Ring ett auktoriserat samtal"/>
+		<phrase i="1157" t="Obehörigt nummer."/>
+		<phrase i="1158" t="Telefonnummer"/>
+		<phrase i="1159" t="SIP-adress"/>
+		<phrase i="1160" t="Avstängning initierad"/>
+		<phrase i="1161" t="Ringning med luren på"/>
+		<phrase i="1162" t="Läge för ringning med luren på"/>
+		<phrase i="1163" t="Ljudläge"/>
+		<phrase i="1164" t="Land"/>
+		<phrase i="1165" t="Kontakten stöder inte närvaro. Spara till lokal kontaktkatalog?"/>
+		<phrase i="1166" t="Flashtiming"/>
+		<phrase i="1167" t="Nummerpresentation"/>
+		<phrase i="1168" t="80"/>
+		<phrase i="1169" t="100"/>
+		<phrase i="1170" t="300"/>
+		<phrase i="1171" t="600"/>
+		<phrase i="1172" t="Borttagen"/>
+		<phrase i="1173" t="Samtalslogg"/>
+		<phrase i="1174" t="Det går inte att låsa telefonen."/>
+		<phrase i="1175" t="PSTN Extension"/>
+		<phrase i="1176" t="Enter PSTN Extension:" t.VVX_101_201="Ange PSTN-tllgg"/>
+		<phrase i="1177" t="Sök i " t.VVX_101_201="Sök"/>
+		<phrase i="1178" t="Telefonlur/headset"/>
+		<phrase i="1179" t="Du kan inte lägga till dig själv i din kompislista"/>
+		<phrase i="1180" t="Avvisa" t.VVX_101_201="Avv"/>
+		<phrase i="1181" t="Viloläge" t.VVX_101_201="Zzz"/>
+		<phrase i="1182" t="\&quot; %s \&quot; startar om %d %s vid %s"/>
+		<phrase i="1183" t="Kalender"/>
+		<phrase i="1184" t="minuter"/>
+		<phrase i="1185" t="sekunder"/>
+		<phrase i="1186" t="minut"/>
+		<phrase i="1187" t="sekund"/>
+		<phrase i="1188" t="Lås knappsats"/>
+		<phrase i="1189" t="Lås upp knappsats"/>
+		<phrase i="1190" t="Knappsats låst."/>
+		<phrase i="1191" t="Lås telefon?"/>
+		<phrase i="1192" t="Hittade inga grupper"/>
+		<phrase i="1193" t="Enhetscertifikat" t.VVX_101_201="Enhetscert"/>
+		<phrase i="1194" t="Polycom-cert." t.VVX_1500="Polycom-cert. konfigurerat" t.VVX_500="Polycom-cert. konfigurerat"/>
+		<phrase i="1195" t="Cert. laddat" t.VVX_1500="Konfigurerat cert. laddat" t.VVX_500="Konfigurerat cert. laddat"/>
+		<phrase i="1196" t="Polycom finns" t.VVX_1500="Enhetscert. för Polycom finns" t.VVX_500="Enhetscert. för Polycom finns"/>
+		<phrase i="1197" t="Eget finns" t.VVX_1500="Eget enhetscert. finns" t.VVX_500="Eget enhetscert. finns"/>
+		<phrase i="1198" t="Egen beskrivning" t.VVX_1500="Beskrivning av eget enhetscert." t.VVX_500="Beskrivning av eget enhetscert." t.VVX_101_201="Egen beskr"/>
+		<phrase i="1199" t="TR-069 Upgrades Managed"/>
+		<phrase i="1200" t="Enhetscert"/>
+		<phrase i="1201" t="Uppspelning pågår"/>
+		<phrase i="1202" t="Lokal kontaktkatalog är skrivskyddad."/>
+		<phrase i="1203" t="CMA-autentisering misslyckades"/>
+		<phrase i="1204" t="CMA-etableringsfel"/>
+		<phrase i="1205" t="Fjärrtangentbord och mus"/>
+		<phrase i="1206" t="Finns telefonen till vänster eller höger om din dator?"/>
+		<phrase i="1207" t="Vänster"/>
+		<phrase i="1208" t="Höger"/>
+		<phrase i="1209" t="Lista"/>
+		<phrase i="1210" t="Ange orsakskod"/>
+		<phrase i="1211" t="Överför konfiguration"/>
+		<phrase i="1212" t="TR-069"/>
+		<phrase i="1213" t="CMA"/>
+		<phrase i="1214" t="Alla källor"/>
+		<phrase i="1215" t="Lokal"/>
+		<phrase i="1216" t="Webb"/>
+		<phrase i="1217" t="Överför"/>
+		<phrase i="1218" t="Konfigurationsfiler" t.IP_330="Konfig.filer" t.VVX_101_201="Konfig.filer"/>
+		<phrase i="1219" t="Orsakskod otillgänglig" t.VVX_101_201="Orsakskod ej tillg"/>
+		<phrase i="1220" t="Agent otillg."/>
+		<phrase i="1221" t="Konfigurationsfilsvarning" t.IP_330="Pre3.3.0-konfig."/>
+		<phrase i="1222" t=" har pre-3.3.0-parametrar" t.VVX_101_201="pre-3.3.0-param"/>
+		<phrase i="1223" t="inget"/>
+		<phrase i="1224" t="Digest"/>
+		<phrase i="1225" t="Hittade dubbla parametrar" t.IP_330="Dubbletter hittades" t.VVX_500="Dubbletter" t.VVX_101_201="Dub"/>
+		<phrase i="1226" t="Hittade fel" t.VVX_500="Fel" t.VVX_101_201="Fel"/>
+		<phrase i="1227" t="Godkända parametrar" t.IP_330="Godkända parametrar" t.VVX_500="OK"/>
+		<phrase i="1228" t="Pre-3.3.0-parametrar hittades" t.VVX_500="Pre-3.3.0"/>
+		<phrase i="1229" t="Pre-3.3.0-parametrar i:" t.VVX_1500="Hittade pre-3.3.0-parametrar i:" t.VVX_500="Hittade pre-3.3.0-parametrar i:"/>
+		<phrase i="1230" t="Frågan väntar fortfarande, försök senare."/>
+		<phrase i="1231" t="CMA-katalog ej registrerad"/>
+		<phrase i="1232" t="CMA-närvaro ej registrerad"/>
+		<phrase i="1233" t="Samtalsinfo"/>
+		<phrase i="1234" t="Uppdatera konfiguration"/>
+		<phrase i="1235" t="Ogiltig inloggningsinformation"/>
+		<phrase i="1236" t="Det gick inte att hämta adress."/>
+		<phrase i="1237" t="Ring upp kontakt misslyckades."/>
+		<phrase i="1238" t="Lägg till kontakt misslyckades."/>
+		<phrase i="1239" t="CMA-status"/>
+		<phrase i="1240" t="Närvaroregistrering" t.VVX_101_201="Närvaroreg"/>
+		<phrase i="1241" t="Katalogregistrering" t.VVX_101_201="Katalogreg"/>
+		<phrase i="1242" t="Etableringstatus"/>
+		<phrase i="1243" t="Serverns värdnamn"/>
+		<phrase i="1244" t="Programuppdateringskontroll"/>
+		<phrase i="1245" t="Profiluppdateringskontroll" t.VVX_101_201="Profiluppd.koll"/>
+		<phrase i="1246" t="Pulsslagsrapport"/>
+		<phrase i="1247" t="Lyckad"/>
+		<phrase i="1248" t="Misslyckad"/>
+		<phrase i="1249" t="Inbjudningar"/>
+		<phrase i="1250" t="Kompisinbjudan väntar"/>
+		<phrase i="1251" t="Närvaro"/>
+		<phrase i="1252" t="Metod för att godkänna inbjudningar" t.VVX_101_201="Godkännandemetod"/>
+		<phrase i="1253" t="Etableringsavsökningsintervall" t.VVX_101_201="Etab.avs.interv"/>
+		<phrase i="1254" t="Automatisk"/>
+		<phrase i="1255" t="Omvalidera"/>
+		<phrase i="1256" t="Flera inloggningsförsök kan låsa användarkontot."/>
+		<phrase i="1257" t="Vill du fortsätta?"/>
+		<phrase i="1258" t="Etableringsfel" t.IP_330="Konfig.fel"/>
+		<phrase i="1259" t="Det gick inte att uppdatera konfigurationen"/>
+		<phrase i="1260" t="Uppdatera"/>
+		<phrase i="1261" t="Inloggningsuppgifterna har ej godkänts" t.IP_330="Inloggn. misslyckades" t.VVX_1500="Inloggningen misslyckades." t.VVX_500="Inloggningen misslyckades."/>
+		<phrase i="1262" t="Uppdatera inloggningsuppifterna korrekt" t.IP_330="Uppdatera inl.uppg. korrekt" t.VVX_1500="Uppdatera inloggningsuppgifterna om de är felaktiga." t.VVX_500="Uppdatera inloggningsuppgifterna om de är felaktiga."/>
+		<phrase i="1263" t="Vidarebef."/>
+		<phrase i="1264" t="Bekräfta Klicka för att ringa"/>
+		<phrase i="1265" t=" missade samtal"/>
+		<phrase i="1266" t=" missat samtal"/>
+		<phrase i="1267" t="G.711Mu"/>
+		<phrase i="1268" t="G.726QI"/>
+		<phrase i="1269" t="G.722"/>
+		<phrase i="1270" t="Modell"/>
+		<phrase i="1271" t="Sammans."/>
+		<phrase i="1272" t="Enhetscertifikat" t.VVX_101_201="Enhetscert"/>
+		<phrase i="1273" t="Version"/>
+		<phrase i="1274" t="S/N"/>
+		<phrase i="1275" t="Rev"/>
+		<phrase i="1276" t="Du har inte konfigurerat en startsida för funktionen."/>
+		<phrase i="1277" t="Kontakta systemadministratören för hjälp"/>
+		<phrase i="1278" t="Transport"/>
+		<phrase i="1279" t="LDAP-version"/>
+		<phrase i="1280" t="Serversorteringar"/>
+		<phrase i="1281" t="Är VLV"/>
+		<phrase i="1282" t="Omsynk."/>
+		<phrase i="1283" t="Timeout för autofråga"/>
+		<phrase i="1284" t="Standardfilter"/>
+		<phrase i="1285" t="Bas-DN"/>
+		<phrase i="1286" t="Attribut"/>
+		<phrase i="1287" t="Primärt index"/>
+		<phrase i="1288" t="Sorteringsordning"/>
+		<phrase i="1289" t="Omvänd sorteringsordning"/>
+		<phrase i="1290" t="Omfattning"/>
+		<phrase i="1291" t="CA-fil"/>
+		<phrase i="1292"/>
+		<phrase i="1293" t="Nyckelfil"/>
+		<phrase i="1294" t="USB-samtalsinspelning" t.IP_330="USB-insp." t.VVX_101_201="USB-samtalsinsp"/>
+		<phrase i="1295" t="Konferenshantering" t.IP_330="Konf.hant." t.VVX_101_201="Konf.hantering"/>
+		<phrase i="1296" t="Företagskatalog" t.IP_330="För.kat." t.VVX_101_201="Företagskat"/>
+		<phrase i="1297" t="Övervakning av röstkvalitet" t.IP_330="RK-övervakn." t.VVX_101_201="RK-övervakn."/>
+		<phrase i="1298" t="uaCSTA" t.IP_330="uaCSTA"/>
+		<phrase i="1299" t="Åtkomst URL" t.IP_330="SSAWC"/>
+		<phrase i="1300" t="Förbättrade funktionsnycklar" t.IP_330="EFK" t.VVX_101_201="Förb funk.nyck"/>
+		<phrase i="1301" t="Linje: Oregistrerad" t.IP_330="Linje: Oregistrerad" t.VVX_101_201="Linje: Oreg"/>
+		<phrase i="1302" t="Inaktiv"/>
+		<phrase i="1303" t="Mottagning" t.VVX_101_201="Mot."/>
+		<phrase i="1304" t="Inledning"/>
+		<phrase i="1305" t="Sänder"/>
+		<phrase i="1306" t="Avslutar sändning"/>
+		<phrase i="1307" t="Väntar"/>
+		<phrase i="1308" t="TLS-applikationer"/>
+		<phrase i="1309" t="Konfigurera TLS-profiler" t.IP_330="TLS-profiler" t.VVX_101_201="Konfig TLS-prof"/>
+		<phrase i="1310" t="Egna CA-certifikat" t.IP_330="CA-certifikat" t.VVX_101_201="Egna CA-cert"/>
+		<phrase i="1311" t="Egen CA-information" t.VVX_101_201="Egen CA-info"/>
+		<phrase i="1312" t="Egen inloggningsinfo för enhet" t.IP_330="Enhetens inloggningsinformation" t.VVX_101_201="Egen enh.inlogg"/>
+		<phrase i="1313" t="Enhetscertifikatsinformation" t.VVX_101_201="Enhetscert.info"/>
+		<phrase i="1314" t="Installera" t.VVX_101_201="Instl"/>
+		<phrase i="1315" t="TLS-plattformsprofil" t.IP_330="Plattf.prof." t.VVX_101_201="TLS-plattf.prof"/>
+		<phrase i="1316" t="TLS-applikationsprofil" t.IP_330="App.prof " t.VVX_101_201="TLS-app.prof"/>
+		<phrase i="1317" t="Konfigurera chiffreringssvit" t.VVX_101_201="Konf chiffer"/>
+		<phrase i="1318" t="Chiffreringssvit"/>
+		<phrase i="1319" t="Egen chiffreringssvit" t.VVX_101_201="Eget chiffer"/>
+		<phrase i="1320" t="Plattforms-CA" t.IP_330="Plattf. CA" t.VVX_101_201="Plattf-CA"/>
+		<phrase i="1321" t="Applikations-CA" t.IP_330="App CA"/>
+		<phrase i="1322" t="Plattformsinloggning" t.IP_330="Plattf.inlogg." t.VVX_101_201="Plattf.inl."/>
+		<phrase i="1323" t="Applikationsinloggning" t.IP_330="App.inlogg." t.VVX_101_201="App.inloggning"/>
+		<phrase i="1324" t="Inbyggd och plattform 1" t.IP_330="Inbyggd och plattform 1" t.VVX_101_201="Inbgd och pltf 1"/>
+		<phrase i="1325" t="Inbyggd och plattform 2" t.IP_330="Inbyggd och plattform 2" t.VVX_101_201="Inbgd och pltf 2"/>
+		<phrase i="1326" t="Plattform 1"/>
+		<phrase i="1327" t="Plattform 2"/>
+		<phrase i="1328" t="Alla egna"/>
+		<phrase i="1329" t="Polycom"/>
+		<phrase i="1330" t="Gemensamt namn"/>
+		<phrase i="1331" t="802.1X"/>
+		<phrase i="1332" t="Etablering"/>
+		<phrase i="1333" t="Syslogg"/>
+		<phrase i="1334" t="Närvaro"/>
+		<phrase i="1335" t="LDAP"/>
+		<phrase i="1336" t="Installera enhetens inloggningsinfo" t.VVX_101_201="Inst enh.inloggn"/>
+		<phrase i="1337" t="Privat nyckel"/>
+		<phrase i="1338" t="Ta bort egen CA"/>
+		<phrase i="1339" t="Ta bort eget enh.cert." t.VVX_101_201="TaBortEnhCert"/>
+		<phrase i="1340" t="Multicastadress"/>
+		<phrase i="1341" t="Ekahau"/>
+		<phrase i="1342" t="1 minut"/>
+		<phrase i="1343" t=" (aktiv)"/>
+		<phrase i="1344" t="Återställ användarkonfiguration"/>
+		<phrase i="1345" t="Verifierar inloggningsinfon. Vänta…"/>
+		<phrase i="1346" t="Ange data för att verifiera inloggningsinfon."/>
+		<phrase i="1347" t="Loggar ut. Vänta…"/>
+		<phrase i="1348" t="Kontroll av inloggningsinfo klar."/>
+		<phrase i="1349" t="Användarinloggning misslyckades."/>
+		<phrase i="1350" t="Användarkonfiguration misslyckades."/>
+		<phrase i="1351" t="Användarkonfiguration klar."/>
+		<phrase i="1352" t="Ogiltigt inloggningstillstånd för användare"/>
+		<phrase i="1353" t="Uppdaterar katalog från server…"/>
+		<phrase i="1354" t="Blandade funktioner"/>
+		<phrase i="1355" t="Bluetooth"/>
+		<phrase i="1356" t="Bluetooth-radio"/>
+		<phrase i="1357" t="Hantera BT-headset" t.VVX_101_201="Hnt BT-headset"/>
+		<phrase i="1358" t="Visa BT-headset"/>
+		<phrase i="1359" t="Kopplade headset"/>
+		<phrase i="1360" t="Bluetooth-läge"/>
+		<phrase i="1361" t="Skanna"/>
+		<phrase i="1362" t="BT-skanning av"/>
+		<phrase i="1363" t="BT-radiostatus"/>
+		<phrase i="1364" t="Bluetooth-radio på" t.VVX_101_201="BT-radio på"/>
+		<phrase i="1365" t="Bluetooth-radio av" t.VVX_101_201="BT-radio av"/>
+		<phrase i="1366" t="Enhetsinfo"/>
+		<phrase i="1367" t="Lägg till"/>
+		<phrase i="1368" t="Ta bort" t.VVX_101_201="Rad"/>
+		<phrase i="1369" t="Anslut" t.VVX_101_201="Ansl"/>
+		<phrase i="1370" t="Koppla från"/>
+		<phrase i="1371" t="Flash"/>
+		<phrase i="1372" t="Avsändar-ID"/>
+		<phrase i="1373" t="Återställ till fabriksinst."/>
+		<phrase i="1374" t="Närliggande"/>
+		<phrase i="1375" t="Aktuell konfiguration" t.VVX_101_201="Aktuell konfig"/>
+		<phrase i="1376" t="Frys" t.VVX_101_201="Frs"/>
+		<phrase i="1377" t="Uppdatera" t.VVX_101_201="Uppd"/>
+		<phrase i="1378" t="Headset anslöts"/>
+		<phrase i="1379" t="Headset borttaget"/>
+		<phrase i="1380" t="Utöka"/>
+		<phrase i="1381" t="Sidsändning utökad" t.VVX_101_201="Sidsändn utökad"/>
+		<phrase i="1382" t="Bluetooth PIN-inmatning" t.VVX_101_201="Bluetooth-PIN"/>
+		<phrase i="1383" t="Ange PIN"/>
+		<phrase i="1384" t="Sökningskonfiguration" t.VVX_101_201="Sökn.konfig"/>
+		<phrase i="1385" t="Gruppsökning"/>
+		<phrase i="1386" t="Prioritetsgrupp"/>
+		<phrase i="1387" t="Nödgrupp" t.IP_450="Nödgrupp"/>
+		<phrase i="1388" t="Grupprenumerationer" t.VVX_101_201="Grupprenum"/>
+		<phrase i="1389" t="Kanalprenumerationer" t.VVX_101_201="Kanalprenum"/>
+		<phrase i="1390" t="Stängning på grund av låg batterinivå"/>
+		<phrase i="1391" t="Förbjuden"/>
+		<phrase i="1392" t="Detaljer" t.VVX_101_201="Dtlj"/>
+		<phrase i="1393" t="Nätverksverifieringsfel" t.VVX_1500="Nätverksverifieringsfel" t.VVX_500="Nätverksverifieringsfel"/>
+		<phrase i="1394" t="PEAPv0/GTC"/>
+		<phrase i="1395" t="TLS-profil"/>
+		<phrase i="1396" t="Profil 1"/>
+		<phrase i="1397" t="Profil 2"/>
+		<phrase i="1398" t="Lösenord för PAC-fil" t.VVX_101_201="PAC-fillösenord"/>
+		<phrase i="1399" t="PAC-filnamn"/>
+		<phrase i="1400" t="Ta bort PAC-fil"/>
+		<phrase i="1401" t="Hämta" t.VVX_101_201="Hmta"/>
+		<phrase i="1402" t="PAC-filinfo"/>
+		<phrase i="1403" t="PAC-fil hämtad."/>
+		<phrase i="1404"/>
+		<phrase i="1405"/>
+		<phrase i="1406" t="Etabl.server" t.IP_330="Etableringsserver" t.IP_5000="Etableringsserver" t.VVX_1500="Etableringsserver" t.VVX_500="Etableringsserver"/>
+		<phrase i="1407" t="Nätverksgränssnitt" t.VVX_101_201="Nätv.gränssnitt"/>
+		<phrase i="1408" t="Gränssnittsordning"/>
+		<phrase i="1409" t="Wi-Fi-meny"/>
+		<phrase i="1410" t="USBNet-meny"/>
+		<phrase i="1411" t="DHCP-startserver" t.VVX_101_201="Startserver"/>
+		<phrase i="1412" t="Wi-Fi"/>
+		<phrase i="1413" t="USBNet"/>
+		<phrase i="1414" t="Serveranvändare"/>
+		<phrase i="1415" t="Serverlösenord"/>
+		<phrase i="1416" t="CCX AP krävs"/>
+		<phrase i="1417" t="Radio"/>
+		<phrase i="1418" t="AC krävs"/>
+		<phrase i="1419" t="World Mode-802.11d" t.VVX_101_201="W Mode-802.11d"/>
+		<phrase i="1420" t="01"/>
+		<phrase i="1421" t="02"/>
+		<phrase i="1422" t="03"/>
+		<phrase i="1423" t="04"/>
+		<phrase i="1424" t="05"/>
+		<phrase i="1425" t="06"/>
+		<phrase i="1426" t="07"/>
+		<phrase i="1427" t="08"/>
+		<phrase i="1428" t="Band"/>
+		<phrase i="1429" t="5 GHz"/>
+		<phrase i="1430" t="2,4 GHz"/>
+		<phrase i="1431" t="5 GHz aktiverat"/>
+		<phrase i="1432" t="2,4 GHz aktiverat"/>
+		<phrase i="1433" t="SubBand1 aktiverat"/>
+		<phrase i="1434" t="SubBand2 aktiverat"/>
+		<phrase i="1435" t="SubBand3 aktiverat"/>
+		<phrase i="1436" t="SubBand4 aktiverat"/>
+		<phrase i="1437" t="P0"/>
+		<phrase i="1438" t="P1"/>
+		<phrase i="1439" t="P2"/>
+		<phrase i="1440" t="P3"/>
+		<phrase i="1441" t="P4"/>
+		<phrase i="1442" t="P5"/>
+		<phrase i="1443" t="P6"/>
+		<phrase i="1444" t="P7"/>
+		<phrase i="1445" t="40 Bits"/>
+		<phrase i="1446" t="104 Bits"/>
+		<phrase i="1447" t="1"/>
+		<phrase i="1448" t="2"/>
+		<phrase i="1449" t="3"/>
+		<phrase i="1450" t="4"/>
+		<phrase i="1451" t="Nyckel 1" t.VVX_101_201="Nyc1"/>
+		<phrase i="1452" t="Nyckel 2"/>
+		<phrase i="1453" t="Nyckel 3"/>
+		<phrase i="1454" t="Nyckel 4"/>
+		<phrase i="1455" t="PSK-typ"/>
+		<phrase i="1456" t="OKC"/>
+		<phrase i="1457" t="CCKM"/>
+		<phrase i="1458" t="802.11r"/>
+		<phrase i="1459" t="Inband-etablering" t.VVX_101_201="In-band-etab"/>
+		<phrase i="1460" t="Overifierad"/>
+		<phrase i="1461" t="Prata"/>
+		<phrase i="1462" t="Servern nekade anslutningen"/>
+		<phrase i="1463" t="Servern stängde anslutningen"/>
+		<phrase i="1464" t="Ogiltigt värdnamn"/>
+		<phrase i="1465" t="Anslutningstimeout"/>
+		<phrase i="1466" t="SSL/TLS-handskakningen misslyckades"/>
+		<phrase i="1467" t="Proxyservern nekade anslutningen"/>
+		<phrase i="1468" t="Proxyservern stängde anslutningen"/>
+		<phrase i="1469" t="Ogiltigt proxy-värdnamn"/>
+		<phrase i="1470" t="Proxytimeout"/>
+		<phrase i="1471" t="Proxyverifiering krävs"/>
+		<phrase i="1472" t="Åtkomst till fjärrinnehåll avvisades"/>
+		<phrase i="1473" t="Funktionen ej tillåten"/>
+		<phrase i="1474" t="Fjärrinnehåll hittades inte"/>
+		<phrase i="1475" t="Autentisering krävs"/>
+		<phrase i="1476" t="Okänt protokoll"/>
+		<phrase i="1477" t="Ogiltig åtgärd"/>
+		<phrase i="1478" t="Okänt nätverksfel"/>
+		<phrase i="1479" t="Okänt proxyfel"/>
+		<phrase i="1480" t="Okänt innehållsfel"/>
+		<phrase i="1481" t="Protokollfel"/>
+		<phrase i="1482" t="VLAN-meny"/>
+		<phrase i="1483" t="Konfigurationsfel"/>
+		<phrase i="1484" t="hittades ej"/>
+		<phrase i="1485" t="Batteri laddas"/>
+		<phrase i="1486" t="Batteri fulladdat"/>
+		<phrase i="1487" t="Batteristyrkan medelhög"/>
+		<phrase i="1488" t="Batteristyrkan hög"/>
+		<phrase i="1489" t="Batteristyrkan helt full"/>
+		<phrase i="1490" t="Låg batterinivå"/>
+		<phrase i="1491" t="Kritiskt låg batterinivå"/>
+		<phrase i="1492" t="Uppdatering klar"/>
+		<phrase i="1493" t="PDC-konfiguration" t.VVX_101_201="PDC-konf"/>
+		<phrase i="1494" t="Serveradress"/>
+		<phrase i="1495" t="Serverport"/>
+		<phrase i="1496" t="Telefonorientering" t.VVX_101_201="Tel.orient"/>
+		<phrase i="1497" t="Skrivbordsanvändare"/>
+		<phrase i="1498" t="Återanslut" t.VVX_101_201="Åans"/>
+		<phrase i="1499" t="Ta emot vid upptaget" t.VVX_101_201="AcptUppt"/>
+		<phrase i="1500" t="Tillagd timeout (s)" t.IP_450="Till. timeout(er)"/>
+		<phrase i="1501" t="Sökn." t.VVX_101_201="Sök"/>
+		<phrase i="1502" t="Sökn./PTT-konfiguration" t.VVX_101_201="Sök/PTT-konfig."/>
+		<phrase i="1503" t="Gruppsökningskonfiguration" t.VVX_101_201="Gruppsök.konfig"/>
+		<phrase i="1504" t="Sökn./PTT-inställningar" t.VVX_101_201="Sök/PTT-inställ"/>
+		<phrase i="1505" t="PTT tryck för att prata"/>
+		<phrase i="1506" t="Slut på sidan" t.IP_330="Slut på sidan" t.VVX_101_201="SlSd"/>
+		<phrase i="1507" t="Avsluta PTT" t.VVX_101_201="APTT"/>
+		<phrase i="1508" t="Historiklista för direktmeddelande"/>
+		<phrase i="1509" t="Direktmeddelande aktivt"/>
+		<phrase i="1510" t="Automatisk inloggningstimeout."/>
+		<phrase i="1511" t="Linjen är inte ansluten"/>
+		<phrase i="1512" t="Standardsamtalsläge." t.VVX_101_201="Stdsamtalsläge"/>
+		<phrase i="1513" t="Samtalsläge valt - video."/>
+		<phrase i="1514" t="Samtalsläge valt - endast audio"/>
+		<phrase i="1515" t="Chatthistorik"/>
+		<phrase i="1516" t="Mobil"/>
+		<phrase i="1517" t="Dator"/>
+		<phrase i="1518" t="Mobil- eller datorljud" t.VVX_101_201="Mobil/datorljud"/>
+		<phrase i="1519" t="Typ av nummerpresentatör"/>
+		<phrase i="1520" t="Bellcore"/>
+		<phrase i="1521" t="British Telecom"/>
+		<phrase i="1522" t="DTMF"/>
+		<phrase i="1523" t="Filer saknas, konfig återställd" t.IP_330="Konfig. återställd"/>
+		<phrase i="1524" t="Aktivera"/>
+		<phrase i="1525" t="Signalvolym"/>
+		<phrase i="1526" t="Ringer"/>
+		<phrase i="1527" t="Meddelanden"/>
+		<phrase i="1528" t="Samtal"/>
+		<phrase i="1529" t="OAI 1"/>
+		<phrase i="1530" t="OAI 2"/>
+		<phrase i="1531" t="Ringningsmönster"/>
+		<phrase i="1532" t="Streckkod"/>
+		<phrase i="1533" t="Dockad"/>
+		<phrase i="1534" t="Direktmeddelande"/>
+		<phrase i="1535" t="Lokal parkeringspåminnelse"/>
+		<phrase i="1536" t="Nätverksförlust"/>
+		<phrase i="1537" t="Meddelande väntar"/>
+		<phrase i="1538" t="Negativ bekräftelse"/>
+		<phrase i="1539" t="Positiv bekräftelse"/>
+		<phrase i="1540" t="PTT sändningsstart"/>
+		<phrase i="1541" t="PTT sändningsslut"/>
+		<phrase i="1542" t="Odockad"/>
+		<phrase i="1543" t="Välkommen"/>
+		<phrase i="1544" t="Matcha signalkadens" t.VVX_101_201="Matcha signalkad"/>
+		<phrase i="1545" t="Egen 1"/>
+		<phrase i="1546" t="Kompatibilitet med hörapparat" t.VVX_101_201="Hörapparatkomp"/>
+		<phrase i="1547" t="Värdnamn"/>
+		<phrase i="1548" t="Ta bort cachad inloggningsinfo"/>
+		<phrase i="1549" t="Generera CSR"/>
+		<phrase i="1550" t="Generera" t.VVX_101_201="Gener"/>
+		<phrase i="1551" t="CSR-generering klar"/>
+		<phrase i="1552" t="Gemensamt namn"/>
+		<phrase i="1553" t="Organisation" t.VVX_101_201="Org"/>
+		<phrase i="1554" t="E-postadress" t.VVX_101_201="Epost"/>
+		<phrase i="1555" t="Delstat"/>
+		<phrase i="1556" t="krävs"/>
+		<phrase i="1557" t="standard"/>
+		<phrase i="1558" t="Uppringningsläge"/>
+		<phrase i="1559" t="Ange namn"/>
+		<phrase i="1560" t="Stor begynnelsebokstav (Abc)" t.VVX_101_201="Stor boks(Abc)"/>
+		<phrase i="1561" t="Stor bokstav (ABC)"/>
+		<phrase i="1562" t="Små bokstäver (abc)"/>
+		<phrase i="1563" t="Bluetooth"/>
+		<phrase i="1564"/>
+		<phrase i="1565" t="Kryptering"/>
+		<phrase i="1566" t="PSK"/>
+		<phrase i="1567" t="WPA"/>
+		<phrase i="1568" t="WPA(2)-PSK"/>
+		<phrase i="1569" t="Hexnyckel"/>
+		<phrase i="1570" t="Företag"/>
+		<phrase i="1571" t="EAP-metod"/>
+		<phrase i="1572" t="Snabb roaming"/>
+		<phrase i="1573" t="PEAPv0/MSCHAPv2"/>
+		<phrase i="1574" t="EAP-FAST"/>
+		<phrase i="1575" t="AC krävs"/>
+		<phrase i="1576" t="Platsservice"/>
+		<phrase i="1577" t="RTLS"/>
+		<phrase i="1578" t="Sändningsintervall"/>
+		<phrase i="1579" t="ELP"/>
+		<phrase i="1580" t="ELP-port"/>
+		<phrase i="1581" t="Tx-strömkontroll"/>
+		<phrase i="1582" t="2.4 GHz Tx-ström"/>
+		<phrase i="1583" t="Band som föredras"/>
+		<phrase i="1584" t="Tröskel (dBm)"/>
+		<phrase i="1585" t="Bandroaming"/>
+		<phrase i="1586" t="Tx-ström SubBand1"/>
+		<phrase i="1587" t="Tx-ström SubBand2"/>
+		<phrase i="1588" t="Tx-ström SubBand3"/>
+		<phrase i="1589" t="Tx-ström SubBand4"/>
+		<phrase i="1590" t="Tx-ström Ctrl SubBand1" t.VVX_101_201="TxStrCtrlSubB1"/>
+		<phrase i="1591" t="Tx-ström Ctrl SubBand2" t.VVX_101_201="TxStrCtrlSubB2"/>
+		<phrase i="1592" t="Tx-ström Ctrl SubBand3" t.VVX_101_201="TxStrCtrlSubB3"/>
+		<phrase i="1593" t="Tx-ström Ctrl SubBand4" t.VVX_101_201="TxStrCtrlSubB4"/>
+		<phrase i="1594" t="Tx-ström (kanal 1-11)" t.VVX_101_201="Tx-str(kan 1-11)"/>
+		<phrase i="1595" t="Tx-ström (kanal 1-13)" t.VVX_101_201="Tx-str(kan 1-13)"/>
+		<phrase i="1596" t="Tx-ström (kanal 1-14)" t.VVX_101_201="Tx-str(kan 1-14)"/>
+		<phrase i="1597" t="Användarprioritet"/>
+		<phrase i="1598" t="5 minuter"/>
+		<phrase i="1599" t="10 minuter"/>
+		<phrase i="1600" t="Auto TPC"/>
+		<phrase i="1601" t="Multiknappssvar"/>
+		<phrase i="1602" t="Låsa knappsatsen?"/>
+		<phrase i="1603" t="Låsa upp knappsatsen?"/>
+		<phrase i="1604" t="802.1X-meny"/>
+		<phrase i="1605" t="802.1X-verif"/>
+		<phrase i="1606" t="MD5"/>
+		<phrase i="1607" t="Anonym anv-ID"/>
+		<phrase i="1608" t="TTLS/MSCHAPv2"/>
+		<phrase i="1609" t="TTLS/GTC"/>
+		<phrase i="1610" t="EAP-TLS"/>
+		<phrase i="1611" t="EAP-PEAPv0/MSCHAPv2"/>
+		<phrase i="1612" t="FAST"/>
+		<phrase i="1613" t="Applikationssession" t.VVX_101_201="App.session"/>
+		<phrase i="1614" t="Applikationssamtal"/>
+		<phrase i="1615" t="Direktmeddelandesession"/>
+		<phrase i="1616" t="Direktmeddelandesamtal"/>
+		<phrase i="1617" t="Koppla/konferens"/>
+		<phrase i="1618" t="Konferens" t.VVX_101_201="Konf"/>
+		<phrase i="1619" t="Blind övf" t.VVX_101_201="BÖv"/>
+		<phrase i="1620" t="Nya samtal" t.VVX_101_201="Nytt"/>
+		<phrase i="1621" t="Favoriter"/>
+		<phrase i="1622" t="Rapporter"/>
+		<phrase i="1623" t="Nödfall"/>
+		<phrase i="1624" t="Användarinloggning"/>
+		<phrase i="1625" t="Byt användarens inloggningslösenord" t.VVX_101_201="Byt inlogg.lösenord"/>
+		<phrase i="1626" t="SIPTEXTMSG"/>
+		<phrase i="1627" t="Direktmeddelandenamn"/>
+		<phrase i="1628" t="Dubbelt användarnamn för direktmeddelanden" t.VVX_101_201="Dubb IM-anvnamn"/>
+		<phrase i="1629" t="Direktmeddelandechatt"/>
+		<phrase i="1630" t="Röstbrevlåda"/>
+		<phrase i="1631" t="Grundinställningar"/>
+		<phrase i="1632" t="Avancerade inställningar" t.VVX_101_201="Avanc inställn"/>
+		<phrase i="1633" t="Funktionsinställningar"/>
+		<phrase i="1634" t="Snabbnoteringar"/>
+		<phrase i="1635" t="Bakgrundsbelysning timeout"/>
+		<phrase i="1636" t="Auto (automatisk lägesavkänning)" t.VVX_101_201="Auto lägesavk"/>
+		<phrase i="1637" t="Endast PSTN"/>
+		<phrase i="1638" t="Inmatningsläge"/>
+		<phrase i="1639" t="Inga kanaler valda"/>
+		<phrase i="1640" t="Sök"/>
+		<phrase i="1641" t="Söker grupplistor" t.VVX_101_201="Gruppsökning"/>
+		<phrase i="1642" t="Sändning ej tillåtet"/>
+		<phrase i="1643" t="Standard:"/>
+		<phrase i="1644" t="Senaste:"/>
+		<phrase i="1645" t="Sökläge ej tillåtet"/>
+		<phrase i="1646" t="PTT-läge ej tillåtet"/>
+		<phrase i="1647" t="PTT-lägeskonfiguration" t.VVX_101_201="PTT-lägeskonfig"/>
+		<phrase i="1648" t="PTT-läge"/>
+		<phrase i="1649" t="Gruppsökning"/>
+		<phrase i="1650" t="Standardkanal"/>
+		<phrase i="1651" t="Prioritetskanal" t.IP_450="Prio.kanal" t.VVX_101_201="Prioritetskanal"/>
+		<phrase i="1652" t="Nödkanal" t.IP_450="Nödkanal" t.VVX_1500="Nödkanal" t.VVX_500="Nödkanal" t.VVX_101_201="Nödkanal"/>
+		<phrase i="1653" t="Nödvolym (dB)" t.IP_450="Nödvolym (dB)" t.VVX_101_201="Nödvolym(dB)"/>
+		<phrase i="1654" t="PTT-konfiguration"/>
+		<phrase i="1655" t="Kanal"/>
+		<phrase i="1656" t="Sändning"/>
+		<phrase i="1657" t="Prenumerera"/>
+		<phrase i="1658" t="Kompatibilitet"/>
+		<phrase i="1659" t="Codec"/>
+		<phrase i="1660" t="Standardgrupp"/>
+		<phrase i="1661" t="Standardkanal"/>
+		<phrase i="1662" t="Tillåt PTT med lur av" t.IP_450="Alltid lur av-PTT" t.VVX_1500="Tillåt PTT med lur av" t.VVX_500="Tillåt PTT med lur av"/>
+		<phrase i="1663" t="Tillåt sökning med lur av" t.IP_450="Alltid lur av-sök" t.VVX_1500="Tillåt sökning med lur av" t.VVX_500="Tillåt sökning med lur av" t.VVX_101_201="Tllt lur av-sök"/>
+		<phrase i="1664" t="Första timeout"/>
+		<phrase i="1665" t="Fortsättn.timeout (s)" t.IP_450="Kont.timeout(er)" t.VVX_1500="Fortsättningstimeout" t.VVX_500="Fortsättningstimeout"/>
+		<phrase i="1666" t="Samtal väntar" t.VVX_101_201="SamtVänt"/>
+		<phrase i="1667" t="PTT-kanalkonfiguration"/>
+		<phrase i="1668" t="Nyttolaststorlek (msek)" t.VVX_101_201="Nyttol.stl(msek)"/>
+		<phrase i="1669" t="Värd"/>
+		<phrase i="1670" t="Ping"/>
+		<phrase i="1671" t="Trace Route"/>
+		<phrase i="1672" t="Ange IP-adress eller DNS-namn."/>
+		<phrase i="1673" t="Webbproxyns inloggningsinfo ogiltig"/>
+		<phrase i="1674" t="Hej"/>
+		<phrase i="1675" t="Hej då"/>
+		<phrase i="1676" t="Ogiltigt batteri, avstängning initierad"/>
+		<phrase i="1677" t="samtal hanteras på distans"/>
+		<phrase i="1678" t="samtal ej besvarat"/>
+		<phrase i="1679" t="Quick Barcode Connector" t.VVX_101_201="Qck BC Connector"/>
+		<phrase i="1680" t="Användningsläge"/>
+		<phrase i="1681" t="Enstaka slutpunkt"/>
+		<phrase i="1682" t="Flera slutpunkter"/>
+		<phrase i="1683" t="Serverport"/>
+		<phrase i="1684" t="Senaste" t.VVX_101_201="Snst"/>
+		<phrase i="1685" t="gånger"/>
+		<phrase i="1686" t="Office"/>
+		<phrase i="1687" t="Hem"/>
+		<phrase i="1688" t="Sökare"/>
+		<phrase i="1689" t="Typ"/>
+		<phrase i="1690" t="Ordning"/>
+		<phrase i="1691" t="Alla samtal"/>
+		<phrase i="1692" t="Visade"/>
+		<phrase i="1693" t="Stigande"/>
+		<phrase i="1694" t="Fallande"/>
+		<phrase i="1695" t="Alla linjer"/>
+		<phrase i="1696" t="Stäng"/>
+		<phrase i="1697" t="Tangentbord"/>
+		<phrase i="1698" t="Idag"/>
+		<phrase i="1699" t="Igår"/>
+		<phrase i="1700" t="I morgon"/>
+		<phrase i="1701" t="h"/>
+		<phrase i="1702" t="min"/>
+		<phrase i="1703" t="sek"/>
+		<phrase i="1704" t="månad"/>
+		<phrase i="1705" t="månader"/>
+		<phrase i="1706" t="år"/>
+		<phrase i="1707" t="år"/>
+		<phrase i="1708" t="Missat samtal"/>
+		<phrase i="1709" t="Mottagna samtal"/>
+		<phrase i="1710" t="Ringda samtal"/>
+		<phrase i="1711" t="Aktiva sessioner - Tryck" t.VVX_101_201="Aktiva sessioner"/>
+		<phrase i="1712" t="Webbläsare"/>
+		<phrase i="1713" t="Ange namn"/>
+		<phrase i="1714" t="Ange nytt namn"/>
+		<phrase i="1715" t="WiFi: Inga AP:er hittades"/>
+		<phrase i="1716" t="PDC-konfiguration" t.VVX_101_201="PDC-konfig"/>
+		<phrase i="1717" t="Kontakter Samtalslistor" t.VVX_101_201="Kont/samtal"/>
+		<phrase i="1718" t="Lysdiodsdiagnostik"/>
+		<phrase i="1719" t="Tryck &lt;1&gt; för att växla lysdioder" t.VVX_101_201="Tryck &lt;1&gt; för att växla"/>
+		<phrase i="1720" t="Tryck på en annan knapp för att avbryta" t.VVX_101_201="Tryck på en knapp för att avbryta"/>
+		<phrase i="1721" t="Fel vid skapande av konfig.redig.session"/>
+		<phrase i="1722" t="Licensnycklar har utgått"/>
+		<phrase i="1723" t="Vänta… "/>
+		<phrase i="1724" t="Formatera filsystem"/>
+		<phrase i="1725" t="Fabriksinställning"/>
+		<phrase i="1726" t="Flashinställningar"/>
+		<phrase i="1727" t="Tillämpar konfigurationsändringar"/>
+		<phrase i="1728" t="Huvudkonfigurationsfilen ändrad"/>
+		<phrase i="1729" t="Körningskonfigurationen ändrad"/>
+		<phrase i="1730" t="Uppstartsserverns DHCP-alternativ ändrat"/>
+		<phrase i="1731" t="Tillämpar VLAN-alternativändringar"/>
+		<phrase i="1732" t="Tillämpar konfig.ändringar från webbgränssnittet"/>
+		<phrase i="1733" t="Tillämpar konfigurationsändringar från webbgränssnittet."/>
+		<phrase i="1734" t="CDP ändrat"/>
+		<phrase i="1735" t="LLDP ändrat"/>
+		<phrase i="1736" t="PMT säker omstart"/>
+		<phrase i="1737" t="PMT säker omstart"/>
+		<phrase i="1738" t="PNET modulomstart" t.VVX_101_201="PNET-mod omboot"/>
+		<phrase i="1739" t="PNET modulomstart" t.VVX_101_201="PNET-mod omstart"/>
+		<phrase i="1740" t="HT-omstartskommando" t.VVX_101_201="HT-omstartkomm"/>
+		<phrase i="1741" t="Maskinvaruåterställning"/>
+		<phrase i="1742" t="Det går inte att starta om säkert"/>
+		<phrase i="1743" t="Det går inte att uppdatera netkonfig."/>
+		<phrase i="1744" t="Det går inte kontrollera netkonfig. på ett säkert sätt"/>
+		<phrase i="1745" t="Det går inte att säkert utföra fail-over"/>
+		<phrase i="1746" t="Använder CMA-konfiguration"/>
+		<phrase i="1747" t="Vänta…"/>
+		<phrase i="1748" t="Användarinloggning inaktiverad"/>
+		<phrase i="1749" t="Kontaktkatalogen har ändrats på servern"/>
+		<phrase i="1750" t="Global omkonfiguration" t.VVX_101_201="Global omkonfig"/>
+		<phrase i="1751" t="Omstart pga ändringar av funktionslicens"/>
+		<phrase i="1752" t="Tillämpar ändringar på IP-konfiguration"/>
+		<phrase i="1753" t="DNS-server eller domän ändrad"/>
+		<phrase i="1754" t="Konfigurationen ändrad"/>
+		<phrase i="1755" t="Etableringsuppdatering" t.VVX_101_201="Etabl.uppd"/>
+		<phrase i="1756" t="Vänta…"/>
+		<phrase i="1757" t="Gammalt lösenord fel." t.IP_450="Gammalt lösenord är fel"/>
+		<phrase i="1758" t="Nytt lösenord matchar inte." t.IP_450="Nya lösenord matchar ej"/>
+		<phrase i="1759" t="Välj land"/>
+		<phrase i="1760" t="Välj språk"/>
+		<phrase i="1761" t="Lösenordet för långt"/>
+		<phrase i="1762" t="Endast ljud" t.VVX_101_201="Ljd"/>
+		<phrase i="1763" t="Inga applikationer konfigurerade."/>
+		<phrase i="1764" t="Prioritet:"/>
+		<phrase i="1765" t="Vilken linje som helst"/>
+		<phrase i="1766" t="\&quot; %s \&quot; schemalagd för %s har förfallit"/>
+		<phrase i="1767" t="Fråga innan inbjudningar godkänns"/>
+		<phrase i="1768" t="Godkänn inbjudningar automatiskt"/>
+		<phrase i="1769" t="kbps"/>
+		<phrase i="1770" t="Ställ in enligt profil"/>
+		<phrase i="1771" t="Bluetooth inaktiverat"/>
+		<phrase i="1772" t="BT-radio tvingad av"/>
+		<phrase i="1773" t="Ingen status tillgänglig"/>
+		<phrase i="1774" t="Måste sätta på\n Bluetooth-radio\n för att hantera enheter"/>
+		<phrase i="1775" t="**_**"/>
+		<phrase i="1776" t="Sätter på BT-radio"/>
+		<phrase i="1777" t="Stänger av BT-radio"/>
+		<phrase i="1778" t="Vänta…"/>
+		<phrase i="1779" t="Namn="/>
+		<phrase i="1780" t="Typ="/>
+		<phrase i="1781" t="Status="/>
+		<phrase i="1782" t="Adress="/>
+		<phrase i="1783" t="Ogiltig funktion"/>
+		<phrase i="1784" t="Enheten har redan kopplats"/>
+		<phrase i="1785" t="Enheten har inte kopplats"/>
+		<phrase i="1786" t="Enheten har redan anslutits"/>
+		<phrase i="1787" t="Enheten har inte anslutits"/>
+		<phrase i="1788" t="En annan enhet har redan anslutits"/>
+		<phrase i="1789" t="Ingen enhet vald"/>
+		<phrase i="1790" t="Lägger till enhet"/>
+		<phrase i="1791" t="Tar bort enhet"/>
+		<phrase i="1792" t="Ansluter enhet"/>
+		<phrase i="1793" t="Kopplar ner enhet"/>
+		<phrase i="1794" t="Skannar …"/>
+		<phrase i="1795" t="**_**"/>
+		<phrase i="1796" t="Enhet har lagts till"/>
+		<phrase i="1797" t="Enhet har tagits bort"/>
+		<phrase i="1798" t="Enhet ansluten"/>
+		<phrase i="1799" t="Enhet nerkopplad"/>
+		<phrase i="1800" t="Lägg till enhet misslyckades"/>
+		<phrase i="1801" t="Ta bort enhet misslyckades"/>
+		<phrase i="1802" t="Anslut enhet misslyckades"/>
+		<phrase i="1803" t="Koppla från enhet misslyckades"/>
+		<phrase i="1804" t="BT-radio slutade fungera"/>
+		<phrase i="1805" t="Ingen enhetsinfo"/>
+		<phrase i="1806" t="BT-headset"/>
+		<phrase i="1807" t="Kopplad"/>
+		<phrase i="1808" t="Ansluten"/>
+		<phrase i="1809" t="Inte kopplad"/>
+		<phrase i="1810" t="Kalenderinställningar"/>
+		<phrase i="1811" t="Påminnelse"/>
+		<phrase i="1812" t="Sökn./PTT"/>
+		<phrase i="1813" t="Uppgradera server"/>
+		<phrase i="1814" t="Spara dina ändringar?"/>
+		<phrase i="1815" t="Inkommande samtal"/>
+		<phrase i="1816" t="Tryck på upplåsningsknappen och sedan \n på Ja för att låsa upp knappsatsen "/>
+		<phrase i="1817" t="Försöker…"/>
+		<phrase i="1818" t="Ej levererat"/>
+		<phrase i="1819" t="Radera ikon" t.IP_330="Rad.ikon" t.IP_450="RadIkon" t.VVX_101_201="Rad."/>
+		<phrase i="1820" t="Söker efter BT-headset"/>
+		<phrase i="1821" t="Måste sätta på\n Bluetooth-radio\n för att söka efter enheter"/>
+		<phrase i="1822" t="Sätt enheten i\n avkänningsbart läge"/>
+		<phrase i="1823" t="**_**"/>
+		<phrase i="1824" t="PIN-inmatningstiden gick ut"/>
+		<phrase i="1825" t="Headset ringer"/>
+		<phrase i="1826" t="Sökningstiden gick ut. Inga enheter hittades."/>
+		<phrase i="1827" t="Det går inte att köra platsundersökning med nuvarande konfiguration"/>
+		<phrase i="1828" t="10"/>
+		<phrase i="1829" t="20"/>
+		<phrase i="1830" t="30"/>
+		<phrase i="1831" t="40"/>
+		<phrase i="1832" t="50"/>
+		<phrase i="1833" t="60"/>
+		<phrase i="1834" t="70"/>
+		<phrase i="1835" t="Det går inte att nå närvaroservern"/>
+		<phrase i="1836" t="Paketantal"/>
+		<phrase i="1837" t="Allmän information" t.VVX_101_201="Allmän info"/>
+		<phrase i="1838" t="AP-lista"/>
+		<phrase i="1839" t="Om/associeringsstatistik" t.VVX_101_201="Om/assoc.statk"/>
+		<phrase i="1840" t="EAP-information"/>
+		<phrase i="1841" t="Missat Rx-antal"/>
+		<phrase i="1842" t="Missat Tx-antal"/>
+		<phrase i="1843" t="Antal Rx-omförsök"/>
+		<phrase i="1844" t="Antal Tx-omförsök"/>
+		<phrase i="1845" t="Senaste hastighet"/>
+		<phrase i="1846" t="Tx-ström (dbm)"/>
+		<phrase i="1847" t="Antal assoc."/>
+		<phrase i="1848" t="Antal omass."/>
+		<phrase i="1849" t="Antal missl. assoc."/>
+		<phrase i="1850" t="Antal missl. omass." t.VVX_101_201="Ant missl omass"/>
+		<phrase i="1851" t="MIC-felantal"/>
+		<phrase i="1852" t="MIC-fel senaste sek"/>
+		<phrase i="1853" t="ICV-felantal"/>
+		<phrase i="1854" t="QoS-felantal"/>
+		<phrase i="1855" t="EAP-felantal"/>
+		<phrase i="1856" t="Senaste EAP-felkod" t.VVX_101_201="Sista EAP-felkod"/>
+		<phrase i="1857" t="802.1X-felinfo"/>
+		<phrase i="1858" t="Okänt fel"/>
+		<phrase i="1859" t="EAP-metod matchar inte"/>
+		<phrase i="1860" t="TLS-certifikatsfel"/>
+		<phrase i="1861" t="Dåligt certifikat"/>
+		<phrase i="1862" t="Certifikat som inte stöds"/>
+		<phrase i="1863" t="Certifikat återkallat"/>
+		<phrase i="1864" t="Certifikat har utgått"/>
+		<phrase i="1865" t="Okänt certifikat"/>
+		<phrase i="1866" t="Olaglig parameter i certifikat"/>
+		<phrase i="1867" t="Okänt CA"/>
+		<phrase i="1868" t="Servercertifikatsfel"/>
+		<phrase i="1869" t="Servercertifikatet ej giltigt"/>
+		<phrase i="1870" t="Servercertifikat har utgått"/>
+		<phrase i="1871" t="CRL inte giltigt"/>
+		<phrase i="1872" t="CRL har utgått"/>
+		<phrase i="1873" t="TLS-fel"/>
+		<phrase i="1874" t="Behörighetsfel"/>
+		<phrase i="1875" t="PAC-fel"/>
+		<phrase i="1876" t="Det gick inte att hitta PAC-fil"/>
+		<phrase i="1877" t="Inget lösenord för PAC-fil"/>
+		<phrase i="1878" t="Fel lösenord för PAC-fil"/>
+		<phrase i="1879" t="Ogiltiga attribut i PAC-fil"/>
+		<phrase i="1880" t="802.11n"/>
+		<phrase i="1881" t="Otillräcklig bandbredd"/>
+		<phrase i="1882" t="Bluetooth-inställningar" t.VVX_101_201="Bluetooth-ins"/>
+		<phrase i="1883" t="Plats"/>
+		<phrase i="1884" t="Organisatör" t.VVX_101_201="ORG"/>
+		<phrase i="1885" t="Deltagare som krävs" t.VVX_101_201="Obl deltagare"/>
+		<phrase i="1886" t="Beskrivning"/>
+		<phrase i="1887" t="Fler åtgärder" t.VVX_101_201="Fler"/>
+		<phrase i="1888" t="Evenemang startat"/>
+		<phrase i="1889" t="Session pågår med"/>
+		<phrase i="1890" t="Inget möte bokat"/>
+		<phrase i="1891" t="Nerkopplad från server"/>
+		<phrase i="1892" t="EAP-metod som inte stöds"/>
+		<phrase i="1893" t="Exchange-server kan inte nås"/>
+		<phrase i="1894" t="Borttagen från flash"/>
+		<phrase i="1895" t="Borttagen från filsystemet"/>
+		<phrase i="1896" t="PAC-fil finns redan"/>
+		<phrase i="1897" t="PAC-fil finns inte"/>
+		<phrase i="1898" t="Sennheiser EHS"/>
+		<phrase i="1899" t="Väntar"/>
+		<phrase i="1900" t="Fel användarnamn"/>
+		<phrase i="1901" t="Fel användarnamn el lösenord"/>
+		<phrase i="1902" t="Max antal enheter\nkopplade. Ta bort en \nenhet för att skapa plats."/>
+		<phrase i="1903" t="Annat ursprung"/>
+		<phrase i="1904" t="Ogiltig beg: Konferenssamtal pågår"/>
+		<phrase i="1905" t="DHCP misslyckades"/>
+		<phrase i="1906" t="Autentiserar"/>
+		<phrase i="1907" t="Meddelandeserver ej registrerad"/>
+		<phrase i="1908" t="Kontakter"/>
+		<phrase i="1909" t="Spara kontakt"/>
+		<phrase i="1910" t="Tabellen full"/>
+		<phrase i="1911" t="Ogiltig kontakt"/>
+		<phrase i="1912" t="Närvaroserver inte registrerad"/>
+		<phrase i="1913" t="Närvarufunktion inaktiverad"/>
+		<phrase i="1914" t="Meddelandefunktion inaktiverad"/>
+		<phrase i="1915" t="Begäran skickad"/>
+		<phrase i="1916" t="Fel vid laddning av rotcert"/>
+		<phrase i="1917" t="DHCP-server"/>
+		<phrase i="1918" t="Bluetooth-anslutningsfel\nupptäckt, försöker\nautoåterställa"/>
+		<phrase i="1919" t="Bluetooth-anslutningen\nautoåterställd"/>
+		<phrase i="1920" t="Autoåterställn. av\nBluetooth-anslutning misslyckades"/>
+		<phrase i="1921" t="Ändring av IP-adress"/>
+		<phrase i="1922" t="HT-omstartskommando" t.VVX_101_201="HT omstartskom"/>
+		<phrase i="1923" t="Omstart ställs in"/>
+		<phrase i="1924" t="Alternativ DSP-bild" t.VVX_101_201="Alternativ DSP"/>
+		<phrase i="1925" t="Det gick inte att allokera videominne"/>
+		<phrase i="1926" t="ZTP"/>
+		<phrase i="1927" t="Hookswitch-läge"/>
+		<phrase i="1928" t="Jabra EHS"/>
+		<phrase i="1929" t="Plantronics EHS"/>
+		<phrase i="1930" t="Ange enhetscertifikat"/>
+		<phrase i="1931" t="Ange enhetsnyckel"/>
+		<phrase i="1932" t="Fel enhetsnyckel. Ange rätt nyckel."/>
+		<phrase i="1933" t="Inget enhetscertifikat tillgängligt"/>
+		<phrase i="1934" t="Endast standardinloggning aktiverad" t.IP_330="Endast stand.inlogg. aktiv"/>
+		<phrase i="1935" t="Testa lurens ljud" t.VVX_101_201="Testa lurljud"/>
+		<phrase i="1936" t="Testa högtalartelefonens ljud"/>
+		<phrase i="1937" t="Bearbetar konfiguration…" t.VVX_101_201="Bearb konf"/>
+		<phrase i="1938" t="Det kan ta flera sekunder."/>
+		<phrase i="1939" t="Godkänd"/>
+		<phrase i="1940" t="Avvisad"/>
+		<phrase i="1941" t="Preliminär"/>
+		<phrase i="1942" t="Spela in/spela upp test" t.VVX_101_201="Rec/spel"/>
+		<phrase i="1943" t="Diagnostik för ljusstyrka" t.VVX_101_201="Ljusstyrkediagn"/>
+		<phrase i="1944" t="Det gick inte att initiera diagnostik för ljusstyrka"/>
+		<phrase i="1945" t="Fabriksinstallerad"/>
+		<phrase i="1946" t="Självundertecknad"/>
+		<phrase i="1947" t="Ogiltigt certifikat"/>
+		<phrase i="1948" t="USB-överström upptäckt på port %d. Återställer USB-ström."/>
+		<phrase i="1949" t="Återställer USB-ström."/>
+		<phrase i="1950" t="Kontroll av nätverksnamn" t.IP_330="Kontroll av nätverksnamn." t.VVX_101_201="Kontr nätv.namn"/>
+		<phrase i="1951" t="Profilval" t.VVX_101_201="Profilval"/>
+		<phrase i="1952" t="USB-uppspelning pågår"/>
+		<phrase i="1953" t="Uppspelning av röstbrevlåda pågår"/>
+		<phrase i="1954" t="Verka borta"/>
+		<phrase i="1955" t="Verka offline"/>
+		<phrase i="1956" t="Ange certifikatets URL" t.VVX_101_201="Ange cert-URL"/>
+		<phrase i="1957" t="Ange nyckelns URL"/>
+		<phrase i="1958" t="Borttagning av filsystemets PAC-fil misslyckades" t.IP_330="Borttagning av FS PAC-fil misslyckades"/>
+		<phrase i="1959" t="Borttagning av Flash PAC-fil misslyckades"/>
+		<phrase i="1960" t="Ändra mikrofon"/>
+		<phrase i="1961" t="Mikrofon fram"/>
+		<phrase i="1962" t="Mikrofon bak"/>
+		<phrase i="1963" t="fjärrsamtal"/>
+		<phrase i="1964" t="fjärrsamtal"/>
+		<phrase i="1965" t="samtal"/>
+		<phrase i="1966" t="samtal"/>
+		<phrase i="1967" t="objekt"/>
+		<phrase i="1968" t="objekt"/>
+		<phrase i="1969" t="Ogiltig föreskriftsdomän"/>
+		<phrase i="1970" t="Inställning av ogiltig föreskriftsdomän"/>
+		<phrase i="1971" t="Max aktiv kanal har uppnåtts" t.IP_330="Max kanal uppnåtts"/>
+		<phrase i="1972" t="Sista"/>
+		<phrase i="1973" t="Nästa"/>
+		<phrase i="1974" t="Vill du ta bort den här kontakten?"/>
+		<phrase i="1975" t="Bokmärke"/>
+		<phrase i="1976" t="Knappsats" t.VVX_101_201="Ring"/>
+		<phrase i="1977" t="RedigeraAvbryt"/>
+		<phrase i="1978" t="E-post"/>
+		<phrase i="1979" t="Titel"/>
+		<phrase i="1980" t="Åtgärd avbröts"/>
+		<phrase i="1981" t="Portal"/>
+		<phrase i="1982" t="Avsluta"/>
+		<phrase i="1983" t="Återgå"/>
+		<phrase i="1984" t="Månad"/>
+		<phrase i="1985" t="Dag"/>
+		<phrase i="1986" t="Tyst ringning"/>
+		<phrase i="1987" t="Låg drill"/>
+		<phrase i="1988" t="Låg dubbel drill"/>
+		<phrase i="1989" t="Medelhög drill"/>
+		<phrase i="1990" t="Medelhög dubbel drill" t.VVX_101_201="Med dubbel drill"/>
+		<phrase i="1991" t="Hög drill"/>
+		<phrase i="1992" t="Hög dubbel drill"/>
+		<phrase i="1993" t="Högsta drill"/>
+		<phrase i="1994" t="Högsta dubbel drill" t.VVX_101_201="Högsta dbl drill"/>
+		<phrase i="1995" t="Beeble"/>
+		<phrase i="1996" t="Triplett"/>
+		<phrase i="1997" t="Återuppringningsstil"/>
+		<phrase i="1998" t="Låg drill företräde" t.VVX_101_201="Låg drill före"/>
+		<phrase i="1999" t="Ringsplash"/>
+		<phrase i="2000"/>
+		<phrase i="2001"/>
+		<phrase i="2002"/>
+		<phrase i="2003"/>
+		<phrase i="2004"/>
+		<phrase i="2005"/>
+		<phrase i="2006"/>
+		<phrase i="2007"/>
+		<phrase i="2008"/>
+		<phrase i="2009"/>
+		<phrase i="2010" t="Senaste samtal"/>
+		<phrase i="2011" t="&gt; %1 resultat hittades. Förfina sökning." t.VVX_101_201="&gt; %1 resultat. Förfina sökningen."/>
+		<phrase i="2012" t="Det går inte att förena samtal från olika linjer." t.IP_330="Det går inte att förena samtal."/>
+		<phrase i="2013" t="I samtal"/>
+		<phrase i="2014" t="Arbetar inte"/>
+		<phrase i="2015" t="Digitalt headset anslutet"/>
+		<phrase i="2016" t="Digitalt headset borttaget"/>
+		<phrase i="2017" t="Inaktivitetstimeout"/>
+		<phrase i="2018" t="Utanför arbetstid"/>
+		<phrase i="2019" t="Favoritindex"/>
+		<phrase i="2020" t="Tid/datum inte synkroniserade"/>
+		<phrase i="2021" t="deltagare" t.VVX_300="Dlt" t.VVX_101_201="Dlt"/>
+		<phrase i="2022" t="Kalender: Synkroniserar"/>
+		<phrase i="2023" t="Lägg till i Favoriter"/>
+		<phrase i="2024" t="Webb"/>
+		<phrase i="2025" t="Ta bort USB-enhet" t.VVX_101_201="Ta bort USBenh"/>
+		<phrase i="2026" t="Inbjudningsalternativ" t.VVX_101_201="Inbjudn.alt"/>
+		<phrase i="2027" t="Kalender"/>
+		<phrase i="2028" t="Vill du ange inloggningsuppgifter?"/>
+		<phrase i="2029" t="Koppla från servern"/>
+		<phrase i="2030" t="Anslut till servern" t.VVX_101_201="Anslut t srv"/>
+		<phrase i="2031" t="Ansluten till servern"/>
+		<phrase i="2032" t="Fjärranvändare"/>
+		<phrase i="2033" t="CSR-generering misslyckades"/>
+		<phrase i="2034" t="Min. landskodslängd är 2" t.IP_330="Fel i landskod"/>
+		<phrase i="2035" t="Landskod måste anges"/>
+		<phrase i="2036" t="(abc) ange URL"/>
+		<phrase i="2037" t="(123) ange URL"/>
+		<phrase i="2038" t="Favoritindex finns redan."/>
+		<phrase i="2039" t="Streckkodsuppdatering pågår\nSlutfört: %3d%%"/>
+		<phrase i="2040" t="%1 linjer och %2 kontakter"/>
+		<phrase i="2041" t="Gäst in"/>
+		<phrase i="2042" t="Gäst ut"/>
+		<phrase i="2043" t="Hoteling"/>
+		<phrase i="2044" t="Agentinloggning" t.VVX_101_201="AgtInl"/>
+		<phrase i="2045" t="Agentutloggning" t.VVX_101_201="AUtl"/>
+		<phrase i="2046" t="Använd värd" t.VVX_101_201="Värd"/>
+		<phrase i="2047" t="tom"/>
+		<phrase i="2048" t="q'ing"/>
+		<phrase i="2049" t="ALERT"/>
+		<phrase i="2050" t="Kontakter"/>
+		<phrase i="2051" t="Kontaktlista"/>
+		<phrase i="2052" t="Kontaktens status"/>
+		<phrase i="2053" t="Bevaka kontakt"/>
+		<phrase i="2054" t="Blockera kontakt"/>
+		<phrase i="2055" t="Lägg till kontakt"/>
+		<phrase i="2056" t="Kontaktsekretess"/>
+		<phrase i="2057" t="Du kan inte lägga till dig själv till din kontaktlista" t.IP_330="Du kan inte lägga till dig själv" t.IP_450="Du kan inte lägga till dig själv"/>
+		<phrase i="2058" t="Kontaktinbjudan väntar"/>
+		<phrase i="2059" t="Inloggningsadress" t.VVX_101_201="InlogAdr"/>
+		<phrase i="2060" t="Linjetyp" t.VVX_101_201="Linjetyp"/>
+		<phrase i="2061" t="besvarades av"/>
+		<phrase i="2062" t="Det går inte att spela media"/>
+		<phrase i="2063" t="Mediaformat stöds ej"/>
+		<phrase i="2064" t="Medianätverksfel"/>
+		<phrase i="2065" t="Mediaåtkomst nekad"/>
+		<phrase i="2066" t="Logga in" t.VVX_101_201="Lgin"/>
+		<phrase i="2067" t="Privat samtal"/>
+		<phrase i="2068" t="Inaktivera samtalsöverföring" t.IP_330="Inaktivera samtalsövf." t.VVX_101_201="Inakt samtalsövf"/>
+		<phrase i="2069" t="Överför till en kontakt" t.IP_330="Övrf. till en kontakt" t.VVX_101_201="Övf t kontakt"/>
+		<phrase i="2070" t="Överför till röstbrevlåda" t.IP_330="Övrf till röstbrevlåda" t.VVX_101_201="Övrf till röstbrevlåda"/>
+		<phrase i="2071" t="Speciell interop"/>
+		<phrase i="2072" t="Standard"/>
+		<phrase i="2073" t="LCS2005"/>
+		<phrase i="2074" t="OCS2007r2"/>
+		<phrase i="2075" t="Lync2010"/>
+		<phrase i="2076" t="SRTP-aktiverad"/>
+		<phrase i="2077" t="SRTP-erbjudande"/>
+		<phrase i="2078" t="Autoavkänning"/>
+		<phrase i="2079" t="Max antal Lync-kontakter har uppnåtts" t.IP_330="Max kontakter uppnått"/>
+		<phrase i="2080" t="Begränsad funktionalitet pga. avbrott"/>
+		<phrase i="2081" t="Det går inte att nå server"/>
+		<phrase i="2082" t="Gruppera kontakter"/>
+		<phrase i="2083" t="Begränsad funktionalitet"/>
+		<phrase i="2084" t="Version på inbyggd programvara är" t.VVX_101_201="Inb pgm version"/>
+		<phrase i="2085" t="Intern adress"/>
+		<phrase i="2086" t="Företagskonto" t.VVX_101_201="Företagskonto"/>
+		<phrase i="2087" t="Konto"/>
+		<phrase i="2088" t="Minskad säkerhet på" t.VVX_101_201="Minskad säkerhet"/>
+		<phrase i="2089" t="Platsinformation" t.VVX_101_201="Platsinfo"/>
+		<phrase i="2090" t="Platsval" t.VVX_101_201="Välj plats"/>
+		<phrase i="2091" t="Ställ in din plats" t.VVX_101_201="Ange plats"/>
+		<phrase i="2092" t="City"/>
+		<phrase i="2093" t="Väg"/>
+		<phrase i="2094" t="Gata"/>
+		<phrase i="2095" t="Stig Gatusuffix"/>
+		<phrase i="2096" t="Gatusuffix"/>
+		<phrase i="2097" t="Husnummer"/>
+		<phrase i="2098" t="Husnummersuffix" t.VVX_101_201="Husnummersuffix"/>
+		<phrase i="2099" t="Lägg till Info"/>
+		<phrase i="2100" t="Platsnamn"/>
+		<phrase i="2101" t="Postnummer"/>
+		<phrase i="2102" t="SRTP-meny"/>
+		<phrase i="2103" t="SRTP krävs"/>
+		<phrase i="2104" t="Använd inloggningsuppgifter" t.VVX_101_201="Anv inl.uppg"/>
+		<phrase i="2105" t="Detta är ett nödsamtal" t.IP_330="Nödsamtal" t.IP_450="Nödsamtal"/>
+		<phrase i="2106" t="Streckkodsanslutning"/>
+		<phrase i="2107" t="Streckkodsfrånkoppling" t.VVX_101_201="Streck.fr.kopp"/>
+		<phrase i="2108" t="Tillräcklig bandbredd är inte tillgänglig." t.IP_330="Otillräcklig bandbredd." t.IP_450="Otillräcklig bandbredd."/>
+		<phrase i="2109" t="Försök att ringa igen senare." t.IP_330="Försök att ringa igen." t.IP_450="Försök att ringa igen."/>
+		<phrase i="2110" t="Microsoft Lync"/>
+		<phrase i="2111" t="Loggar in på Microsoft Lync"/>
+		<phrase i="2112" t="Vill du logga ut?"/>
+		<phrase i="2113" t="Inloggad"/>
+		<phrase i="2114" t="Samtal kan ta längre att ansluta" t.IP_330="Samtal fördröjt"/>
+		<phrase i="2115" t="Saknar domän i inloggningsadress"/>
+		<phrase i="2116" t="Saknar serveradress"/>
+		<phrase i="2117" t="Inloggad på Microsoft Lync"/>
+		<phrase i="2118" t="Delegering"/>
+		<phrase i="2119" t="Teamsamtal"/>
+		<phrase i="2120" t="Helpdesk"/>
+		<phrase i="2121" t="Normal ringningstyp"/>
+		<phrase i="2122" t="Privat ringningstyp"/>
+		<phrase i="2123" t="Inloggning till Lync har misslyckats" t.IP_330="Lync-inloggningen misslyckades."/>
+		<phrase i="2124" t="Var god uppdatera din inloggningsinformation"/>
+		<phrase i="2125" t="Generisk"/>
+		<phrase i="2126" t="Lync"/>
+		<phrase i="2127" t="Basprofil"/>
+		<phrase i="2128" t="Kontaktinformation" t.VVX_101_201="Kontaktinfo"/>
+		<phrase i="2129" t="Avancerade alternativ"/>
+		<phrase i="2130" t="Det går inte att logga ut medan samtal pågår. Avsluta alla samtal först." t.IP_330="Det går inte att logga ut"/>
+		<phrase i="2131" t="Ange inloggningsinformation"/>
+		<phrase i="2132" t="Nödsamtal"/>
+		<phrase i="2133" t="Tryck på Talk två gånger i 2 sekunder"/>
+		<phrase i="2134" t="Mutual TLS"/>
+		<phrase i="2135" t="Manuell" t.VVX_101_201="Man"/>
+		<phrase i="2136" t="Normal vibration"/>
+		<phrase i="2137" t="Privat vibration" t.VVX_101_201="Privat vib"/>
+		<phrase i="2138" t="Typ"/>
+		<phrase i="2139" t="Idle Browser"/>
+		<phrase i="2140" t="MCS-hastighet"/>
+		<phrase i="2141" t="Begränsad"/>
+		<phrase i="2142" t="Friskrivning"/>
+		<phrase i="2143" t="Återställ" t.VVX_300="Återställ" t.VVX_1500="Återställ status" t.VVX_500="Återställ status"/>
+		<phrase i="2144" t="Loggar in på Microsoft Lync"/>
+		<phrase i="2145" t="OCSP"/>
+		<phrase i="2146" t="Ej tillgängligt"/>
+		<phrase i="2147" t="Ställer in standardbakgrund"/>
+		<phrase i="2148" t="Överföringen misslyckades"/>
+		<phrase i="2149" t="Rensa webbläsardata" t.VVX_101_201="Rensa läsare"/>
+		<phrase i="2150" t="PIN-autentisering" t.VVX_101_201="PIN-aute"/>
+		<phrase i="2151" t="Anknytning"/>
+		<phrase i="2152" t="PIN"/>
+		<phrase i="2153" t="Användarens inloggningsinfo" t.VVX_101_201="Anv.info"/>
+		<phrase i="2154" t="Väntmusik"/>
+		<phrase i="2155" t="Musikfil"/>
+		<phrase i="2156" t="Filstorleken överskrider maxgränsen"/>
+		<phrase i="2157" t="Musikfil nedladdad"/>
+		<phrase i="2158" t="Använder MOH-standardfil"/>
+		<phrase i="2159" t="Nuvarande MOH är aktiv"/>
+		<phrase i="2160" t="Kontakten är utanför organisationen" t.IP_330="Kontakten är utanför org."/>
+		<phrase i="2161" t="Koppla inte från USB"/>
+		<phrase i="2162" t="på port"/>
+		<phrase i="2163" t="VVX-kamera ansluten. Kameran är redo."/>
+		<phrase i="2164" t="VVX-kamera ansluten. Video tillgängligt vid nästa inaktivitet."/>
+		<phrase i="2165" t="VVX-kamera ansluten. Kontakta administratören för att aktivera video."/>
+		<phrase i="2166" t="VVX-kamera borttagen."/>
+		<phrase i="2167" t="VVX-kamera ansluten. Synkr. av fast program pågår. Ta inte bort kameran."/>
+		<phrase i="2168" t="Uppgr. av fast program för VVX-kamera misslyckades. Kontakta administratören."/>
+		<phrase i="2169" t="Synkr. av fast program för VVX-kamera klart. Kameran är redo."/>
+		<phrase i="2170" t="Synkr. av fast program för VVX-kamera klart. Kontakta administratören för att aktivera video."/>
+		<phrase i="2171" t="Synkr. av fast program för VVX-kamera klart. Video tillgängligt vid nästa inaktivitet."/>
+		<phrase i="2172" t="VVX-kamera är ej ansluten."/>
+		<phrase i="2173" t="Synkr. av fast program för VVX-kamera klart. Kameran omstartas."/>
+		<phrase i="2174" t="Anknytning och PIN saknas"/>
+		<phrase i="2175" t="Anknytning saknas"/>
+		<phrase i="2176" t="PIN saknas"/>
+		<phrase i="2177" t="och starta om"/>
+		<phrase i="2178" t="Videoläge"/>
+		<phrase i="2179" t="Internt fel. Försök igen."/>
+		<phrase i="2180" t="Användaren är inte SIP-aktiverad"/>
+		<phrase i="2181" t="Internt Windows-autentiseringsfel."/>
+		<phrase i="2182" t="Anknytningen är ogiltig"/>
+		<phrase i="2183" t="Ogiltig PIN "/>
+		<phrase i="2184" t="Telefonnumret är tvetydigt"/>
+		<phrase i="2185" t="PIN-kod är inte inställt"/>
+		<phrase i="2186" t="PIN-koden har förfallit"/>
+		<phrase i="2187" t="Kontot är låst"/>
+		<phrase i="2188" t="Kontot är inaktiverat"/>
+		<phrase i="2189" t="Internt serverfel"/>
+		<phrase i="2190" t="Certifikatförhandlingen misslyckades"/>
+		<phrase i="2191" t="Certifikatet har förfallit"/>
+		<phrase i="2192" t="Certifikatet är ogiltigt"/>
+		<phrase i="2193" t="Hittade ej certifikatet"/>
+		<phrase i="2194" t="Hittade ej användaren i databasen"/>
+		<phrase i="2195" t="Fel vid behandling av OCS-signerat certifikat"/>
+		<phrase i="2196" t="Ogiltig kontrollticket"/>
+		<phrase i="2197" t="Live ID-token kan inte slås upp"/>
+		<phrase i="2198" t="Live ID-token med felaktig platspolicy"/>
+		<phrase i="2199" t="ID-token ej associerat med användarkonto"/>
+		<phrase i="2200" t="Inget giltigt säkerhetstoken"/>
+		<phrase i="2201" t="Säkerhetstokentypen stöds ej"/>
+		<phrase i="2202" t="Ingen giltig subjektsats"/>
+		<phrase i="2203" t="Ingen giltig meddelandesäkerhet"/>
+		<phrase i="2204" t="Autentiseringen misslyckades"/>
+		<phrase i="2205" t="Inget giltigt säkerhetsobjekt"/>
+		<phrase i="2206" t="Generering av privat nyckel pågår. Du kan inte logga ut nu. Försök igen senare."/>
+		<phrase i="2207" t="Tabb"/>
+		<phrase i="2208" t="Lync-katalog"/>
+		<phrase i="2209" t="Telefonen är inte registrerad hos Lync"/>
+		<phrase i="2210" t="Lägg till i Kontakter" t.VVX_300="L till" t.VVX_101_201="L t knt"/>
+		<phrase i="2211" t="Inga kontakter"/>
+		<phrase i="2212" t="ABS"/>
+		<phrase i="2213" t="Det gick inte att behandla begäran"/>
+		<phrase i="2214" t="Tjänsten ej konfigurerad"/>
+		<phrase i="2215" t="Tillagd till Lync-kontakter"/>
+		<phrase i="2216" t="IP-läge"/>
+		<phrase i="2217" t="IPv4"/>
+		<phrase i="2218" t="IPv6"/>
+		<phrase i="2219" t="IPv4 och IPv6"/>
+		<phrase i="2220" t="IPv4-konfiguration" t.VVX_101_201="IPv4-konfig"/>
+		<phrase i="2221" t="IPv6-konfiguration" t.VVX_101_201="IPv6-konfig"/>
+		<phrase i="2222" t="Nätverk som föredras" t.VVX_101_201="Önskat nätverk"/>
+		<phrase i="2223" t="IPv6-adressavkänning" t.VVX_101_201="IPv6-adressavk"/>
+		<phrase i="2224" t="DHCPv6"/>
+		<phrase i="2225" t="SLAAC"/>
+		<phrase i="2226" t="Global adress"/>
+		<phrase i="2227" t="Länklokal adress"/>
+		<phrase i="2228" t="ULA"/>
+		<phrase i="2229" t="IPv6-adress"/>
+		<phrase i="2230" t="IPv4-adress"/>
+		<phrase i="2231" t="IP-konfiguration"/>
+		<phrase i="2232" t="Ange giltig IPv4-adress"/>
+		<phrase i="2233" t="Ange giltig IPv6-adress"/>
+		<phrase i="2234" t="IPv6-gateway"/>
+		<phrase i="2235" t="Startsrv-avk."/>
+		<phrase i="2236" t="DHCPv4"/>
+		<phrase i="2237" t="DHCPv4v6"/>
+		<phrase i="2238" t="Dubblerad IPv6-adress"/>
+		<phrase i="2239" t="Dubblerad IPv4-adress"/>
+		<phrase i="2240" t="DHCPv6 misslyckades"/>
+		<phrase i="2241" t="Ange giltig IPv4/IPv6-adress" t.IP_330="Ange IPv4/IPv6-adress"/>
+		<phrase i="2242" t="Ange giltig IPv4-adr eller URL" t.IP_330="Ange IPv4-adr eller URL"/>
+		<phrase i="2243" t="Ange giltig IPv6-adr eller URL" t.IP_330="Ange IPv6-adr eller URL"/>
+		<phrase i="2244" t="1/A/a/0x" t.VVX_101_201="1/A"/>
+		<phrase i="2245" t="IPv6 VLAN-avkänning" t.VVX_101_201="IPv6 VLAN-avkänn"/>
+		<phrase i="2246" t="Ange giltig länklokal adress"/>
+		<phrase i="2247" t="Ange giltig ULA"/>
+		<phrase i="2248" t="Ange giltig global adress"/>
+		<phrase i="2249" t="SHA1-fingeravtryck"/>
+		<phrase i="2250" t="SHA1"/>
+		<phrase i="2251" t="TR-069"/>
+		<phrase i="2252" t="CPE-användarnamn"/>
+		<phrase i="2253" t="CPE-lösenord"/>
+		<phrase i="2254" t="Aktivera inform"/>
+		<phrase i="2255" t="Inform-tid"/>
+		<phrase i="2256" t="TR069-meny"/>
+		<phrase i="2257" t="ACS-konfiguration" t.VVX_101_201="ACS-konfig"/>
+		<phrase i="2258" t="Telefon/CPE-konfiguration" t.VVX_101_201="Telefon/CPE-konf"/>
+		<phrase i="2259" t="Uppgraderingshantering" t.VVX_101_201="Uppgr.hant"/>
+		<phrase i="2260" t="Inform till server"/>
+		<phrase i="2261" t="Inform-tid"/>
+		<phrase i="2262" t="Inform-intervall"/>
+		<phrase i="2263" t="Broadsoft-katalog" t.VVX_101_201="Broadsoft-kat"/>
+		<phrase i="2264" t="UC-One-kontakter"/>
+		<phrase i="2265" t="IPv4-gateway"/>
+		<phrase i="2266" t="LCD-återställningsrutin"/>
+		<phrase i="2267" t="EM1"/>
+		<phrase i="2268" t="EM2"/>
+		<phrase i="2269" t="EM3"/>
+		<phrase i="2270" t="Ej tilldelad"/>
+		<phrase i="2271" t="Linjenyckelinfo"/>
+		<phrase i="2272" t="Återställ PSTN-landsinställningar"/>
+		<phrase i="2273" t="Landsinställningar"/>
+		<phrase i="2274" t="Rensade PSTN-inställningarna"/>
+		<phrase i="2275" t="Återgå till samtal"/>
+		<phrase i="2276" t="Samtal parkerat till kopplingsnummer"/>
+		<phrase i="2277" t="Samtalet kan inte parkeras. Max antal samtal parkerade på servern"/>
+		<phrase i="2278" t="Parkering pågår"/>
+		<phrase i="2279" t="för att hämta parkerat samtal"/>
+		<phrase i="2280" t="Parkeraren la på innan samtalet hämtades"/>
+		<phrase i="2281" t="Parkerat samtal avbröts"/>
+		<phrase i="2282" t="Samtal besvarades av"/>
+		<phrase i="2283" t="Parkering misslyckades. Försök igen senare."/>
+		<phrase i="2284" t="Parkerat samtal överfört till reserv-URI"/>
+		<phrase i="2285" t="Parkering misslyckades. Inget svar från servern"/>
+		<phrase i="2286" t="Inget parkerat samtal att hämta"/>
+		<phrase i="2287" t="Enhetsuppdatering finns. Tryck Starta om för att uppdatera."/>
+		<phrase i="2288" t="Enh.uppd." t.VVX_101_201="EUppd"/>
+		<phrase i="2289" t="Omstart om 15 sekunder för enhetsuppdatering. Tryck på en tangent för att avbryta enhetsuppdateringen"/>
+		<phrase i="2290" t="Aktuell version" t.VVX_101_201="Akt version"/>
+		<phrase i="2291" t="Version på servern" t.VVX_101_201="Srv.version"/>
+		<phrase i="2292" t="Inaktivitetstimeout"/>
+		<phrase i="2293" t="Lync-enhetsuppdatering"/>
+		<phrase i="2294" t="Uppdateringsstatus" t.VVX_101_201="Status"/>
+		<phrase i="2295" t="Enheten inaktiv"/>
+		<phrase i="2296" t="Uppdatering finns"/>
+		<phrase i="2297" t="Uppdatering ej tillgänglig" t.VVX_101_201="Uppd ej tillg"/>
+		<phrase i="2298" t="Inte aktiverat på servern"/>
+		<phrase i="2299" t="Inte aktiverat på telefonen"/>
+		<phrase i="2300" t="Felaktig begäran"/>
+		<phrase i="2301" t="Felaktigt svar"/>
+		<phrase i="2302" t="Filöverföringsfel"/>
+		<phrase i="2303" t="Okänt fel"/>
+		<phrase i="2304" t="Kontaktad"/>
+		<phrase i="2305" t="Företagssökning" t.VVX_101_201="Företagssök"/>
+		<phrase i="2306" t="Alla kontakter"/>
+		<phrase i="2307" t="Autentiseringsfel"/>
+		<phrase i="2308" t="Serverns certifikat kunde inte verifieras"/>
+		<phrase i="2309" t="Minnet slut"/>
+		<phrase i="2310" t="Filtrera kontakter"/>
+		<phrase i="2311" t="Tomt svar från servern"/>
+		<phrase i="2312" t="Hittade ej tjänsten"/>
+		<phrase i="2313" t="Sökningen misslyckades. Kontrollera din konfiguration."/>
+		<phrase i="2314" t="Numret är inte tillgängligt"/>
+		<phrase i="2315" t="%s av %s poster hittades"/>
+		<phrase i="2316" t="%s poster hittades"/>
+		<phrase i="2317" t="%s post hittades"/>
+		<phrase i="2318" t="Hittade inga poster"/>
+		<phrase i="2319" t="Företagssökningen misslyckades"/>
+		<phrase i="2320" t="Lägg till i lokal katalog"/>
+		<phrase i="2321" t="Kontakt tillagd i lokala katalogen"/>
+		<phrase i="2322" t="Kontakten finns redan i lokala katalogen"/>
+		<phrase i="2323" t="Det gick inte att lägga till kontakten i lokala katalogen"/>
+		<phrase i="2324" t="Arbete"/>
+		<phrase i="2325" t="Avancerad sökning" t.VVX_101_201="AvSö"/>
+		<phrase i="2326" t="Alternativ"/>
+		<phrase i="2327" t="Skiftlägeskänslig" t.VVX_1500="SklKn" t.VVX_500="SklKn"/>
+		<phrase i="2328" t="Sök kontakter" t.VVX_101_201="Sök"/>
+		<phrase i="2329" t="Är du säker på att du vill lägga till denna kontakt i den lokala katalogen?"/>
+		<phrase i="2330" t="la till dig som ombud"/>
+		<phrase i="2331" t="tog bort dig som ombud"/>
+		<phrase i="2332" t="lades till som ditt ombud"/>
+		<phrase i="2333" t="togs bort som ditt ombud"/>
+		<phrase i="2334" t="Chef/admin-kontakter uppdaterade"/>
+		<phrase i="2335" t="Flera användare la till dig som ombud"/>
+		<phrase i="2336" t="Flera användare tog bort dig som ombud"/>
+		<phrase i="2337" t="Flera användare tillagda som ditt ombud"/>
+		<phrase i="2338" t="Flera användare togs bort som ditt ombud"/>
+		<phrase i="2339" t="Samtidig ringning aktiverat"/>
+		<phrase i="2340" t="Samtidig ringning inaktiverat"/>
+		<phrase i="2341" t="På uppdrag av"/>
+		<phrase i="2342" t="Samtal på uppdrag av"/>
+		<phrase i="2343" t="Ringningstyp för delegering" t.VVX_101_201="Delegeringringn."/>
+		<phrase i="2344" t="Samtalsöverföring aktiverat"/>
+		<phrase i="2345" t="Samtalsöverföring inaktiverat"/>
+		<phrase i="2346" t="Ej tillämpligt"/>
+		<phrase i="2347" t="Ej kontaktad server"/>
+		<phrase i="2348" t="Ringer också ombud"/>
+		<phrase i="2349" t="Tangentbordslayout"/>
+		<phrase i="2350" t="Better Together aktiverat"/>
+		<phrase i="2351" t="Better Together inaktiverat"/>
+		<phrase i="2352" t="BTOE"/>
+		<phrase i="2353" t="BTOE-kopplingsstatus"/>
+		<phrase i="2354" t="Koppla"/>
+		<phrase i="2355" t="Koppla från"/>
+		<phrase i="2356" t="Försöker koppla med PC"/>
+		<phrase i="2357" t="Kopplingen lyckades"/>
+		<phrase i="2358" t="Frånkopplingen lyckades"/>
+		<phrase i="2359" t="Kör BToE-appen på din PC för att koppla"/>
+		<phrase i="2360" t="Koppl. Lync-klient"/>
+		<phrase i="2361" t="Logga in på/starta Lync-klient"/>
+		<phrase i="2362" t="Enhetsinstallation på PC pågår"/>
+		<phrase i="2363" t="Vidarebefordrad av"/>
+		<phrase i="2364" t="Enhetsuppdatering finns"/>
+		<phrase i="2365" t="Parkerat samtal avbryts. Inget svar från servern"/>
+		<phrase i="2366" t="och ombud"/>
+		<phrase i="2367" t="Är du säker på att du vill ta bort denna som favorit?"/>
+		<phrase i="2368" t="Papper"/>
+		<phrase i="2369" t="LCD"/>
+		<phrase i="2370" t="på"/>
+		<phrase i="2371" t="Kopplingen misslyckades"/>
+		<phrase i="2372" t="PC-porten är nere"/>
+		<phrase i="2373" t="Det gick inte att aktivera BTOE"/>
+		<phrase i="2374" t="En presentatör har stängt av ditt ljud"/>
+		<phrase i="2375" t="En presentatör vill att du sätter på ditt ljud"/>
+		<phrase i="2376" t="Överfört"/>
+		<phrase i="2377" t="Fjärrhanterat"/>
+		<phrase i="2378" t="Avvisat"/>
+		<phrase i="2379" t="Avbrutet"/>
+		<phrase i="2380" t="Partiellt"/>
+		<phrase i="2381" t="Vidarebefordrat av användare"/>
+		<phrase i="2382" t="Vidarebefordrat"/>
+		<phrase i="2383" t="Det gick inte att registrera Exchange-kalender"/>
+		<phrase i="2384" t="Kortnamn"/>
+		<phrase i="2385" t="SIP-adress" t.VVX_101_201="SIP-adr"/>
+		<phrase i="2386" t="Arbete"/>
+		<phrase i="2387" t="Hem"/>
+		<phrase i="2388" t="Mobil"/>
+		<phrase i="2389" t="Sökare"/>
+		<phrase i="2390" t="Välj adress att ringa till"/>
+		<phrase i="2391" t="Välj ett sökattribut"/>
+		<phrase i="2392" t="Global adressbok" t.VVX_101_201="Global adressbok"/>
+		<phrase i="2393" t="Global adressbok" t.VVX_101_201="Global adressbok"/>
+		<phrase i="2394" t="Global adressbok" t.VVX_101_201="Global adressbok"/>
+		<phrase i="2395" t="Vylagring"/>
+		<phrase i="2396" t="SIP-adress krävs"/>
+		<phrase i="2397" t="Dubblerad SIP-adress"/>
+		<phrase i="2398" t="Kortnamn krävs"/>
+		<phrase i="2399" t="Dubblerat kortnamn"/>
+		<phrase i="2400" t="Kontaktkatalog" t.VVX_101_201="Kontaktkat"/>
+		<phrase i="2401" t="Initierar nätverket"/>
+		<phrase i="2402" t="SOPI"/>
+		<phrase i="2403" t="Strömvarning"/>
+		<phrase i="2404" t="kan inte sättas igång"/>
+		<phrase i="2405" t="Övre USB-portenhet" t.VVX_101_201="Övre USB-enhet"/>
+		<phrase i="2406" t="Bakre USB-portenhet" t.VVX_101_201="Bakre USB-enhet"/>
+		<phrase i="2407" t="Övre USB-port"/>
+		<phrase i="2408" t="Bakre USB-port"/>
+		<phrase i="2409" t="är avstängd"/>
+		<phrase i="2410" t="Expansionsmodul"/>
+		<phrase i="2411" t="eller"/>
+		<phrase i="2412" t="stängdes av på grund av begränsad strömförsörjning"/>
+		<phrase i="2413" t="på grund av att expansionsmodul anslöts."/>
+		<phrase i="2414" t="stängdes av på grund av överström."/>
+		<phrase i="2415" t="på grund av begränsad strömförsörjning."/>
+		<phrase i="2416" t="Kontrollera att PC-porten är ansluten"/>
+		<phrase i="2417" t="Blockerad"/>
+		<phrase i="2418" t="I konferenssamtal"/>
+		<phrase i="2419" t="Presenterar"/>
+		<phrase i="2420" t="Frånvarande"/>
+		<phrase i="2421" t="Endast brådskande avbrott"/>
+		<phrase i="2422" t="Arbetar inte"/>
+		<phrase i="2423" t="Inga samtal väntar"/>
+		<phrase i="2424" t="Du meddelas om ljudet slås på för deltagarna och du kan styra din ljudstatus"/>
+		<phrase i="2425" t="Enhet"/>
+		<phrase i="2426" t="Enhetsnamn"/>
+		<phrase i="2427" t="Programuppgradering"/>
+		<phrase i="2428" t="Uppdateringsserver"/>
+		<phrase i="2429" t="Uppdateringsfrekvens"/>
+		<phrase i="2430" t="Uppdateringstid"/>
+		<phrase i="2431" t="Aldrig"/>
+		<phrase i="2432" t="Tystknappfunktion" t.VVX_101_201="Tystknappfunkt"/>
+		<phrase i="2433" t="Endast mikrofon"/>
+		<phrase i="2434" t="Mikrofon och kamera" t.VVX_101_201="Mik och kamera"/>
+		<phrase i="2435" t="Strömfrekvens"/>
+		<phrase i="2436" t="50 Hz"/>
+		<phrase i="2437" t="50 Hz - 30fps (östra Japan)" t.VVX_101_201="50Hz-30fps(ÖJapan)"/>
+		<phrase i="2438" t="60 Hz"/>
+		<phrase i="2439" t="Headsetläge inaktiverat"/>
+		<phrase i="2440" t="Alla ljudlägen är inaktiverade"/>
+		<phrase i="2441" t="Lägg av luren för ljud"/>
+		<phrase i="2442" t="Säkerhetsklassificering" t.VVX_101_201="Säkerhetsklass"/>
+		<phrase i="2443" t="Säkerhetsnivå"/>
+		<phrase i="2444" t="Aktuell samtalssäkerhetsnivå nedgraderad till"/>
+		<phrase i="2445" t="Aktuell samtalssäkerhetsnivå uppgraderad till"/>
+		<phrase i="2446" t="Tilldelad"/>
+		<phrase i="2447" t="Åsidosättning pågår"/>
+		<phrase i="2448" t="Samtalsinspelningsläge"/>
+		<phrase i="2449" t="Alltid med pausa/återuppta" t.VVX_300="Alltid med P/Å"/>
+		<phrase i="2450" t="På begäran"/>
+		<phrase i="2451" t="På begäran med användarinitierad start" t.VVX_300="På begär m start"/>
+		<phrase i="2452" t="Inspelning pausad"/>
+		<phrase i="2453" t="Inspelning återupptagen"/>
+		<phrase i="2454" t="Inspelning stoppad"/>
+		<phrase i="2455" t="Inspelning startad"/>
+		<phrase i="2456" t="Det gick inte att starta inspelning nu"/>
+		<phrase i="2457" t="Behandlar föregående begäran…"/>
+		<phrase i="2458" t="Konfigurering av webbserver" t.VVX_101_201="Konfig. av webbsrv"/>
+		<phrase i="2459" t="HTTP/HTTPS"/>
+		<phrase i="2460" t="Endast HTTP"/>
+		<phrase i="2461" t="Endast HTTPS"/>
+		<phrase i="2462" t="Standardlösenord för admin används. Kontakta administratören." t.VVX_300="Ändra stdadminlösenord" t.VVX_101_201="Std.adminlösenord används"/>
+		<phrase i="2463" t="Webbserver"/>
+		<phrase i="2464" t="Standardlösenord för admin används. Ändra lösenordet."/>
+		<phrase i="2465" t="Webbkonfig.läge" t.VVX_101_201="Webbkonfig"/>
+		<phrase i="2466" t="Stör ej-funktionen inaktiverad"/>
+		<phrase i="2467" t="Det går inte att ringa till privat namn"/>
+		<phrase i="2468" t="Avvisa väntande samtal"/>
+		<phrase i="2469" t="Presentatören har stängt av ljudet för deltagarna"/>
+		<phrase i="2470" t="Presentatören har slagit på ljudet för deltagarna"/>
+		<phrase i="2471" t="Det går inte att ansluta eftersom den andra parten har parkerat samtalet"/>
+		<phrase i="2472" t="Avsluta: tryck på samma knapp igen"/>
+		<phrase i="2473" t="Lägga till i Favoriter med index %1?"/>
+		<phrase i="2474" t="Redigera index" t.VVX_101_201="RedIx"/>
+		<phrase i="2475" t="Ställ in datum/tid"/>
+		<phrase i="2476" t="Timme"/>
+		<phrase i="2477" t="Minut"/>
+		<phrase i="2478" t="År"/>
+		<phrase i="2479" t="Månad"/>
+		<phrase i="2480" t="+ favor." t.VVX_101_201="Fav"/>
+		<phrase i="2481" t="Parkering misslyckades. Återgår till samtal."/>
+		<phrase i="2482" t="Hämtning av certifikat pågår"/>
+		<phrase i="2483" t="Hämtning av certifikat misslyckades."/>
+		<phrase i="2484" t="En kontakt kan inte tilldelas till den valda linjenyckeln."/>
+		<phrase i="2485" t="Hämtar användarinformation"/>
+		<phrase i="2486" t="Chefens röstbrevlåda" t.VVX_101_201="RB"/>
+		<phrase i="2487" t="Annan"/>
+		<phrase i="2488" t="Förnyar säkerhetsassociation."/>
+		<phrase i="2489" t="Intercom" t.VVX_101_201="Intcm"/>
+		<phrase i="2490" t="Genband"/>
+		<phrase i="2491" t="Utloggning pågår"/>
+		<phrase i="2492" t="Produktserienummer" t.VVX_101_201="Produkt-SN"/>
+		<phrase i="2493" t="Enhetens programvaruversion" t.VVX_101_201="Enhetspgmver"/>
+		<phrase i="2494" t="Säker övf" t.VVX_300="Säker övf" t.VVX_101_201="SÖvf"/>
+		<phrase i="2495" t="Krypterad enhetsnyckel stöds ej"/>
+		<phrase i="2496" t="SSL v2/v3"/>
+		<phrase i="2497" t="BroadWorks Anywhere"/>
+		<phrase i="2498" t="Fjärrkontor"/>
+		<phrase i="2499" t="Blockering av linje-ID-leverans"/>
+		<phrase i="2500" t="Anonym samtalsavvisning"/>
+		<phrase i="2501" t="Ring samtidigt personlig" t.VVX_101_201="Ring samt prsnl"/>
+		<phrase i="2502" t="Inställningar för UC-One-samtal" t.VVX_101_201="UCOne-samt.inst"/>
+		<phrase i="2503" t="UC-One"/>
+		<phrase i="2504" t="Typval för samtalsinställningar"/>
+		<phrase i="2505" t="Samtalet är parkerat"/>
+		<phrase i="2506" t="Parkeringsinfo" t.VVX_101_201="PInfo"/>
+		<phrase i="2507" t="Parkerat samtal"/>
+		<phrase i="2508" t="UC-One-inloggningsuppgifter" t.VVX_101_201="UCOne-uppg"/>
+		<phrase i="2509" t="Pvt park." t.VVX_101_201="PPark"/>
+		<phrase i="2510" t="Svarsbekräftelse krävs"/>
+		<phrase i="2511" t="Ogiltigt telefonnummer"/>
+		<phrase i="2512" t="Ogiltigt domännamn"/>
+		<phrase i="2513" t="Ogiltig SIP-URI"/>
+		<phrase i="2514" t="Primärt nummer"/>
+		<phrase i="2515" t="Alt. Nummer / SIP-URI"/>
+		<phrase i="2516" t="Samtalskontroll"/>
+		<phrase i="2517" t="Omdirigeringshindrare"/>
+		<phrase i="2518" t="Hittade ingen plats"/>
+		<phrase i="2519" t="Ta bort platsen?"/>
+		<phrase i="2520" t="Telefonnumret får inte vara tomt"/>
+		<phrase i="2521" t="Ta bort platspost"/>
+		<phrase i="2522" t="Numret finns redan"/>
+		<phrase i="2523" t="Kräver minst ett telefonnummer"/>
+		<phrase i="2524" t="En programuppdatering finns. Tryck Uppdatera för att starta."/>
+		<phrase i="2525" t="Programuppdatering"/>
+		<phrase i="2526" t="Senarelägg"/>
+		<phrase i="2527" t="Omstart för programuppdatering om %s." t.VVX_300="Omstart för pgmuppd om %s."/>
+		<phrase i="2528" t="15 minuter"/>
+		<phrase i="2529" t="1 timme"/>
+		<phrase i="2530" t="2 timmar"/>
+		<phrase i="2531" t="4 timmar"/>
+		<phrase i="2532" t="6 timmar"/>
+		<phrase i="2533" t="Senareläggningar/Tillåtna senareläggningar" t.VVX_101_201="Senlgd/Tllt senlgg"/>
+		<phrase i="2534" t="Pgm.uppd." t.VVX_101_201="PgmUp"/>
+		<phrase i="2535" t="Senareläggningstiden har löpt ut."/>
+		<phrase i="2536" t="Senarelagd"/>
+		<phrase i="2537" t="Platser"/>
+		<phrase i="2538" t="Standardtyp för överföring" t.VVX_101_201="Stdtyp för överf."/>
+		<phrase i="2539" t="Överföringstyp"/>
+		<phrase i="2540" t="Rådgivande"/>
+		<phrase i="2541" t="Vidarekoppla samtal till ombud"/>
+		<phrase i="2542" t="Ring samtidigt ombud"/>
+		<phrase i="2543" t="Ringningstyp för chef"/>
+		<phrase i="2544" t="Chefslinjer"/>
+		<phrase i="2545" t="Tysta alla" t.VVX_101_201="Tst.a"/>
+		<phrase i="2546" t="Akt.Ann" t.VVX_101_201="AktAn"/>
+		<phrase i="2547" t="Inakt.Ann" t.VVX_101_201="InaAn"/>
+		<phrase i="2548" t="Deltagarlista" t.VVX_101_201="Delt"/>
+		<phrase i="2549" t="Kan inte ta bort deltagaren från samtalet"/>
+		<phrase i="2550" t="Bjud in"/>
+		<phrase i="2551" t="Sänk"/>
+		<phrase i="2552" t="Höj"/>
+		<phrase i="2553" t="Föreg."/>
+		<phrase i="2554" t="Deltagare"/>
+		<phrase i="2555" t="Deltagare" t.VVX_101_201="Deltg"/>
+		<phrase i="2556" t="Inkommande konferenssamtal"/>
+		<phrase i="2557" t="Möte nu" t.VVX_101_201="Möte"/>
+		<phrase i="2558" t="Startar konferenssamtal"/>
+		<phrase i="2559" t="Konferenstjänsten svarar inte. Försök igen senare"/>
+		<phrase i="2560" t="Internt konferensfel. Försök igen."/>
+		<phrase i="2561" t="Konferenstjänsten svarade inte. Gick inte att lägga till dig själv till konferensen"/>
+		<phrase i="2562" t="Ljud/video-konferensservern kan inte acceptera samtalet"/>
+		<phrase i="2563" t="Kunde inte lägga till deltagaren till konferensen"/>
+		<phrase i="2564" t="Deltagaren svarade inte på din inbjudan"/>
+		<phrase i="2565" t="Deltagaren tackade nej till din inbjudan"/>
+		<phrase i="2566" t="Deltagaren kan inte acceptera inbjudan"/>
+		<phrase i="2567" t="Deltagaren finns inte"/>
+		<phrase i="2568" t="Du har blivit uppflyttad till presentatör"/>
+		<phrase i="2569" t="Du har blivit nedflyttad till deltagare"/>
+		<phrase i="2570" t="Användaren har inte behörigheter för den begärda funktionen."/>
+		<phrase i="2571" t="Du har tagits bort från konferensen av en presentatör"/>
+		<phrase i="2572" t="Testen lyckades. Konferensens tillstånd är bra."/>
+		<phrase i="2573" t="Konferensalternativ"/>
+		<phrase i="2574" t="Uppringningsnummer"/>
+		<phrase i="2575" t="Mötet är nu låst."/>
+		<phrase i="2576" t="Mötet är nu upplåst."/>
+		<phrase i="2577" t="Ring alla"/>
+		<phrase i="2578" t="Tillåt"/>
+		<phrase i="2579" t="Neka"/>
+		<phrase i="2580" t="Konf.alt." t.VVX_101_201="Alt"/>
+		<phrase i="2581" t="Konferenssamtal är inte tillgängligt. Försök igen senare."/>
+		<phrase i="2582" t="Väntar i lobbyn på att få tillträde till mötet"/>
+		<phrase i="2583" t="Ljud/video-konferensservern avbröt samtalet. Kan inte ansluta till konferensen."/>
+		<phrase i="2584" t="Testa konferensens tillstånd"/>
+		<phrase i="2585" t="Testar konferensen tillstånd"/>
+		<phrase i="2586" t="Väntetiden i lobbyn har löpt ut. Lämnar mötet."/>
+		<phrase i="2587" t="Du fick inte tillträde till mötet"/>
+		<phrase i="2588" t="Du har ersatts av en annan deltagare"/>
+		<phrase i="2589" t="Du kan inte bjuda in en deltagare som redan deltar i konferensen."/>
+		<phrase i="2590" t="Konferensservern försöker överföra en deltagare."/>
+		<phrase i="2591" t="Är du säker på att du vill starta en konferens?"/>
+		<phrase i="2592" t="Kan inte bjuda in flera deltagare till konferensen"/>
+		<phrase i="2593" t="Anslut till Lync-möte"/>
+		<phrase i="2594" t="Flera konferenser stöds inte"/>
+		<phrase i="2595" t="Autentisering för Exchange-webbtjänsten misslyckades" t.VVX_101_201="EWS-aut missl"/>
+		<phrase i="2596" t="Samtalsloggar är inte tillgängligt" t.VVX_101_201="Samt.lggr otillg"/>
+		<phrase i="2597" t="Visual Voicemail är inte tillgängligt" t.VVX_101_201="VVM otillg"/>
+		<phrase i="2598" t="Outlook-kontakter är inte tillgängligt" t.VVX_101_201="Otlk-kont otillg"/>
+		<phrase i="2599" t="Unified Messaging är inte tillgängligt" t.VVX_101_201="Unfy Msg otillg"/>
+		<phrase i="2600" t="Spela upp på telefon är inte tillgängligt" t.VVX_101_201="POPhone otillg"/>
+		<phrase i="2601" t="Outlook-sökning"/>
+		<phrase i="2602" t="Markera som läst" t.VVX_101_201="Läst"/>
+		<phrase i="2603" t="Markera som oläst" t.VVX_101_201="Oläst"/>
+		<phrase i="2604" t="Källa"/>
+		<phrase i="2605" t="Outlook"/>
+		<phrase i="2606" t="Epost-ID behövs för att starta tjänsten för autoavkänning." t.VVX_101_201="Epost krävs AA"/>
+		<phrase i="2607" t="Tjänsten för autoavkänning kunde inte hämta EWS-URL:er." t.VVX_101_201="AuAvk ej EWSURL"/>
+		<phrase i="2608" t="Tar bort röstmeddelande"/>
+		<phrase i="2609" t="Spelar upp röstmeddelande"/>
+		<phrase i="2610" t="Markerar röstmeddelande som "/>
+		<phrase i="2611" t="Konferens-ID"/>
+		<phrase i="2612" t="Till mobil"/>
+		<phrase i="2613" t="Väntmusikstatus"/>
+		<phrase i="2614" t="Väntmusik är inte tillgängligt när ett aktivt samtal pågår."/>
+		<phrase i="2615" t="Försök igen senare"/>
+		<phrase i="2616" t="Filter"/>
+		<phrase i="2617" t="PC-ljud"/>
+		<phrase i="2618" t="När samtalet besvaras spelas ljud upp i telefonen och video på datorn"/>
+		<phrase i="2619" t="Betan går ut om"/>
+		<phrase i="2620" t="Betaprogramvaran har gått ut"/>
+		<phrase i="2621" t="NTP-server har inte konfigurerats"/>
+		<phrase i="2622" t="Registrering är inte tillåtet för utgången programvara"/>
+		<phrase i="2623" t="Betaprogram"/>
+		<phrase i="2624" t="Gränsen för maximalt antal deltagare har nåtts. Kan inte ansluta till konferensen"/>
+		<phrase i="2625" t="Konferensen har avslutats eftersom värdarna har lämnat den"/>
+		<phrase i="2626" t="Konferensen har avslutats eftersom organisatören har avslutat sessionen"/>
+		<phrase i="2627" t="Kan inte hitta onlinemötet"/>
+		<phrase i="2628" t="Ring samtidigt till teamsamtal"/>
+		<phrase i="2629" t="Ring samtidigt till en kontakt"/>
+		<phrase i="2630" t="Samtalsinställningar"/>
+		<phrase i="2631" t="Nedladdning av väntmusikfil pågår fortfarande. Var vänlig vänta."/>
+		<phrase i="2632" t="Inställningar för inaktiv skärm"/>
+		<phrase i="2633" t="Kolumner"/>
+		<phrase i="2634" t="Påminnelseintervall"/>
+		<phrase i="2635" t="Följ arbetstider"/>
+		<phrase i="2636" t="Påminnelse för fjärrparkering"/>
+		<phrase i="2637" t="Prioritetsmeddelande"/>
+		<phrase i="2638" t="Streckkodssignal"/>
+		<phrase i="2639" t="PTT-sändning"/>
+		<phrase i="2640" t="PTT-väntan"/>
+		<phrase i="2641" t="Hörbar en gång"/>
+		<phrase i="2642" t="Alltid hörbar"/>
+		<phrase i="2643" t="Påminnelsetyp"/>
+		<phrase i="2644" t="Påminnelseinställningar"/>
+		<phrase i="2645" t="Exchange-tjänster ej tillgängliga" t.VVX_300="Exchange otillgängligt" t.VVX_101_201="Exch otillg"/>
+		<phrase i="2646" t="Transparenta linjer"/>
+		<phrase i="2647" t="Samtalslista: Synkroniserar"/>
+		<phrase i="2648" t="Röstbrevlåda: Synkroniserar"/>
+		<phrase i="2649" t="Kontakter: Synkroniserar"/>
+		<phrase i="2650" t="Initierat återuppringning av röstbrevlåda"/>
+		<phrase i="2651" t="Tidsgränsen för återuppringning av röstbrevlåda överskreds. Inget svar från servern."/>
+		<phrase i="2652" t="Ring nödnumret direkt"/>
+		<phrase i="2653" t="Appar"/>
+		<phrase i="2654" t="Fjärr"/>
+		<phrase i="2655" t="PC"/>
+		<phrase i="2656" t="Kunde inte ta bort röstbrevlådan."/>
+		<phrase i="2657" t="Kunde inte uppdatera röstbrevlådan."/>
+		<phrase i="2658" t="Kunde inte spela upp röstbrevlådan."/>
+		<phrase i="2659" t="Röstbrevlådan har tagits bort."/>
+		<phrase i="2660" t="Initierar enheten, vänligen vänta…" t.VVX_101_201="Initierar enheten…"/>
+		<phrase i="2661" t="Ta emot"/>
+		<phrase i="2662" t="Ej skiftlägeskänslig" t.VVX_1500="Ej slk" t.VVX_500="Ej slk"/>
+		<phrase i="2663" t="Arbetstelefon"/>
+		<phrase i="2664" t="Tx/Rx MOSCQ" t.VVX_101_201="T/R MOSCQ"/>
+		<phrase i="2665" t="Tx/Rx MOSLQ" t.VVX_101_201="T/R MOSLQ"/>
+		<phrase i="2666" t="LogUt"/>
+		<phrase i="2667" t="Disp.kod" t.VVX_101_201="Disp"/>
+		<phrase i="2668" t="Nöd" t.VVX_101_201="Nöd"/>
+		<phrase i="2669" t="Trace" t.VVX_101_201="Trace"/>
+		<phrase i="2670" t="Avc"/>
+		<phrase i="2671" t="Fav"/>
+		<phrase i="2672" t="(ms)"/>
+		<phrase i="2673" t="Meddelandecentral" t.VVX_101_201="MedC"/>
+		<phrase i="2674" t="Fördröj"/>
+		<phrase i="2675" t="FSökning" t.VVX_101_201="FSök"/>
+		<phrase i="2676" t="PUA"/>
+		<phrase i="2677" t="SÄKH"/>
+		<phrase i="2678" t="Normal &amp; Tyst"/>
+		<phrase i="2679" t="Viskning"/>
+		<phrase i="2680" t="Viskning &amp; Tyst"/>
+		<phrase i="2681" t="Lyssna"/>
+		<phrase i="2682" t="Lyssna &amp; Tyst"/>
+		<phrase i="2683" t="Bryt in ej möjligt"/>
+		<phrase i="2684" t="Bryt in" t.VVX_101_201="BrIn"/>
+		<phrase i="2685" t="Besökarinloggning"/>
+		<phrase i="2686" t="Besökarinloggning" t.VVX_300="BInlogg" t.VVX_101_201="B-In"/>
+		<phrase i="2687" t="Besökarutloggning" t.VVX_300="BUtlogg" t.VVX_101_201="BUtl"/>
+		<phrase i="2688" t="Besöksdiskprofil"/>
+		<phrase i="2689" t="Nedladdning av besökarprofil misslyckades"/>
+		<phrase i="2690" t="Etablerar BD-session"/>
+		<phrase i="2691" t="Ange telefonnummer"/>
+		<phrase i="2692" t="Ange PIN"/>
+		<phrase i="2693" t="ALU-CTS"/>
+		<phrase i="2694" t="Dela"/>
+		<phrase i="2695" t="Startar om telefonen för att tillämpa ny konfiguration"/>
+		<phrase i="2696" t="Samtalslogg"/>
+		<phrase i="2697" t="Visa lista"/>
+		<phrase i="2698" t="Max antal deltagare uppnått"/>
+		<phrase i="2699" t="Kontakt tillagd"/>
+		<phrase i="2700" t="Kontakt redan tillagd"/>
+		<phrase i="2701" t="Hittade fler poster, förfina sökningen"/>
+		<phrase i="2702" t="Välj en datakälla"/>
+		<phrase i="2703" t="Deltagare"/>
+		<phrase i="2704" t="Inga deltagare"/>
+		<phrase i="2705" t="Headsetläge aktivt"/>
+		<phrase i="2706" t="Högtalarläge aktivt"/>
+		<phrase i="2707" t="Ogiltig begäran"/>
+		<phrase i="2708" t="Begäran misslyckades"/>
+		<phrase i="2709" t="Ogiltigt säkerhetstoken"/>
+		<phrase i="2710" t="Fel på element vid autentisering"/>
+		<phrase i="2711" t="Felaktig begäran"/>
+		<phrase i="2712" t="Utgångna data"/>
+		<phrase i="2713" t="Ogiltigt tidsintervall"/>
+		<phrase i="2714" t="Ogiltig omfattning"/>
+		<phrase i="2715" t="Förnyelse behövs"/>
+		<phrase i="2716" t="Kan ej förnya"/>
+		<phrase i="2717" t="Autentiseringen misslyckades"/>
+		<phrase i="2718" t="Ktkr"/>
+		<phrase i="2719" t="Mikrofonljudet påslaget"/>
+		<phrase i="2720" t="SLA-linjer tillagda"/>
+		<phrase i="2721" t="SLA-linjer borttagna"/>
+		<phrase i="2722" t="Gick med i SLA-grupp"/>
+		<phrase i="2723" t="SLA-ringtyp"/>
+		<phrase i="2724" t="Web Services"/>
+		<phrase i="2725" t="Besökarutloggning"/>
+		<phrase i="2726" t="Det nya lösenordet får inte vara samma som det gamla."/>
+		<phrase i="2727" t="Samtalsfel"/>
+		<phrase i="2728" t="S-&gt;L"/>
+		<phrase i="2729" t="L-&gt;S"/>
+		<phrase i="2730" t="Min. anv."/>
+		<phrase i="2731" t="Inaktivera"/>
+		<phrase i="2732" t="Aktivera"/>
+		<phrase i="2733" t="Serverfel. Loggar in igen nu"/>
+		<phrase i="2734" t="Fjärrsidan använder högtalartelefonen"/>
+		<phrase i="2735" t="Fjärrsidan använder inte högtalartelefonen"/>
+	</phrases>
+	<textEntry>
+		<Entry ID="0" key="=, $/~_?0"/>
+		<Entry ID="1" key="!|'^\@:1"/>
+		<Entry ID="2" key="abc2åäàæá"/>
+		<Entry ID="3" key="def3é"/>
+		<Entry ID="4" key="ghi4ï"/>
+		<Entry ID="5" key="jkl5"/>
+		<Entry ID="6" key="mno6öø"/>
+		<Entry ID="7" key="pqrs7"/>
+		<Entry ID="8" key="tuv8ü"/>
+		<Entry ID="9" key="wxyz9"/>
+		<Entry ID="*" key=".*#-&amp;%+;"/>
+		<Entry ID="#"/>
+	</textEntry>
+</dictionary>

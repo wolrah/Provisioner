@@ -1,0 +1,2741 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary>
+	<phrases>
+		<phrase i="0" t="Back"/>
+		<phrase i="1" t="Dial"/>
+		<phrase i="2" t="Edit/Dial" t.VVX_101_201="Edt/Dl"/>
+		<phrase i="3" t="Edit"/>
+		<phrase i="4" t="Up"/>
+		<phrase i="5" t="Save"/>
+		<phrase i="6" t="More"/>
+		<phrase i="7" t="New"/>
+		<phrase i="8" t="Ok"/>
+		<phrase i="9" t="Add"/>
+		<phrase i="10" t="Clear"/>
+		<phrase i="11" t="Info" t.VVX_1500="Information"/>
+		<phrase i="12" t="Send"/>
+		<phrase i="13" t="Select" t.VVX_101_201="Sel"/>
+		<phrase i="14" t="Delete" t.VVX_101_201="Del"/>
+		<phrase i="15" t="Import" t.VVX_101_201="Imp"/>
+		<phrase i="16" t="Block" t.VVX_101_201="Blk"/>
+		<phrase i="17" t="Watch" t.VVX_101_201="Wtch"/>
+		<phrase i="18" t="Unblock" t.IP_330="Unblk" t.VVX_101_201="Unblk"/>
+		<phrase i="19" t="MyStat" t.IP_330="MyStat" t.VVX_300="MyStat" t.VVX_500="My Status" t.VVX_101_201="Stat"/>
+		<phrase i="20" t="Buddies" t.IP_330="Buddy" t.VVX_101_201="Buds"/>
+		<phrase i="21" t="Resume" t.IP_330="Resume" t.VVX_101_201="Res"/>
+		<phrase i="22" t="Play" t.IP_330="Play"/>
+		<phrase i="23" t="End Call" t.IP_330="EndCall" t.VVX_101_201="End"/>
+		<phrase i="24" t="New Call" t.IP_330="NewCall" t.VVX_101_201="Call"/>
+		<phrase i="25" t="Redial" t.VVX_101_201="Red"/>
+		<phrase i="26" t="Answer" t.IP_330="Answer" t.VVX_101_201="Ans"/>
+		<phrase i="27" t="Name" t.IP_330="Name"/>
+		<phrase i="28" t="Number" t.IP_330="Number" t.VVX_101_201="Num"/>
+		<phrase i="29" t="Hold" t.IP_330="Hold"/>
+		<phrase i="30" t="Confrnc" t.IP_330="Conf" t.VVX_1500="Conference" t.VVX_101_201="Conf"/>
+		<phrase i="31" t="Trnsfer" t.IP_330="Trnsfr" t.VVX_1500="Transfer" t.VVX_500="Transfer" t.VVX_101_201="Tran"/>
+		<phrase i="32" t="End"/>
+		<phrase i="33" t="Next"/>
+		<phrase i="34" t="Prev" t.VVX_1500="Previous" t.VVX_500="Previous" t.VVX_101_201="Prev"/>
+		<phrase i="35" t="Reply" t.VVX_101_201="Rply"/>
+		<phrase i="36" t="Exit"/>
+		<phrase i="37" t="Cancel" t.VVX_101_201="Cncl"/>
+		<phrase i="38" t="a-&gt;A"/>
+		<phrase i="39" t="A-&gt;a"/>
+		<phrase i="40" t="-&gt;ABC"/>
+		<phrase i="41" t="&lt;&lt;"/>
+		<phrase i="42" t="Submit" t.VVX_101_201="Sbmt"/>
+		<phrase i="43" t="Next Page" t.VVX_1500="Next Page" t.VVX_500="Next Page" t.VVX_101_201="Next"/>
+		<phrase i="44" t="Update"/>
+		<phrase i="45" t="Instant Messages" t.VVX_101_201="IM"/>
+		<phrase i="46" t="No Messages"/>
+		<phrase i="47" t="Send message to" t.VVX_101_201="Send to"/>
+		<phrase i="48" t="Enter message for" t.VVX_101_201="Entr Msg"/>
+		<phrase i="49" t="My Status" t.VVX_101_201="Status"/>
+		<phrase i="50" t="Contact Directory"/>
+		<phrase i="51" t="Directories"/>
+		<phrase i="52" t="Service"/>
+		<phrase i="53" t="Applications"/>
+		<phrase i="54" t="Speed Dial"/>
+		<phrase i="55" t="Speed Dial Info" t.VVX_1500="Speed Dial Information" t.VVX_500="Speed Dial Information"/>
+		<phrase i="56" t="Call Lists"/>
+		<phrase i="57" t="Edit Contact"/>
+		<phrase i="58" t="Buddy List"/>
+		<phrase i="59" t="Watcher List"/>
+		<phrase i="60" t="Blocked List"/>
+		<phrase i="61" t="Missed Calls"/>
+		<phrase i="62" t="Received Calls"/>
+		<phrase i="63" t="Placed Calls"/>
+		<phrase i="64" t="CDP Compatibility" t.VVX_101_201="CDP Comp"/>
+		<phrase i="65" t="App. information"/>
+		<phrase i="66" t="Supported Codecs"/>
+		<phrase i="67" t="Add Watching"/>
+		<phrase i="68" t="Network Summary"/>
+		<phrase i="69" t="Presence"/>
+		<phrase i="70" t="Buddy Status"/>
+		<phrase i="71" t="Ring Type"/>
+		<phrase i="72" t="Status"/>
+		<phrase i="73" t="Settings"/>
+		<phrase i="74" t="Main Menu"/>
+		<phrase i="75" t="Network Statistics"/>
+		<phrase i="76" t="Media Statistics"/>
+		<phrase i="77" t="Firmware version"/>
+		<phrase i="78" t="Contrast"/>
+		<phrase i="79" t="Network Configuration" t.IP_330="Network Config" t.VVX_101_201="Network Config"/>
+		<phrase i="80" t="Call Information"/>
+		<phrase i="81" t="Information" t.VVX_101_201="Info"/>
+		<phrase i="82" t="System Information" t.VVX_101_201="System Info"/>
+		<phrase i="83" t="Active"/>
+		<phrase i="84" t="Inactive"/>
+		<phrase i="85" t="Unknown Party"/>
+		<phrase i="86" t="day"/>
+		<phrase i="87" t="days"/>
+		<phrase i="88" t="Requesting"/>
+		<phrase i="89" t="Request Failed"/>
+		<phrase i="90" t="English"/>
+		<phrase i="91" t="Internal"/>
+		<phrase i="92" t="Full-duplex"/>
+		<phrase i="93" t="Half-duplex"/>
+		<phrase i="94" t="View"/>
+		<phrase i="95" t="*** WARNING ***"/>
+		<phrase i="96" t="Router"/>
+		<phrase i="97" t="Down"/>
+		<phrase i="98" t="Elapsed Time"/>
+		<phrase i="99" t="Rx Packets"/>
+		<phrase i="100" t="Tx Packets"/>
+		<phrase i="101" t="Lost Packets"/>
+		<phrase i="102" t="LAN port"/>
+		<phrase i="103" t="PC port"/>
+		<phrase i="104" t="InstMsg" t.IP_330="IM" t.VVX_1500="Instant Msg" t.VVX_500="Instant Msg" t.VVX_101_201="IM"/>
+		<phrase i="105" t="Specify Origin"/>
+		<phrase i="106" t="Enable" t.VVX_101_201="Enbl"/>
+		<phrase i="107" t="Jitter (ms)"/>
+		<phrase i="108" t="Max. Jitter (ms)"/>
+		<phrase i="109" t="Latency (ms)"/>
+		<phrase i="110" t="App. Version"/>
+		<phrase i="111" t="Boot Version"/>
+		<phrase i="112" t="Ring"/>
+		<phrase i="113" t="No records"/>
+		<phrase i="114" t="Missed call list"/>
+		<phrase i="115" t="Received call list" t.VVX_101_201="Rcvd call list"/>
+		<phrase i="116" t="Placed call list"/>
+		<phrase i="117" t="Cleared"/>
+		<phrase i="118" t="Contact"/>
+		<phrase i="119" t="PM"/>
+		<phrase i="120" t="AM"/>
+		<phrase i="121" t="Time"/>
+		<phrase i="122" t="Name"/>
+		<phrase i="123" t="Duration"/>
+		<phrase i="124" t=" says:"/>
+		<phrase i="125" t="Message to "/>
+		<phrase i="126" t="Got your message."/>
+		<phrase i="127" t="Call me."/>
+		<phrase i="128" t="Call later."/>
+		<phrase i="129" t="Can't chat now."/>
+		<phrase i="130" t="Go to lunch?"/>
+		<phrase i="131" t="Imported"/>
+		<phrase i="132" t="Import failed"/>
+		<phrase i="133" t="Language"/>
+		<phrase i="134" t="Enter number"/>
+		<phrase i="135" t="Enter URL"/>
+		<phrase i="136" t="Split" t.VVX_101_201="Splt"/>
+		<phrase i="137" t="Join"/>
+		<phrase i="138" t="To"/>
+		<phrase i="139" t="From"/>
+		<phrase i="140" t="Forward"/>
+		<phrase i="141" t="For"/>
+		<phrase i="142" t="Hold"/>
+		<phrase i="143" t="Held"/>
+		<phrase i="144" t=" new message"/>
+		<phrase i="145" t=" new messages"/>
+		<phrase i="146" t="Call"/>
+		<phrase i="147" t="Network is down"/>
+		<phrase i="148" t="Reconfiguring network" t.IP_330="Reconfiguring" t.VVX_1500="Reconfiguring" t.VVX_500="Reconfiguring"/>
+		<phrase i="149" t=" new missed call"/>
+		<phrase i="150" t=" new missed calls"/>
+		<phrase i="151" t="Reboot initiated"/>
+		<phrase i="152" t="Call on hold"/>
+		<phrase i="153" t="Disconnected"/>
+		<phrase i="154" t="Online"/>
+		<phrase i="155" t="Busy"/>
+		<phrase i="156" t="Be Right Back"/>
+		<phrase i="157" t="Away"/>
+		<phrase i="158" t="On the phone"/>
+		<phrase i="159" t="Out to lunch"/>
+		<phrase i="160" t="In a meeting"/>
+		<phrase i="161" t="Offline"/>
+		<phrase i="162" t="Do Not Disturb"/>
+		<phrase i="163" t="Timeout"/>
+		<phrase i="164" t="Boot Server"/>
+		<phrase i="165" t="BootSrv Opt"/>
+		<phrase i="166" t="BootSrv Type"/>
+		<phrase i="167" t="Server Type"/>
+		<phrase i="168" t="Server Address" t.VVX_101_201="Server Addr"/>
+		<phrase i="169" t="Server User"/>
+		<phrase i="170" t="Server Password"/>
+		<phrase i="171" t="DHCP Client"/>
+		<phrase i="172" t="DHCP Menu"/>
+		<phrase i="173" t="Phone IP Addr" t.VVX_1500="IP Address" t.VVX_500="IP Address" t.VVX_101_201="IP Addr"/>
+		<phrase i="174" t="Subnet Mask" t.VVX_101_201="Sub Mask"/>
+		<phrase i="175" t="IP Gateway" t.VVX_101_201="IP Gtwy"/>
+		<phrase i="176" t="Server Menu"/>
+		<phrase i="177" t="SNTP Address" t.VVX_101_201="SNTP Addr"/>
+		<phrase i="178" t="GMT Offset"/>
+		<phrase i="179" t="DNS Server"/>
+		<phrase i="180" t="DNS Alt. Server" t.VVX_101_201="DNS Alt Srv"/>
+		<phrase i="181" t="DNS Domain"/>
+		<phrase i="182" t="VLAN ID"/>
+		<phrase i="183" t=" Save Config"/>
+		<phrase i="184" t=" Exit w/o Save"/>
+		<phrase i="185" t=" Resume Setup"/>
+		<phrase i="186" t="DHCP"/>
+		<phrase i="187" t="MAC"/>
+		<phrase i="188" t="IP"/>
+		<phrase i="189" t="DNS"/>
+		<phrase i="190" t="Boot Server" t.VVX_101_201="Boot Srv"/>
+		<phrase i="191" t="Alt. DNS"/>
+		<phrase i="192" t="Option 66" t.VVX_101_201="Opt. 66"/>
+		<phrase i="193" t="Custom"/>
+		<phrase i="194" t="Static"/>
+		<phrase i="195" t="IP Address" t.VVX_101_201="IP Addr"/>
+		<phrase i="196" t="String"/>
+		<phrase i="197" t="FTP"/>
+		<phrase i="198" t="Trivial FTP" t.VVX_101_201="TFTP"/>
+		<phrase i="199" t="Enabled"/>
+		<phrase i="200" t="Disabled"/>
+		<phrase i="201" t="Mask"/>
+		<phrase i="202" t="**-**"/>
+		<phrase i="203" t="Domain"/>
+		<phrase i="204" t="VLAN ID"/>
+		<phrase i="205" t="Server"/>
+		<phrase i="206" t="App. Version" t.VVX_101_201="App Ver"/>
+		<phrase i="207" t="File"/>
+		<phrase i="208" t="Config"/>
+		<phrase i="209" t="Updater"/>
+		<phrase i="210" t="P/N"/>
+		<phrase i="211" t="Tx Codec"/>
+		<phrase i="212" t="Rx Codec"/>
+		<phrase i="213" t="Language changed."/>
+		<phrase i="214" t="Language change failed."/>
+		<phrase i="215" t="Please wait…"/>
+		<phrase i="216" t="Line Select" t.VVX_101_201="Line Sel"/>
+		<phrase i="217" t="Line"/>
+		<phrase i="218" t="Search" t.VVX_101_201="Srch"/>
+		<phrase i="219" t="Sort"/>
+		<phrase i="220" t="Directory Search"/>
+		<phrase i="221" t="Directory Sort"/>
+		<phrase i="222" t="First Name"/>
+		<phrase i="223" t="Last Name"/>
+		<phrase i="224" t="System Status" t.VVX_101_201="Sys Stat"/>
+		<phrase i="225" t="General"/>
+		<phrase i="226" t="Contact Directory" t.VVX_101_201="Contact Dir"/>
+		<phrase i="227" t="Contacting"/>
+		<phrase i="228" t="Custom+Opt.66" t.VVX_101_201="Cust+Opt.66"/>
+		<phrase i="229" t="Line Information"/>
+		<phrase i="230" t="Registered"/>
+		<phrase i="231" t="Not Registered"/>
+		<phrase i="232" t="Authentication"/>
+		<phrase i="233" t="Reg User "/>
+		<phrase i="234" t="Reg Password " t.VVX_101_201="Reg Pswd"/>
+		<phrase i="235" t="Video"/>
+		<phrase i="236" t="Messages"/>
+		<phrase i="237" t="Message Center"/>
+		<phrase i="238" t="In Conference"/>
+		<phrase i="239" t="Urgent"/>
+		<phrase i="240" t="Urgent"/>
+		<phrase i="241" t="New"/>
+		<phrase i="242" t="New"/>
+		<phrase i="243" t="Old"/>
+		<phrase i="244" t="Old"/>
+		<phrase i="245" t="Connect" t.IP_330="Connct" t.VVX_101_201="Conn"/>
+		<phrase i="246" t="Add To Contact Directory" t.IP_330="Add To Contact Dir" t.VVX_101_201="Add to Cont Dir"/>
+		<phrase i="247" t="Edit Contact"/>
+		<phrase i="248" t="Speed Dial Index"/>
+		<phrase i="249" t="Call Forwarding"/>
+		<phrase i="250" t="Reject" t.VVX_101_201="Rjct"/>
+		<phrase i="251" t="Forward" t.VVX_101_201="Fwd"/>
+		<phrase i="252" t="This call"/>
+		<phrase i="253" t="Reset User Settings" t.VVX_101_201="Rst Usr Settings"/>
+		<phrase i="254" t="Divert Contact"/>
+		<phrase i="255" t="Auto Reject"/>
+		<phrase i="256" t="Auto Divert"/>
+		<phrase i="257" t="Saved"/>
+		<phrase i="258" t="Error"/>
+		<phrase i="259" t="Contact already exists."/>
+		<phrase i="260" t="Disable" t.VVX_101_201="Dsbl"/>
+		<phrase i="261" t="Watch Buddy"/>
+		<phrase i="262" t="Block Buddy"/>
+		<phrase i="263" t="Please try again."/>
+		<phrase i="264" t="Clock"/>
+		<phrase i="265" t="Clock Date"/>
+		<phrase i="266" t="Format"/>
+		<phrase i="267" t="Sunday"/>
+		<phrase i="268" t="Monday"/>
+		<phrase i="269" t="Tuesday"/>
+		<phrase i="270" t="Wednesday"/>
+		<phrase i="271" t="Thursday"/>
+		<phrase i="272" t="Friday"/>
+		<phrase i="273" t="Saturday"/>
+		<phrase i="274" t="January"/>
+		<phrase i="275" t="February"/>
+		<phrase i="276" t="March"/>
+		<phrase i="277" t="April"/>
+		<phrase i="278" t="May"/>
+		<phrase i="279" t="June"/>
+		<phrase i="280" t="July"/>
+		<phrase i="281" t="August"/>
+		<phrase i="282" t="September"/>
+		<phrase i="283" t="October"/>
+		<phrase i="284" t="November"/>
+		<phrase i="285" t="December"/>
+		<phrase i="286" t="Clock Time"/>
+		<phrase i="287" t="Set All"/>
+		<phrase i="288" t="Clear All" t.VVX_101_201="Clr All"/>
+		<phrase i="289" t="Headset Memory"/>
+		<phrase i="290" t="Headset Memory Mode" t.VVX_101_201="Hdst Mem Mode"/>
+		<phrase i="291" t="Error while importing."/>
+		<phrase i="292" t="Active call. Action terminated." t.IP_330="Blocked by active call"/>
+		<phrase i="293" t="Please enter a contact."/>
+		<phrase i="294" t="Transfer to"/>
+		<phrase i="295" t="Conference with" t.IP_330="Confrnc with"/>
+		<phrase i="296" t="Enter"/>
+		<phrase i="297" t="Change Password"/>
+		<phrase i="298" t="Change User Password" t.IP_330="Change User P/W" t.VVX_101_201="Change User Pswd"/>
+		<phrase i="299" t="Change Admin Password" t.IP_330="Change Adm P/W" t.VVX_101_201="Change Admin Pswd"/>
+		<phrase i="300" t="User Password"/>
+		<phrase i="301" t="Admin Password" t.VVX_1500="Administrator Password"/>
+		<phrase i="302" t="User password changed." t.IP_330="User pswrd changed."/>
+		<phrase i="303" t="Admin password changed." t.IP_330="Admin pswrd changed." t.VVX_1500="Administrator password changed." t.VVX_500="Administrator password changed."/>
+		<phrase i="304" t="Sorry, try again."/>
+		<phrase i="305" t="Old Password"/>
+		<phrase i="306" t="New Password"/>
+		<phrase i="307" t="Confirm New"/>
+		<phrase i="308" t="Sorry, password too short." t.IP_330="Password too short."/>
+		<phrase i="309" t="PrevPg" t.VVX_1500="Previous Page" t.VVX_500="Previous Page" t.VVX_101_201="Prev"/>
+		<phrase i="310" t="Ascii"/>
+		<phrase i="311" t="Latin"/>
+		<phrase i="312" t="Cyrillic"/>
+		<phrase i="313" t="Unicode"/>
+		<phrase i="314" t="Minimum length is"/>
+		<phrase i="315" t="1/A/a"/>
+		<phrase i="316" t="Resources full"/>
+		<phrase i="317" t="Encoding" t.IP_330="Encode" t.VVX_101_201="Encd"/>
+		<phrase i="318" t="LAN Speed"/>
+		<phrase i="319" t="PC Speed"/>
+		<phrase i="320" t="Unknown"/>
+		<phrase i="321" t="Flash settings reset."/>
+		<phrase i="322" t="LAN Mode"/>
+		<phrase i="323" t="PC Mode"/>
+		<phrase i="324" t="SNTP"/>
+		<phrase i="325" t="GMT Offset"/>
+		<phrase i="326" t="Daylight Savings"/>
+		<phrase i="327" t="On"/>
+		<phrase i="328" t="Off"/>
+		<phrase i="329" t="CPU Load"/>
+		<phrase i="330" t="Faster" t.VVX_101_201="Fast"/>
+		<phrase i="331" t="Slower" t.VVX_101_201="Slow"/>
+		<phrase i="332" t="Load"/>
+		<phrase i="333" t="Interval"/>
+		<phrase i="334" t="Directory is full."/>
+		<phrase i="335" t="No such field."/>
+		<phrase i="336" t="End of directory."/>
+		<phrase i="337" t="This contact was deleted."/>
+		<phrase i="338" t="Line used remotely"/>
+		<phrase i="339" t="Network Load"/>
+		<phrase i="340" t="Bytes Per Second"/>
+		<phrase i="341" t="Packets Per Second" t.VVX_101_201="Pckts Per Sec"/>
+		<phrase i="342" t="DSP Load"/>
+		<phrase i="343" t="Host Load"/>
+		<phrase i="344" t="Mode"/>
+		<phrase i="345" t="Diagnostics"/>
+		<phrase i="346" t="Audio Diagnostics"/>
+		<phrase i="347" t="Keypad Diagnostics"/>
+		<phrase i="348" t="Display Diagnostics"/>
+		<phrase i="349" t="Speaker"/>
+		<phrase i="350" t="Handset"/>
+		<phrase i="351" t="Pass"/>
+		<phrase i="352" t="Fail"/>
+		<phrase i="353" t="Test complete"/>
+		<phrase i="354" t="Exit: Press key twice."/>
+		<phrase i="355" t="Verify: press a key"/>
+		<phrase i="356" t="Record" t.VVX_101_201="Rec"/>
+		<phrase i="357" t="Stop"/>
+		<phrase i="358" t="Invalid Key"/>
+		<phrase i="359" t="Hookswitch"/>
+		<phrase i="360" t="Stopped"/>
+		<phrase i="361" t="Playing"/>
+		<phrase i="362" t="Recording"/>
+		<phrase i="363" t="Duplicate IP"/>
+		<phrase i="364" t="Reboot"/>
+		<phrase i="365" t="detected from"/>
+		<phrase i="366" t="Sun"/>
+		<phrase i="367" t="Mon"/>
+		<phrase i="368" t="Tue"/>
+		<phrase i="369" t="Wed"/>
+		<phrase i="370" t="Thu"/>
+		<phrase i="371" t="Fri"/>
+		<phrase i="372" t="Sat"/>
+		<phrase i="373" t="Jan"/>
+		<phrase i="374" t="Feb"/>
+		<phrase i="375" t="Mar"/>
+		<phrase i="376" t="Apr"/>
+		<phrase i="377" t="May"/>
+		<phrase i="378" t="Jun"/>
+		<phrase i="379" t="Jul"/>
+		<phrase i="380" t="Aug"/>
+		<phrase i="381" t="Sep"/>
+		<phrase i="382" t="Oct"/>
+		<phrase i="383" t="Nov"/>
+		<phrase i="384" t="Dec"/>
+		<phrase i="385" t="Memory Usage"/>
+		<phrase i="386" t="Call Active"/>
+		<phrase i="387" t="Silence" t.VVX_101_201="Sil"/>
+		<phrase i="388" t="Server unavailable."/>
+		<phrase i="389" t="Clock Order"/>
+		<phrase i="390" t="Date above time"/>
+		<phrase i="391" t="Time above date"/>
+		<phrase i="392" t="Date before time"/>
+		<phrase i="393" t="Time before date"/>
+		<phrase i="394" t="Katakana"/>
+		<phrase i="395" t="Call Progress Tones" t.VVX_101_201="Call Prog Tones"/>
+		<phrase i="396" t="Dnd"/>
+		<phrase i="397" t="Chk in/out" t.IP_330="In/Out" t.IP_450="In/Out" t.VVX_300="In/Out"/>
+		<phrase i="398" t="Agt avail" t.IP_330="Avail" t.IP_450="Avail" t.VVX_300="Avail"/>
+		<phrase i="399" t="Change" t.VVX_101_201="Chng"/>
+		<phrase i="400" t="1-&gt;Aa"/>
+		<phrase i="401" t="A-&gt;a1"/>
+		<phrase i="402" t="a-&gt;1A"/>
+		<phrase i="403" t="Display Name" t.VVX_101_201="Disp Name"/>
+		<phrase i="404" t="Lines"/>
+		<phrase i="405" t="Label"/>
+		<phrase i="406" t="Start Keypad Logging" t.VVX_101_201="Start keypad log"/>
+		<phrase i="407" t="URL calling is disabled" t.IP_330="URL call is disabled"/>
+		<phrase i="408" t="Please lift handset"/>
+		<phrase i="409" t="Listen Mode"/>
+		<phrase i="410" t="Park"/>
+		<phrase i="411" t="Rtrieve" t.VVX_1500="Retrieve" t.VVX_500="Retrieve" t.VVX_101_201="Rtrv"/>
+		<phrase i="412" t="Group"/>
+		<phrase i="413" t="Directd" t.VVX_1500="Directed" t.VVX_500="Directed"/>
+		<phrase i="414" t="Home"/>
+		<phrase i="415" t="Refresh" t.VVX_101_201="Refr"/>
+		<phrase i="416" t="Last Call Return"/>
+		<phrase i="417" t="LCR"/>
+		<phrase i="418" t="Features"/>
+		<phrase i="419" t="Blind"/>
+		<phrase i="420" t="Headset"/>
+		<phrase i="421" t="ACD Agent Availability" t.VVX_101_201="ACD Agt Avail"/>
+		<phrase i="422" t="ACD Login/Logout"/>
+		<phrase i="423" t="Log in"/>
+		<phrase i="424" t="Log out"/>
+		<phrase i="425" t="Available"/>
+		<phrase i="426" t="Unavailable"/>
+		<phrase i="427" t="User ID"/>
+		<phrase i="428" t="Password"/>
+		<phrase i="429" t="Pickup" t.VVX_101_201="Pick"/>
+		<phrase i="430" t="Blind transfer to"/>
+		<phrase i="431" t="Avail." t.VVX_1500="Available" t.VVX_500="Available" t.VVX_101_201="Avl"/>
+		<phrase i="432" t="Unavail." t.VVX_1500="Unavailable" t.VVX_500="Unavailable" t.VVX_101_201="Unavl"/>
+		<phrase i="433" t="SIP Configuration" t.VVX_101_201="SIP Config"/>
+		<phrase i="434" t="Address"/>
+		<phrase i="435" t="Line Type"/>
+		<phrase i="436" t="Third Party Name" t.VVX_101_201="Third Party"/>
+		<phrase i="437" t="Private"/>
+		<phrase i="438" t="Shared"/>
+		<phrase i="439" t="Port"/>
+		<phrase i="440" t="Transport"/>
+		<phrase i="441" t="Register"/>
+		<phrase i="442" t="Outbound Proxy" t.IP_330="Out Proxy" t.VVX_1500="SIP Outbound Proxy" t.VVX_500="SIP Outbound Proxy" t.VVX_101_201="OutbndProxy"/>
+		<phrase i="443" t="Outbound Port" t.IP_330="Out Port"/>
+		<phrase i="444" t="RFC2543 Hold" t.IP_330="RFC2543Hold"/>
+		<phrase i="445" t="Yes"/>
+		<phrase i="446" t="No"/>
+		<phrase i="447" t="UDP Only"/>
+		<phrase i="448" t="TCP Preferred"/>
+		<phrase i="449" t="Naptr"/>
+		<phrase i="450" t="Auth User ID" t.VVX_1500="Authentication User ID" t.VVX_500="Authentication User ID"/>
+		<phrase i="451" t="Auth Password" t.VVX_1500="Authentication Password" t.VVX_500="Authentication Password"/>
+		<phrase i="452" t="Restart Phone"/>
+		<phrase i="453" t="Are you sure?"/>
+		<phrase i="454" t="VLAN Discovery" t.IP_330="VLAN Discovery Mode" t.IP_5000="VLAN Discovery Mode" t.VVX_1500="VLAN Discovery Mode" t.VVX_500="VLAN Discovery Mode" t.VVX_101_201="Discovery"/>
+		<phrase i="455" t="Fixed"/>
+		<phrase i="456" t="VLAN ID Opt" t.VVX_1500="VLAN ID Option" t.VVX_500="VLAN ID Option" t.VVX_101_201="ID Option"/>
+		<phrase i="457" t="Select" t.VVX_101_201="Sel"/>
+		<phrase i="458" t="Reset Local Security Key" t.VVX_101_201="Rst Lcl Sec Key"/>
+		<phrase i="459" t="Message Select"/>
+		<phrase i="460" t="HTTP"/>
+		<phrase i="461" t="HTTPS"/>
+		<phrase i="462" t="FTPS"/>
+		<phrase i="463" t="Install Custom CA Cert" t.VVX_1500="Install Custom CA Certificate" t.VVX_500="Install Custom CA Certificate" t.VVX_101_201="Install Cust CA Cert"/>
+		<phrase i="464" t="Download Custom CA Cert" t.VVX_1500="Download Custom CA Certificate" t.VVX_500="Download Custom CA Certificate" t.VVX_101_201="Dwnld Cust CA Cert"/>
+		<phrase i="465" t="Accept" t.VVX_101_201="Acpt"/>
+		<phrase i="466" t="Configure CA Certs" t.VVX_1500="Configure CA Certificates" t.VVX_500="Configure CA Certificates" t.VVX_101_201="Config CA Certs"/>
+		<phrase i="467" t="MD5 Fingerprint"/>
+		<phrase i="468" t="Custom Certificate" t.VVX_101_201="Custom Cert"/>
+		<phrase i="469" t="Default Cert List" t.VVX_1500="Default Certificate List" t.VVX_500="Default Certificate List"/>
+		<phrase i="470" t="All Certificates"/>
+		<phrase i="471" t="Prov. Method" t.VVX_1500="Provisioning Method" t.VVX_500="Provisioning Method"/>
+		<phrase i="472" t="Prov. String" t.VVX_1500="Provisioning String" t.VVX_500="Provisioning String"/>
+		<phrase i="473" t="Default"/>
+		<phrase i="474" t="SAS-VP"/>
+		<phrase i="475" t="Download Failed"/>
+		<phrase i="476" t="Server"/>
+		<phrase i="477" t="Application"/>
+		<phrase i="478" t="Packet Statistics" t.VVX_101_201="Pckt Stats"/>
+		<phrase i="479" t="Regional Preferences" t.VVX_101_201="Regional Prefs"/>
+		<phrase i="480" t="User Settings"/>
+		<phrase i="481" t="Admin Settings" t.VVX_1500="Administration Settings" t.VVX_500="Administration Settings" t.VVX_101_201="Admin Settings"/>
+		<phrase i="482" t="Format File System"/>
+		<phrase i="483" t="TCP/IP Parameters"/>
+		<phrase i="484" t="Platform"/>
+		<phrase i="485" t="Network"/>
+		<phrase i="486" t="Phone"/>
+		<phrase i="487" t="Main"/>
+		<phrase i="488" t="Components"/>
+		<phrase i="489" t="Copyright"/>
+		<phrase i="490" t="Configuration"/>
+		<phrase i="491" t="Ethernet"/>
+		<phrase i="492" t="Basic"/>
+		<phrase i="493" t="Advanced"/>
+		<phrase i="494" t="Preferences"/>
+		<phrase i="495" t="Sound Effects"/>
+		<phrase i="496" t="TLS Security"/>
+		<phrase i="497" t="Reset to Defaults"/>
+		<phrase i="498" t="Reset Local Configuration" t.IP_330="Reset Local Config" t.VVX_101_201="Reset Local Config"/>
+		<phrase i="499" t="Reset Device Settings" t.IP_330="Reset Dev. Settings" t.VVX_101_201="Reset Dev. Settings"/>
+		<phrase i="500" t="Overall"/>
+		<phrase i="501" t="Test Hardware"/>
+		<phrase i="502" t="Graphs"/>
+		<phrase i="503" t="CA Certificates"/>
+		<phrase i="504" t="Time and Date"/>
+		<phrase i="505" t="TFTP"/>
+		<phrase i="506" t="INVALID"/>
+		<phrase i="507" t="Calls Per Line Key" t.IP_330="Calls/LnKey"/>
+		<phrase i="508" t="Num Line Keys" t.IP_330="No. Line Keys"/>
+		<phrase i="509" t="Wideband Handset"/>
+		<phrase i="510" t="TLS"/>
+		<phrase i="511" t="Add Buddy"/>
+		<phrase i="512" t="File Tx Tries"/>
+		<phrase i="513" t="Retry Wait"/>
+		<phrase i="514" t="Allow" t.VVX_101_201="Allw"/>
+		<phrase i="515" t="Privacy"/>
+		<phrase i="516" t="Privacy List"/>
+		<phrase i="517" t="Buddy Privacy"/>
+		<phrase i="518" t="Add Privacy"/>
+		<phrase i="519" t="Edit Privacy"/>
+		<phrase i="520" t="Access"/>
+		<phrase i="521" t="EM Power"/>
+		<phrase i="522" t="Saved certificate"/>
+		<phrase i="523" t="Failed to save certificate" t.IP_330="Failed To Save Cert"/>
+		<phrase i="524" t="Processing request…"/>
+		<phrase i="525" t="&gt;&gt;"/>
+		<phrase i="526" t="CLink Mode"/>
+		<phrase i="527" t="Client"/>
+		<phrase i="528" t="Ethernet Menu"/>
+		<phrase i="529" t="LAN Port Mode"/>
+		<phrase i="530" t="PC Port Mode"/>
+		<phrase i="531" t="Auto"/>
+		<phrase i="532" t="10HD"/>
+		<phrase i="533" t="10FD"/>
+		<phrase i="534" t="100HD"/>
+		<phrase i="535" t="100FD"/>
+		<phrase i="536" t="Video"/>
+		<phrase i="537" t="Phone"/>
+		<phrase i="538" t="Off Hook Mode"/>
+		<phrase i="539" t="Add Video"/>
+		<phrase i="540" t="Please Select"/>
+		<phrase i="541" t="Backlight Intensity"/>
+		<phrase i="542" t="Off"/>
+		<phrase i="543" t="Low"/>
+		<phrase i="544" t="Medium"/>
+		<phrase i="545" t="High"/>
+		<phrase i="546" t="Calls Per Line"/>
+		<phrase i="547" t="Speaker Volume"/>
+		<phrase i="548" t="Ringer Volume"/>
+		<phrase i="549" t="Manage" t.VVX_101_201="Mng"/>
+		<phrase i="550" t="Manage Conference" t.VVX_101_201="Mng Conf"/>
+		<phrase i="551" t="Mute"/>
+		<phrase i="552" t="UnMute" t.VVX_101_201="Umut"/>
+		<phrase i="553" t="Remove" t.VVX_101_201="Rmv"/>
+		<phrase i="554" t="MediaFlow"/>
+		<phrase i="555" t="Participant Info"/>
+		<phrase i="556" t="Backlight On Intensity"/>
+		<phrase i="557" t="Backlight Idle Intensity"/>
+		<phrase i="558" t="2.5mm Mode"/>
+		<phrase i="559" t="Any (Default)"/>
+		<phrase i="560" t="Mobile Phone"/>
+		<phrase i="561" t="PC Data Link"/>
+		<phrase i="562" t="Video Calls"/>
+		<phrase i="563" t="Phone Calls"/>
+		<phrase i="564" t="SIP Only"/>
+		<phrase i="565" t="POTS Only"/>
+		<phrase i="566" t="Auto (HDX Call Preference)" t.VVX_101_201="Auto (HDX Call Pref)"/>
+		<phrase i="567" t="Call Type Order"/>
+		<phrase i="568" t="Content"/>
+		<phrase i="569" t="Callers"/>
+		<phrase i="570" t="Directory" t.IP_330="Dir" t.IP_450="Dir" t.IP_5000="Dir" t.VVX_101_201="Dir"/>
+		<phrase i="571" t="Ignore" t.VVX_101_201="Ignr"/>
+		<phrase i="572" t="Call from:"/>
+		<phrase i="573" t="Volume"/>
+		<phrase i="574" t="Ringer"/>
+		<phrase i="575" t="Hands-free"/>
+		<phrase i="576" t="Normal"/>
+		<phrase i="577" t="    &lt;New Entry&gt;"/>
+		<phrase i="578" t="Save Directory"/>
+		<phrase i="579" t="Confirmation"/>
+		<phrase i="580" t="Service unavailable" t.IP_330="Service unavail."/>
+		<phrase i="581" t="DND"/>
+		<phrase i="582" t="Connecting to"/>
+		<phrase i="583" t="Incoming call:"/>
+		<phrase i="584" t="DSP state"/>
+		<phrase i="585" t="Unit 0"/>
+		<phrase i="586" t="Unit 1"/>
+		<phrase i="587" t="Unit 2"/>
+		<phrase i="588" t="Msgs" t.VVX_1500="Messages" t.VVX_500="Messages"/>
+		<phrase i="589" t="Add Phone"/>
+		<phrase i="590" t="Enter more digits"/>
+		<phrase i="591" t="Address incomplete"/>
+		<phrase i="592" t="Servers Status"/>
+		<phrase i="593" t="Registering"/>
+		<phrase i="594" t="Unregistering"/>
+		<phrase i="595" t="Never register"/>
+		<phrase i="596" t="Delete directory entry"/>
+		<phrase i="597" t="Conference in another"/>
+		<phrase i="598" t="Video or Phone Call?"/>
+		<phrase i="599" t="Entry not found"/>
+		<phrase i="600" t="By last name"/>
+		<phrase i="601" t="By first name"/>
+		<phrase i="602" t="Network"/>
+		<phrase i="603" t="Dial-up" t.VVX_101_201="Dial"/>
+		<phrase i="604" t="Cable/DSL"/>
+		<phrase i="605" t="LAN"/>
+		<phrase i="606" t="Conference in progress"/>
+		<phrase i="607" t="Impossible"/>
+		<phrase i="608" t="Syslog Menu"/>
+		<phrase i="609" t="Facility"/>
+		<phrase i="610" t="Render Level" t.VVX_101_201="Rndr Lvl"/>
+		<phrase i="611" t="UDP"/>
+		<phrase i="612" t="TCP"/>
+		<phrase i="613" t="None"/>
+		<phrase i="614" t="Enter password"/>
+		<phrase i="615" t="Treble EQ"/>
+		<phrase i="616" t="Bass EQ"/>
+		<phrase i="617" t="Aux Audio In"/>
+		<phrase i="618" t="Aux Audio Out"/>
+		<phrase i="619" t="Automatic Gain Control" t.VVX_101_201="Auto Gain Ctrl"/>
+		<phrase i="620" t="Noise Suppression" t.VVX_101_201="Noise Suppr"/>
+		<phrase i="621" t="URL"/>
+		<phrase i="622" t="Send Only" t.VVX_101_201="Send"/>
+		<phrase i="623" t="Send Receive"/>
+		<phrase i="624" t="Receive Only"/>
+		<phrase i="625" t="Inactive"/>
+		<phrase i="626" t="TCP Only"/>
+		<phrase i="627" t="Wireless Mic"/>
+		<phrase i="628" t="Other Input"/>
+		<phrase i="629" t="Record Out"/>
+		<phrase i="630" t="External Speaker"/>
+		<phrase i="631" t="Bass and Treble"/>
+		<phrase i="632" t="Auxiliary Audio"/>
+		<phrase i="633" t="Local Transducers" t.VVX_101_201="Local Xdcr"/>
+		<phrase i="634" t="Audio"/>
+		<phrase i="635" t="Local Transducers Selection" t.VVX_101_201="Lcl Xdcr Select"/>
+		<phrase i="636" t="Microphone"/>
+		<phrase i="637" t="Speaker"/>
+		<phrase i="638" t="Conference" t.VVX_101_201="Conf"/>
+		<phrase i="639" t="Prepend MAC"/>
+		<phrase i="640" t="Hands-free Volume" t.VVX_101_201="Hands-free Vol"/>
+		<phrase i="641" t="Headset Volume"/>
+		<phrase i="642" t="Handset Volume"/>
+		<phrase i="643" t="Call Pickup"/>
+		<phrase i="644" t="Directed Pickup"/>
+		<phrase i="645" t="Group Pickup"/>
+		<phrase i="646" t="Press any key to exit test"/>
+		<phrase i="647" t="Test aborted"/>
+		<phrase i="648" t="Tag SN to UA"/>
+		<phrase i="649" t="1000HD"/>
+		<phrase i="650" t="1000FD"/>
+		<phrase i="651" t="Network Diagnostics"/>
+		<phrase i="652" t="LAN Port Diagnostics"/>
+		<phrase i="653" t="PC Port Diagnostics"/>
+		<phrase i="654" t="Gigabit Ethernet Diagnostics"/>
+		<phrase i="655" t="Normal Mode"/>
+		<phrase i="656" t="Transmit Waveform" t.VVX_101_201="Xmit Waveform"/>
+		<phrase i="657" t="Master Tx Jitter"/>
+		<phrase i="658" t="Slave Tx Jitter"/>
+		<phrase i="659" t="Transmit Distortion" t.VVX_101_201="Xmit Distortion"/>
+		<phrase i="660" t="Active Mic Indication"/>
+		<phrase i="661" t="Mobile Audio Disabled"/>
+		<phrase i="662" t="Mobile Audio Enabled"/>
+		<phrase i="663" t="Audio Call"/>
+		<phrase i="664" t="Video Call"/>
+		<phrase i="665" t="Audio/Video call"/>
+		<phrase i="666" t="Any call"/>
+		<phrase i="667" t="Forwarding Type Select"/>
+		<phrase i="668" t="Always"/>
+		<phrase i="669" t="No Answer"/>
+		<phrase i="670" t="Forward After Rings" t.IP_330="Fwd After Rings" t.VVX_101_201="Fwd After Rings"/>
+		<phrase i="671" t="Call Forward No Answer" t.VVX_101_201="Call Fwd No Ans"/>
+		<phrase i="672" t="Call Forward Busy" t.VVX_101_201="Call Fwd Busy"/>
+		<phrase i="673" t="Call Forward Always" t.VVX_101_201="Call Fwd Always"/>
+		<phrase i="674" t="VLAN Filtering"/>
+		<phrase i="675" t="Storm Filtering"/>
+		<phrase i="676" t="SIP Web Content"/>
+		<phrase i="677" t="Passive"/>
+		<phrase i="678" t="Daisy-chaining Error:"/>
+		<phrase i="679" t="Multiple Ethernet cables"/>
+		<phrase i="680" t="Connect only one Ethernet cable"/>
+		<phrase i="681" t="Version Conflict"/>
+		<phrase i="682" t="Contact system administrator"/>
+		<phrase i="683" t="View Contact"/>
+		<phrase i="684" t="View"/>
+		<phrase i="685" t="Maximum Intensity" t.VVX_101_201="Max Intensity"/>
+		<phrase i="686" t="Test Automation"/>
+		<phrase i="687" t="Test Automation Key Entry" t.VVX_101_201="TA Key Entry"/>
+		<phrase i="688" t="Test Automation Enabled" t.VVX_101_201="Tst Autom Enbl"/>
+		<phrase i="689" t="Test Automation Disabled" t.VVX_101_201="Tst Autom Dsbl"/>
+		<phrase i="690" t="Storage media attached"/>
+		<phrase i="691" t="Storage media removed"/>
+		<phrase i="692" t="Removable Storage Media" t.VVX_101_201="Rmv Stor Media"/>
+		<phrase i="693" t="Browse Recordings" t.VVX_101_201="Brws Recordings"/>
+		<phrase i="694" t="Storage Media Properties" t.VVX_101_201="Stor Media Props"/>
+		<phrase i="695" t="Total"/>
+		<phrase i="696" t="Used"/>
+		<phrase i="697" t="Free"/>
+		<phrase i="698" t="No storage media attached"/>
+		<phrase i="699" t="No active call present"/>
+		<phrase i="700" t="Playback Last Recorded"/>
+		<phrase i="701" t="Start"/>
+		<phrase i="702" t="Pause"/>
+		<phrase i="703" t="Rename" t.VVX_101_201="ReNm"/>
+		<phrase i="704" t="Deleted"/>
+		<phrase i="705" t="File Info"/>
+		<phrase i="706" t="No wav files found"/>
+		<phrase i="707" t="USB Filename"/>
+		<phrase i="708" t="Rename File"/>
+		<phrase i="709" t="Filename can't be empty"/>
+		<phrase i="710" t="File already exists"/>
+		<phrase i="711" t="Save As"/>
+		<phrase i="712" t="Special characters not allowed"/>
+		<phrase i="713" t="Could not start recording"/>
+		<phrase i="714" t="Resource unavailable"/>
+		<phrase i="715" t="Replay" t.VVX_101_201="RePl"/>
+		<phrase i="716" t="Storage media is full."/>
+		<phrase i="717" t="Recording canceled."/>
+		<phrase i="718" t="Recording stopped."/>
+		<phrase i="719" t="Far Mute" t.VVX_101_201="F.Mut"/>
+		<phrase i="720" t="Open"/>
+		<phrase i="721" t="Storage media removed unsafely"/>
+		<phrase i="722" t="Paused"/>
+		<phrase i="723" t="Finished"/>
+		<phrase i="724" t="*R*" t.VVX_1500="R" t.VVX_500="R"/>
+		<phrase i="725" t="*P*" t.VVX_1500="P" t.VVX_500="P"/>
+		<phrase i="726" t="hr"/>
+		<phrase i="727" t="min"/>
+		<phrase i="728" t="secs"/>
+		<phrase i="729" t="Full"/>
+		<phrase i="730" t="Corporate Directory" t.IP_330="Corp Dir" t.VVX_101_201="Corporate Dir"/>
+		<phrase i="731" t="Corporate Directory" t.VVX_101_201="Corporate Dir"/>
+		<phrase i="732" t="Server Not Initialized" t.IP_330="Server not init" t.IP_5000="Server not init"/>
+		<phrase i="733" t="CD Status"/>
+		<phrase i="734" t="View Persistency"/>
+		<phrase i="735" t="Handsfree mode disabled" t.IP_330="Handsfree disabled"/>
+		<phrase i="736" t="Handsfree Settings" t.VVX_101_201="Handsfree mode"/>
+		<phrase i="737" t="Handsfree Mode"/>
+		<phrase i="738" t="Unsupported USB device attached"/>
+		<phrase i="739" t="Unsupported USB device removed"/>
+		<phrase i="740" t="Headset attached"/>
+		<phrase i="741" t="Headset removed"/>
+		<phrase i="742" t="Headset"/>
+		<phrase i="743" t="Headset Settings"/>
+		<phrase i="744" t="Analog Headset Mode"/>
+		<phrase i="745" t="Analog Headset"/>
+		<phrase i="746" t="Regular Mode"/>
+		<phrase i="747" t="Jabra DHSG"/>
+		<phrase i="748" t="Unsupported wav file format" t.VVX_1500="Unsupported wav file format" t.VVX_500="Unsupported wav file format"/>
+		<phrase i="749" t="Barge In" t.IP_330="BargeIn" t.VVX_101_201="BgIn"/>
+		<phrase i="750" t="Recording in progress"/>
+		<phrase i="751" t="Action aborted"/>
+		<phrase i="752" t="Filtered"/>
+		<phrase i="753" t="Playback canceled"/>
+		<phrase i="754" t="File in use"/>
+		<phrase i="755" t="Background"/>
+		<phrase i="756" t="Preview" t.VVX_101_201="Prvw"/>
+		<phrase i="757" t="Thistle"/>
+		<phrase i="758" t="Device not ready. Try again."/>
+		<phrase i="759" t="Abstract"/>
+		<phrase i="760" t="Fern"/>
+		<phrase i="761" t="Raindrop"/>
+		<phrase i="762" t="File not found" t.VVX_1500="Selected background image unavailable" t.VVX_500="Selected background image unavailable"/>
+		<phrase i="763" t="Lighten"/>
+		<phrase i="764" t="Darken"/>
+		<phrase i="765" t="Operation not allowed"/>
+		<phrase i="766" t="Deletion in progress."/>
+		<phrase i="767" t="Insufficient memory to proceed."/>
+		<phrase i="768" t="Available Recording Time"/>
+		<phrase i="769" t="Device Id"/>
+		<phrase i="770" t="Server not responding" t.VVX_1500="Directory Server not responding" t.VVX_500="Directory Server not responding"/>
+		<phrase i="771" t="Searching…"/>
+		<phrase i="772" t="Label Color"/>
+		<phrase i="773" t="Label"/>
+		<phrase i="774" t="Reset"/>
+		<phrase i="775" t="Undo"/>
+		<phrase i="776" t="No entries found"/>
+		<phrase i="777" t="Verifying USB device."/>
+		<phrase i="778" t="Please wait up to one minute…"/>
+		<phrase i="779" t="Cannot save this color."/>
+		<phrase i="780" t="Text might be unreadable."/>
+		<phrase i="781" t="Restarting Phone"/>
+		<phrase i="782" t="Reboot Phone"/>
+		<phrase i="783" t="Leaf"/>
+		<phrase i="784" t="Speed dial index is invalid." t.IP_330="Invalid speed dial index."/>
+		<phrase i="785" t="Start Video"/>
+		<phrase i="786" t="Stop Video"/>
+		<phrase i="787" t="Full Screen" t.VVX_101_201="FScr"/>
+		<phrase i="788" t="PIP"/>
+		<phrase i="789" t="Fetch"/>
+		<phrase i="790" t="VolUp"/>
+		<phrase i="791" t="VolDwn"/>
+		<phrase i="792" t="There must be a contact value." t.IP_330="Contact required."/>
+		<phrase i="793" t="Contact value already exists." t.IP_330="Duplicate contact value."/>
+		<phrase i="794" t="Enter name"/>
+		<phrase i="795" t="Swap"/>
+		<phrase i="796" t="Plantronics Mode"/>
+		<phrase i="797" t="Speed dial index already exists." t.IP_330="Duplicate speed dial."/>
+		<phrase i="798" t="Local camera"/>
+		<phrase i="799" t="Attendant Calls"/>
+		<phrase i="800" t="Picture Frame"/>
+		<phrase i="801" t="Camera Settings"/>
+		<phrase i="802" t="abc"/>
+		<phrase i="803" t="123"/>
+		<phrase i="804" t="(abc) Enter number"/>
+		<phrase i="805" t="(123) Enter number"/>
+		<phrase i="806" t="Invalid Config" t.VVX_1500="Invalid Configuration" t.VVX_500="Invalid Configuration"/>
+		<phrase i="807" t="Login Error"/>
+		<phrase i="808" t="Transferring"/>
+		<phrase i="809" t="Target Frame Rate" t.VVX_101_201="Target FrameRate"/>
+		<phrase i="810" t="Brightness Level"/>
+		<phrase i="811" t="Saturation Level"/>
+		<phrase i="812" t="Contrast Level"/>
+		<phrase i="813" t="Sharpness Level"/>
+		<phrase i="814" t="Flicker Avoidance" t.VVX_101_201="FlickerAvoidance"/>
+		<phrase i="815" t="Menu"/>
+		<phrase i="816" t="Video Settings"/>
+		<phrase i="817" t="Auto Start Video Tx"/>
+		<phrase i="818" t="Video Screen Mode (Window)"/>
+		<phrase i="819" t="Master"/>
+		<phrase i="820" t="Slave"/>
+		<phrase i="821" t="1000BT LAN Clock"/>
+		<phrase i="822" t="1000BT PC Clock"/>
+		<phrase i="823" t="Call Type"/>
+		<phrase i="824" t="Audio" t.VVX_101_201="Adio"/>
+		<phrase i="825" t="Video" t.VVX_101_201="Vid"/>
+		<phrase i="826" t="Conference Phone SIP" t.VVX_101_201="Conf Phone SIP"/>
+		<phrase i="827" t="HDX Preference"/>
+		<phrase i="828" t="Voice Call Type"/>
+		<phrase i="829" t="Echo Cancellation"/>
+		<phrase i="830" t="Echo Cancellation Mode" t.VVX_101_201="Echo Cancel Mode"/>
+		<phrase i="831" t="Go to"/>
+		<phrase i="832" t="Video Screen Mode (Full Screen)"/>
+		<phrase i="833" t="Picture Frame"/>
+		<phrase i="834" t="Screen Saver"/>
+		<phrase i="835" t="Folder"/>
+		<phrase i="836" t="Time Per Image (sec)" t.VVX_101_201="Time Per Img (sec)"/>
+		<phrase i="837" t="Wait Time (min)"/>
+		<phrase i="838" t="Screen Saver Type" t.VVX_101_201="Scrn Saver Type"/>
+		<phrase i="839" t="No pictures found."/>
+		<phrase i="840" t="**-**"/>
+		<phrase i="841" t="Video Tx / Rx"/>
+		<phrase i="842" t="Audio Tx / Rx"/>
+		<phrase i="843" t="Media Codec"/>
+		<phrase i="844" t="Tx / Rx Video Format" t.VVX_101_201="Tx/Rx Vid Format"/>
+		<phrase i="845" t="Tx / Rx Video Frame Rate" t.VVX_101_201="Tx/Rx Vid FR"/>
+		<phrase i="846" t="Tx / Rx Video Bit Rate (kbps)" t.VVX_101_201="Tx/Rx Vid (kbps)"/>
+		<phrase i="847" t="Tx / Rx Video Update Requests" t.VVX_101_201="Tx/Rx Vid Updt"/>
+		<phrase i="848" t="Media Packets"/>
+		<phrase i="849" t="USB Hub attached"/>
+		<phrase i="850" t="USB Hub removed"/>
+		<phrase i="851" t="USB Mouse attached"/>
+		<phrase i="852" t="USB Mouse removed"/>
+		<phrase i="853" t="USB Keyboard attached"/>
+		<phrase i="854" t="USB Keyboard removed"/>
+		<phrase i="855" t="Video Capable"/>
+		<phrase i="856" t="Active Video"/>
+		<phrase i="857" t="Video Statistics"/>
+		<phrase i="858" t="Audio Statistics"/>
+		<phrase i="859" t="Screen Clean"/>
+		<phrase i="860" t="Touch screen is disabled."/>
+		<phrase i="861" t="Press any key to exit." t.CX_5500="Press mute key to exit."/>
+		<phrase i="862" t="Local File"/>
+		<phrase i="863" t="Launch Pad"/>
+		<phrase i="864" t="Audio Tx Codec"/>
+		<phrase i="865" t="Audio Rx Codec"/>
+		<phrase i="866" t="Video Tx Codec"/>
+		<phrase i="867" t="Video Rx Codec"/>
+		<phrase i="868" t="Blank Screen" t.VVX_101_201="BScr"/>
+		<phrase i="869" t="Auto Video Full Screen" t.VVX_101_201="Auto Vid F Scrn"/>
+		<phrase i="870" t="Select Video" t.VVX_101_201="SelV"/>
+		<phrase i="871" t="QSetup" t.VVX_101_201="QStp"/>
+		<phrase i="872" t="Quick Setup"/>
+		<phrase i="873" t="Unsupported background file format"/>
+		<phrase i="874" t="Remove the phone from the network"/>
+		<phrase i="875" t="before running Ethernet Diagnostics."/>
+		<phrase i="876" t="Press [0-4] for network tests."/>
+		<phrase i="877" t="Mode: Normal Mode"/>
+		<phrase i="878" t="Unsupported mode."/>
+		<phrase i="879" t="Auxiliary output active"/>
+		<phrase i="880" t="Auxiliary output inactive"/>
+		<phrase i="881" t="ACD"/>
+		<phrase i="882" t="Sign In" t.VVX_101_201="SnIn"/>
+		<phrase i="883" t="Sign Out" t.VVX_101_201="SnOt"/>
+		<phrase i="884" t="ASignIn" t.VVX_101_201="ASnIn"/>
+		<phrase i="885" t="ASignOut" t.VVX_101_201="ASOt"/>
+		<phrase i="886" t="ACD SignIn/SignOut" t.VVX_101_201="ACD SnIn/SnOut"/>
+		<phrase i="887" t="ACD Agent State"/>
+		<phrase i="888" t="Initial ACD State" t.VVX_101_201="Int ACD State"/>
+		<phrase i="889" t="Agent SignIn"/>
+		<phrase i="890" t="Agent SignOut"/>
+		<phrase i="891" t="Wrap-Up"/>
+		<phrase i="892" t="Agent State"/>
+		<phrase i="893" t="No server configured"/>
+		<phrase i="894" t="Packet Jitter (ms)" t.VVX_101_201="Packet Jitter"/>
+		<phrase i="895" t="Maximum Jitter (ms)" t.VVX_101_201="Max Jitter"/>
+		<phrase i="896" t="HDX Extension"/>
+		<phrase i="897" t="Enter HDX Extension:"/>
+		<phrase i="898" t="50 Hz Environment"/>
+		<phrase i="899" t="60 Hz Environment"/>
+		<phrase i="900" t="Select Environment"/>
+		<phrase i="901" t="Video Call Settings" t.VVX_101_201="VideoCallSettings"/>
+		<phrase i="902" t="Video Screen Mode" t.VVX_101_201="VideoScreenMode"/>
+		<phrase i="903" t="Local Camera View"/>
+		<phrase i="904" t="Local Camera View (Normal)"/>
+		<phrase i="905" t="Local Camera View (Full Screen)"/>
+		<phrase i="906" t="Local Camera View Mode (Full Screen)"/>
+		<phrase i="907" t="Crop"/>
+		<phrase i="908" t="Side-by-Side"/>
+		<phrase i="909" t="Video can only be active with one party at a time."/>
+		<phrase i="910" t="Power Saving"/>
+		<phrase i="911" t="Timeouts"/>
+		<phrase i="912" t="Office Hours"/>
+		<phrase i="913" t="User Detection"/>
+		<phrase i="914" t="Start Hour"/>
+		<phrase i="915" t="Office Hours Idle Timeout" t.VVX_101_201="Idle Office hrs"/>
+		<phrase i="916" t="Off Hours Idle Timeout" t.VVX_101_201="Idle Off hrs"/>
+		<phrase i="917" t="User Input Idle Timeout" t.VVX_101_201="User input"/>
+		<phrase i="918" t="Office Hours Sensitivity" t.VVX_101_201="Office Hrs Sens"/>
+		<phrase i="919" t="Off Hours Sensitivity" t.VVX_101_201="Off Hrs Sens"/>
+		<phrase i="920" t="Off Hours Mode"/>
+		<phrase i="921" t="Enter More Chars…" t.VVX_1500="Too many results received. Enter more characters." t.VVX_500="Too many results received. Enter more characters."/>
+		<phrase i="922" t="AdvFind" t.VVX_101_201="Afnd"/>
+		<phrase i="923" t="Advanced Find" t.VVX_101_201="Adv"/>
+		<phrase i="924" t="End Entire Conference?"/>
+		<phrase i="925" t="PTT Channels List" t.VVX_101_201="PTT Chan List"/>
+		<phrase i="926" t="Low Battery"/>
+		<phrase i="927" t="Incoming PTT"/>
+		<phrase i="928" t="Run Site Survey"/>
+		<phrase i="929" t="Select an SSID"/>
+		<phrase i="930" t="Select Channels"/>
+		<phrase i="931" t="Summary"/>
+		<phrase i="932" t="Detail"/>
+		<phrase i="933" t="MyID"/>
+		<phrase i="934" t="All"/>
+		<phrase i="935" t="User Profiles"/>
+		<phrase i="936" t="Silent"/>
+		<phrase i="937" t="Meeting"/>
+		<phrase i="938" t="Speakerphone"/>
+		<phrase i="939" t="Set as active"/>
+		<phrase i="940" t="Ring Settings"/>
+		<phrase i="941" t="Text Messages"/>
+		<phrase i="942" t="PTT"/>
+		<phrase i="943" t="Warnings"/>
+		<phrase i="944" t="Both Contexts"/>
+		<phrase i="945" t="On-Hook Context"/>
+		<phrase i="946" t="Off-Hook Context"/>
+		<phrase i="947" t="Telephone Ring"/>
+		<phrase i="948" t="Message Alert 1"/>
+		<phrase i="949" t="Message Alert 2"/>
+		<phrase i="950" t="Alert Tone"/>
+		<phrase i="951" t="Alert Volume"/>
+		<phrase i="952" t="Vibration"/>
+		<phrase i="953" t="Pop-up"/>
+		<phrase i="954" t="LED Flash"/>
+		<phrase i="955" t="PBX"/>
+		<phrase i="956" t="Continuous"/>
+		<phrase i="957" t="Short Pulse"/>
+		<phrase i="958" t="Long Pulse"/>
+		<phrase i="959" t="Prioritize Background" t.VVX_101_201="Prioritize Bkgrd"/>
+		<phrase i="960" t="Select Background" t.VVX_101_201="Select Bkgrd"/>
+		<phrase i="961" t="Background"/>
+		<phrase i="962" t="Line Configuration"/>
+		<phrase i="963" t="SIP Server Configuration" t.IP_330="SIP Server Config" t.VVX_1500="Call Server Configuration" t.VVX_500="Call Server Configuration" t.VVX_101_201="Call Server Config"/>
+		<phrase i="964" t="OAI Alert"/>
+		<phrase i="965" t="OAI Call"/>
+		<phrase i="966" t="LLDP"/>
+		<phrase i="967" t="Location Information" t.VVX_101_201="Location Info"/>
+		<phrase i="968" t="Screen Capture"/>
+		<phrase i="969" t="SK1"/>
+		<phrase i="970" t="SK2"/>
+		<phrase i="971" t="SK3"/>
+		<phrase i="972" t="SK4"/>
+		<phrase i="973" t="USB storage: %s left"/>
+		<phrase i="974" t="Installed"/>
+		<phrase i="975" t="Not Installed"/>
+		<phrase i="976" t="Invalid"/>
+		<phrase i="977" t="ACD line login needed"/>
+		<phrase i="978" t="Call Rate"/>
+		<phrase i="979" t="Select Call Rate"/>
+		<phrase i="980" t="Tx / Rx Call Rate (kbps)" t.VVX_101_201="Tx/Rx CR (kbps)"/>
+		<phrase i="981" t="USB storage: full"/>
+		<phrase i="982" t="Protocol Configuration" t.VVX_101_201="Protocol Config"/>
+		<phrase i="983" t="Select Protocol"/>
+		<phrase i="984" t="Protocol Type"/>
+		<phrase i="985" t="SIP"/>
+		<phrase i="986" t="H.323"/>
+		<phrase i="987" t="SIP + H.323"/>
+		<phrase i="988" t="Auto Gatekeeper Discovery" t.VVX_101_201="Auto GK Discov"/>
+		<phrase i="989" t="User ID"/>
+		<phrase i="990" t="Line Keys"/>
+		<phrase i="991" t="Call Server"/>
+		<phrase i="992" t="Call Server List Empty"/>
+		<phrase i="993" t="Ringer Output"/>
+		<phrase i="994" t="Recording"/>
+		<phrase i="995" t="Recording Paused"/>
+		<phrase i="996" t="Licenses"/>
+		<phrase i="997" t="No licenses installed"/>
+		<phrase i="998" t="Diffie-Hellman Secret Key" t.VVX_101_201="DH Secret Key"/>
+		<phrase i="999" t="Unsupported Link"/>
+		<phrase i="1000" t="Secure Shell"/>
+		<phrase i="1001" t="SSH Connection"/>
+		<phrase i="1002" t="SSH Status"/>
+		<phrase i="1003" t="Gateway Port"/>
+		<phrase i="1004" t="Connected"/>
+		<phrase i="1005" t="Error Code"/>
+		<phrase i="1006" t="Use H.323"/>
+		<phrase i="1007" t="Use SIP"/>
+		<phrase i="1008" t="Use Auto"/>
+		<phrase i="1009" t="(SIP routing)"/>
+		<phrase i="1010" t="(H.323 routing)"/>
+		<phrase i="1011" t="(auto routing)"/>
+		<phrase i="1012" t="Please select Use SIP or Use H.323"/>
+		<phrase i="1013" t="Unspecified"/>
+		<phrase i="1014" t="Apps Continue"/>
+		<phrase i="1015" t="Apps Home"/>
+		<phrase i="1016" t="Recording (Hold)"/>
+		<phrase i="1017" t="Protocol Routing"/>
+		<phrase i="1018" t="Manual Protocol Routing" t.VVX_101_201="Man Prot Routing"/>
+		<phrase i="1019" t="Soft Key Control"/>
+		<phrase i="1020" t="Preferred Protocol" t.VVX_101_201="Preferred Prot"/>
+		<phrase i="1021" t="Auto Answer"/>
+		<phrase i="1022" t="Auto Answer SIP Calls" t.VVX_101_201="AutoAns SIP Call"/>
+		<phrase i="1023" t="Auto Answer H.323 Calls" t.VVX_101_201="AutoAnsH.323Call"/>
+		<phrase i="1024" t="Microphone Muted"/>
+		<phrase i="1025" t="Video Muted"/>
+		<phrase i="1026" t="Auto Routing Preference" t.VVX_101_201="AutoRoutingPref"/>
+		<phrase i="1027" t="Protocol"/>
+		<phrase i="1028" t="SIP Protocol"/>
+		<phrase i="1029" t="H.323 Protocol"/>
+		<phrase i="1030" t="Allow sharing with " t.VVX_101_201="Allow Sharing"/>
+		<phrase i="1031" t="Audible Ringer"/>
+		<phrase i="1032" t="Option 60 Format" t.VVX_101_201="Opt60 F"/>
+		<phrase i="1033" t="RFC3925 Binary"/>
+		<phrase i="1034" t="ASCII String"/>
+		<phrase i="1035" t="WLAN Settings"/>
+		<phrase i="1036" t="Profile"/>
+		<phrase i="1037" t="Profile 1"/>
+		<phrase i="1038" t="Profile 2"/>
+		<phrase i="1039" t="Profile 3"/>
+		<phrase i="1040" t="Profile 4"/>
+		<phrase i="1041" t="Profile Name"/>
+		<phrase i="1042" t="View"/>
+		<phrase i="1043" t="WLAN"/>
+		<phrase i="1044" t="**-**"/>
+		<phrase i="1045" t="SSID"/>
+		<phrase i="1046" t="Security"/>
+		<phrase i="1047" t="QoS"/>
+		<phrase i="1048" t="None"/>
+		<phrase i="1049" t="WEP"/>
+		<phrase i="1050" t="WPA-PSK"/>
+		<phrase i="1051" t="WPA2-PSK"/>
+		<phrase i="1052" t="Cisco FSR"/>
+		<phrase i="1053" t="WPA2-Enterprise"/>
+		<phrase i="1054" t="Diagnostic Channel" t.VVX_101_201="Diagnostic Chan"/>
+		<phrase i="1055" t="QoS Mode"/>
+		<phrase i="1056" t="Basic"/>
+		<phrase i="1057" t="Enhanced"/>
+		<phrase i="1058" t="WMM+PS+AC"/>
+		<phrase i="1059" t="DSCP Tags"/>
+		<phrase i="1060" t="Voice"/>
+		<phrase i="1061" t="Control"/>
+		<phrase i="1062" t="Other"/>
+		<phrase i="1063" t="Shared Key"/>
+		<phrase i="1064" t="Open System"/>
+		<phrase i="1065" t="Default Key"/>
+		<phrase i="1066" t="Key Length"/>
+		<phrase i="1067" t="Auth"/>
+		<phrase i="1068" t="Keys"/>
+		<phrase i="1069" t="Key"/>
+		<phrase i="1070" t="Wi-Fi Stats"/>
+		<phrase i="1071" t="Prev"/>
+		<phrase i="1072" t="Next"/>
+		<phrase i="1073" t="Unkn"/>
+		<phrase i="1074" t="Weak"/>
+		<phrase i="1075" t="Rate"/>
+		<phrase i="1076" t="Full"/>
+		<phrase i="1077" t="AthT"/>
+		<phrase i="1078" t="AscT"/>
+		<phrase i="1079" t="AthF"/>
+		<phrase i="1080" t="AscF"/>
+		<phrase i="1081" t="AscT"/>
+		<phrase i="1082" t="SecF"/>
+		<phrase i="1083" t="Cnfg"/>
+		<phrase i="1084" t="CCX"/>
+		<phrase i="1085" t="CCKM"/>
+		<phrase i="1086" t="WMM"/>
+		<phrase i="1087" t="Save WLAN Settings"/>
+		<phrase i="1088" t="Transmit Power"/>
+		<phrase i="1089" t="Radio Settings"/>
+		<phrase i="1090" t="a-Band"/>
+		<phrase i="1091" t="b/g-Band"/>
+		<phrase i="1092" t="g only"/>
+		<phrase i="1093" t="b or b/g mixed"/>
+		<phrase i="1094" t="Regulatory Domain" t.VVX_101_201="RegulatoryDomain"/>
+		<phrase i="1095" t="US"/>
+		<phrase i="1096" t="ETSI"/>
+		<phrase i="1097" t="Japan"/>
+		<phrase i="1098" t="Singapore"/>
+		<phrase i="1099" t="Korea"/>
+		<phrase i="1100" t="Taiwan"/>
+		<phrase i="1101" t="Hong Kong"/>
+		<phrase i="1102" t="Mexico"/>
+		<phrase i="1103" t="Keys Not Saved"/>
+		<phrase i="1104" t="Passphrase"/>
+		<phrase i="1105" t="Pre-Shared Key"/>
+		<phrase i="1106" t="Username"/>
+		<phrase i="1107" t="Fast Handoff"/>
+		<phrase i="1108" t="Delete PAC/Cert"/>
+		<phrase i="1109" t="Mandatory"/>
+		<phrase i="1110" t="Optional"/>
+		<phrase i="1111" t="Admission Ctl"/>
+		<phrase i="1112" t="Ena/Dis"/>
+		<phrase i="1113" t="Notification Profiles" t.VVX_101_201="Notification Pro"/>
+		<phrase i="1114" t="Push-to-Talk"/>
+		<phrase i="1115" t="Subscribed Channels" t.VVX_101_201="Subscribed Chan"/>
+		<phrase i="1116" t="Allowed Channels"/>
+		<phrase i="1117" t="Save and restart"/>
+		<phrase i="1118" t="PSTN Configuration" t.VVX_101_201="PSTN Config"/>
+		<phrase i="1119" t="2.5 mm Mode"/>
+		<phrase i="1120" t="Mobile Phone Audio" t.VVX_101_201="Mobile Audio"/>
+		<phrase i="1121" t="Computer Audio"/>
+		<phrase i="1122" t="Prompt"/>
+		<phrase i="1123" t="Operational Mode"/>
+		<phrase i="1124" t="PSTN"/>
+		<phrase i="1125" t="Retained Message"/>
+		<phrase i="1126" t="Very Low Battery"/>
+		<phrase i="1127" t="Touch Screen Diagnostics" t.VVX_101_201="Touch Scr Dianog"/>
+		<phrase i="1128" t="**-**"/>
+		<phrase i="1129" t="Touch the display to test."/>
+		<phrase i="1130" t="CMA Directory"/>
+		<phrase i="1131" t="Groups"/>
+		<phrase i="1132" t="Add Contact"/>
+		<phrase i="1133" t="CMA Menu"/>
+		<phrase i="1134" t="CMA Mode"/>
+		<phrase i="1135" t="CMA Server"/>
+		<phrase i="1136" t="Login Credentials"/>
+		<phrase i="1137" t="User"/>
+		<phrase i="1138" t="Valid until"/>
+		<phrase i="1139" t="Expired"/>
+		<phrase i="1140" t="Reset Web Configuration" t.IP_330="Reset Web Config" t.VVX_101_201="Reset Web Config"/>
+		<phrase i="1141"/>
+		<phrase i="1142"/>
+		<phrase i="1143"/>
+		<phrase i="1144"/>
+		<phrase i="1145"/>
+		<phrase i="1146"/>
+		<phrase i="1147" t="Lock Phone"/>
+		<phrase i="1148" t="Lock"/>
+		<phrase i="1149" t="Unlock" t.VVX_101_201="Unlck"/>
+		<phrase i="1150" t="The phone is locked."/>
+		<phrase i="1151" t="Authorized calls only."/>
+		<phrase i="1152" t="DND when locked"/>
+		<phrase i="1153" t="Allow ringing when locked" t.IP_330="Allow ringing"/>
+		<phrase i="1154" t="Unlock the phone?"/>
+		<phrase i="1155" t="Answer the call?"/>
+		<phrase i="1156" t="Place an Authorized Call"/>
+		<phrase i="1157" t="Unauthorized number."/>
+		<phrase i="1158" t="Phone number"/>
+		<phrase i="1159" t="SIP Address"/>
+		<phrase i="1160" t="Shutdown initiated"/>
+		<phrase i="1161" t="On-Hook Dialing"/>
+		<phrase i="1162" t="On-Hook Dialing Mode"/>
+		<phrase i="1163" t="Audio Mode"/>
+		<phrase i="1164" t="Country"/>
+		<phrase i="1165" t="Contact does not support presence. Save to local contact directory?"/>
+		<phrase i="1166" t="Flash Timing"/>
+		<phrase i="1167" t="Caller Id"/>
+		<phrase i="1168" t="80"/>
+		<phrase i="1169" t="100"/>
+		<phrase i="1170" t="300"/>
+		<phrase i="1171" t="600"/>
+		<phrase i="1172" t="Removed"/>
+		<phrase i="1173" t="CallLog"/>
+		<phrase i="1174" t="Unable to lock the phone."/>
+		<phrase i="1175" t="PSTN Extension"/>
+		<phrase i="1176" t="Enter PSTN Extension:" t.VVX_101_201="Enter PSTN Exten"/>
+		<phrase i="1177" t="Search in " t.VVX_101_201="Srch"/>
+		<phrase i="1178" t="Handset/Headset"/>
+		<phrase i="1179" t="You cannot add yourself to your buddies list"/>
+		<phrase i="1180" t="Dismiss" t.VVX_101_201="Dism"/>
+		<phrase i="1181" t="Snooze" t.VVX_101_201="Zzz"/>
+		<phrase i="1182" t="\&quot; %s \&quot; will start in %d %s at %s"/>
+		<phrase i="1183" t="Calendar"/>
+		<phrase i="1184" t="minutes"/>
+		<phrase i="1185" t="seconds"/>
+		<phrase i="1186" t="minute"/>
+		<phrase i="1187" t="second"/>
+		<phrase i="1188" t="Keypad Lock"/>
+		<phrase i="1189" t="Keypad Unlock"/>
+		<phrase i="1190" t="Keypad locked."/>
+		<phrase i="1191" t="Lock the phone?"/>
+		<phrase i="1192" t="No groups found"/>
+		<phrase i="1193" t="Device Certificates" t.VVX_101_201="Device Cert"/>
+		<phrase i="1194" t="Polycom Cert" t.VVX_1500="Polycom Cert Configured" t.VVX_500="Polycom Cert Configured"/>
+		<phrase i="1195" t="Cert Loaded" t.VVX_1500="Configured Cert Loaded" t.VVX_500="Configured Cert Loaded"/>
+		<phrase i="1196" t="Polycom Present" t.VVX_1500="Device Cert Polycom Present" t.VVX_500="Device Cert Polycom Present"/>
+		<phrase i="1197" t="Custom Present" t.VVX_1500="Device Cert Custom Present" t.VVX_500="Device Cert Custom Present"/>
+		<phrase i="1198" t="Custom Description" t.VVX_1500="Device Cert Custom Description" t.VVX_500="Device Cert Custom Description" t.VVX_101_201="Custom Descrip"/>
+		<phrase i="1199" t="TR-069 Upgrades Managed"/>
+		<phrase i="1200" t="Device Cert"/>
+		<phrase i="1201" t="Playback in progress"/>
+		<phrase i="1202" t="Local contact directory is read-only."/>
+		<phrase i="1203" t="CMA authentication failed"/>
+		<phrase i="1204" t="CMA provisioning error"/>
+		<phrase i="1205" t="Remote Keyboard and Mouse"/>
+		<phrase i="1206" t="Is the phone to the left or to the right of your computer?"/>
+		<phrase i="1207" t="Left"/>
+		<phrase i="1208" t="Right"/>
+		<phrase i="1209" t="List"/>
+		<phrase i="1210" t="Enter Reason Code"/>
+		<phrase i="1211" t="Upload Configuration"/>
+		<phrase i="1212" t="TR-069"/>
+		<phrase i="1213" t="CMA"/>
+		<phrase i="1214" t="All Sources"/>
+		<phrase i="1215" t="Local"/>
+		<phrase i="1216" t="Web"/>
+		<phrase i="1217" t="Upload"/>
+		<phrase i="1218" t="Configuration Files" t.IP_330="Config. Files" t.VVX_101_201="Config Files"/>
+		<phrase i="1219" t="Unavailable Reason Code" t.VVX_101_201="Unavail Reason Code"/>
+		<phrase i="1220" t="Agent Unavail."/>
+		<phrase i="1221" t="Configuration file warning" t.IP_330="Pre3.3.0 Config"/>
+		<phrase i="1222" t=" has pre-3.3.0 parameters" t.VVX_101_201="pre-3.3.0 params"/>
+		<phrase i="1223" t="none"/>
+		<phrase i="1224" t="Digest"/>
+		<phrase i="1225" t="Duplicate Parameters Found" t.IP_330="Duplicates Found" t.VVX_500="Duplicates" t.VVX_101_201="Dup"/>
+		<phrase i="1226" t="Errors Found" t.VVX_500="Errors" t.VVX_101_201="Err"/>
+		<phrase i="1227" t="Parameters Accepted" t.IP_330="Params Accepted" t.VVX_500="OK"/>
+		<phrase i="1228" t="Pre-3.3.0 Parameters Found" t.VVX_500="Pre-3.3.0"/>
+		<phrase i="1229" t="Pre-3.3.0 parameters in:" t.VVX_1500="Found pre-3.3.0 parameters in:" t.VVX_500="Found pre-3.3.0 parameters in:"/>
+		<phrase i="1230" t="Query still pending try later."/>
+		<phrase i="1231" t="CMA Directory not registered"/>
+		<phrase i="1232" t="CMA Presence not registered"/>
+		<phrase i="1233" t="Call Info"/>
+		<phrase i="1234" t="Update Configuration"/>
+		<phrase i="1235" t="Invalid login credentials"/>
+		<phrase i="1236" t="Could not retrieve address."/>
+		<phrase i="1237" t="Dial Contact failed."/>
+		<phrase i="1238" t="Add Contact failed."/>
+		<phrase i="1239" t="CMA Status"/>
+		<phrase i="1240" t="Presence Registration" t.VVX_101_201="Presence Reg"/>
+		<phrase i="1241" t="Directory Registration" t.VVX_101_201="Directory Reg"/>
+		<phrase i="1242" t="Provision Status"/>
+		<phrase i="1243" t="Server Hostname"/>
+		<phrase i="1244" t="Software Update Check"/>
+		<phrase i="1245" t="Profile Update Check" t.VVX_101_201="Profile Updt Chk"/>
+		<phrase i="1246" t="Heartbeat Report"/>
+		<phrase i="1247" t="Success"/>
+		<phrase i="1248" t="Failed"/>
+		<phrase i="1249" t="Invitations"/>
+		<phrase i="1250" t="Buddy Invitation Pending"/>
+		<phrase i="1251" t="Presence"/>
+		<phrase i="1252" t="Method Of Accepting Invitations" t.VVX_101_201="Method Of Accept"/>
+		<phrase i="1253" t="Provisioning Polling Intervals" t.VVX_101_201="Prov Poll Intvl"/>
+		<phrase i="1254" t="Automatic"/>
+		<phrase i="1255" t="Revalidate"/>
+		<phrase i="1256" t="Multiple login failures can lock the user account."/>
+		<phrase i="1257" t="Do you want to proceed?"/>
+		<phrase i="1258" t="Provisioning Error" t.IP_330="Config Error"/>
+		<phrase i="1259" t="Failed to update configuration"/>
+		<phrase i="1260" t="Update"/>
+		<phrase i="1261" t="Login credentials failed" t.IP_330="Login cred. failed" t.VVX_1500="Login credentials have failed." t.VVX_500="Login credentials have failed."/>
+		<phrase i="1262" t="Update credentials correctly" t.IP_330="Update cred. correctly" t.VVX_1500="Please update them if information is incorrect." t.VVX_500="Please update them if information is incorrect."/>
+		<phrase i="1263" t="Fwd"/>
+		<phrase i="1264" t="Confirm Click-to-dial"/>
+		<phrase i="1265" t=" missed calls"/>
+		<phrase i="1266" t=" missed call"/>
+		<phrase i="1267" t="G.711Mu"/>
+		<phrase i="1268" t="G.726QI"/>
+		<phrase i="1269" t="G.722"/>
+		<phrase i="1270" t="Model"/>
+		<phrase i="1271" t="Assembly"/>
+		<phrase i="1272" t="Device Certificate" t.VVX_101_201="Device Cert"/>
+		<phrase i="1273" t="Version"/>
+		<phrase i="1274" t="S/N"/>
+		<phrase i="1275" t="Rev"/>
+		<phrase i="1276" t="You have not configured a home page for this feature."/>
+		<phrase i="1277" t="Consult with your system administrator for assistance"/>
+		<phrase i="1278" t="Transport"/>
+		<phrase i="1279" t="LDAP Version"/>
+		<phrase i="1280" t="Server Sorts"/>
+		<phrase i="1281" t="Is VLV"/>
+		<phrase i="1282" t="Resync"/>
+		<phrase i="1283" t="AutoQuery Timeout"/>
+		<phrase i="1284" t="Default Filter"/>
+		<phrase i="1285" t="BaseDN"/>
+		<phrase i="1286" t="Attributes"/>
+		<phrase i="1287" t="Primary Index"/>
+		<phrase i="1288" t="Sort Order"/>
+		<phrase i="1289" t="Inverse Sort Order"/>
+		<phrase i="1290" t="Scope"/>
+		<phrase i="1291" t="CA File"/>
+		<phrase i="1292"/>
+		<phrase i="1293" t="Key File"/>
+		<phrase i="1294" t="USB Call Recording" t.IP_330="USB Rec." t.VVX_101_201="USB Call Record"/>
+		<phrase i="1295" t="Conference Management" t.IP_330="ConfMgmt" t.VVX_101_201="Conf Management"/>
+		<phrase i="1296" t="Corporate Directory" t.IP_330="CorpDir" t.VVX_101_201="Corporate Dir"/>
+		<phrase i="1297" t="Voice Quality Monitoring" t.IP_330="VQMon" t.VVX_101_201="VQMon"/>
+		<phrase i="1298" t="uaCSTA" t.IP_330="uaCSTA"/>
+		<phrase i="1299" t="Access URL" t.IP_330="SSAWC"/>
+		<phrase i="1300" t="Enhanced Feature Keys" t.IP_330="EFK" t.VVX_101_201="Enhncd Feat Keys"/>
+		<phrase i="1301" t="Line: Unregistered" t.IP_330="Line: Unregistered" t.VVX_101_201="Line : Unreg"/>
+		<phrase i="1302" t="Idle"/>
+		<phrase i="1303" t="Receiving" t.VVX_101_201="Rcv."/>
+		<phrase i="1304" t="Preamble"/>
+		<phrase i="1305" t="Sending"/>
+		<phrase i="1306" t="Ending Transmit"/>
+		<phrase i="1307" t="Waiting"/>
+		<phrase i="1308" t="TLS Applications"/>
+		<phrase i="1309" t="Configure TLS Profiles" t.IP_330="TLS Profiles" t.VVX_101_201="Config TLS Prof"/>
+		<phrase i="1310" t="Custom CA Certificates" t.IP_330="CA Certificates" t.VVX_101_201="Custom CA Cert"/>
+		<phrase i="1311" t="Custom CA Details" t.VVX_101_201="Custom CA Dtls"/>
+		<phrase i="1312" t="Custom Device Credentials" t.IP_330="Device Credentials" t.VVX_101_201="Custom Dev Cred"/>
+		<phrase i="1313" t="Device Certificate Details" t.VVX_101_201="Device Cert Details"/>
+		<phrase i="1314" t="Install" t.VVX_101_201="Instl"/>
+		<phrase i="1315" t="TLS Platform Profile" t.IP_330="Pltfrm Prof" t.VVX_101_201="TLS Platf Prof"/>
+		<phrase i="1316" t="TLS Application Profile" t.IP_330="App Prof " t.VVX_101_201="TLS App Prof"/>
+		<phrase i="1317" t="Configure Cipher Suite" t.VVX_101_201="Config Cipher"/>
+		<phrase i="1318" t="Cipher Suite"/>
+		<phrase i="1319" t="Custom Cipher Suite" t.VVX_101_201="Custom Cipher"/>
+		<phrase i="1320" t="Platform CA" t.IP_330="Pltfrm CA" t.VVX_101_201="Platf CA"/>
+		<phrase i="1321" t="Application CA" t.IP_330="App CA"/>
+		<phrase i="1322" t="Platform Credential" t.IP_330="Pltfrm Cred" t.VVX_101_201="Platf Cred"/>
+		<phrase i="1323" t="Application Credential" t.IP_330="App Cred" t.VVX_101_201="Application Cred"/>
+		<phrase i="1324" t="Built-in and Platform1" t.IP_330="Builtin and pltform1" t.VVX_101_201="Blt-in and plt 1"/>
+		<phrase i="1325" t="Built-in and Platform2" t.IP_330="Builtin and pltform2" t.VVX_101_201="Blt-in and plt 2"/>
+		<phrase i="1326" t="Platform1"/>
+		<phrase i="1327" t="Platform2"/>
+		<phrase i="1328" t="All Custom"/>
+		<phrase i="1329" t="Polycom"/>
+		<phrase i="1330" t="Common Name"/>
+		<phrase i="1331" t="802.1X"/>
+		<phrase i="1332" t="Provisioning"/>
+		<phrase i="1333" t="Syslog"/>
+		<phrase i="1334" t="Presence"/>
+		<phrase i="1335" t="LDAP"/>
+		<phrase i="1336" t="Install Device Credential" t.VVX_101_201="Install Dev Cred"/>
+		<phrase i="1337" t="Private Key"/>
+		<phrase i="1338" t="Delete Custom CA"/>
+		<phrase i="1339" t="Delete Custom Dev Cert" t.VVX_101_201="DelCustDevCert"/>
+		<phrase i="1340" t="Multicast Addr"/>
+		<phrase i="1341" t="Ekahau"/>
+		<phrase i="1342" t="1 minute"/>
+		<phrase i="1343" t=" (Active)"/>
+		<phrase i="1344" t="Reset User Configuration"/>
+		<phrase i="1345" t="Verifying credentials. Please wait…"/>
+		<phrase i="1346" t="Enter data to verify credentials."/>
+		<phrase i="1347" t="Logging out. Please wait…"/>
+		<phrase i="1348" t="Login credential validation is successful."/>
+		<phrase i="1349" t="User login failed."/>
+		<phrase i="1350" t="User configuration failed."/>
+		<phrase i="1351" t="User configuration succeeded."/>
+		<phrase i="1352" t="Invalid user login state"/>
+		<phrase i="1353" t="Updating directory from server…"/>
+		<phrase i="1354" t="Misc Features"/>
+		<phrase i="1355" t="Bluetooth"/>
+		<phrase i="1356" t="Bluetooth Radio"/>
+		<phrase i="1357" t="Manage BT Headsets" t.VVX_101_201="Mng BT Headset"/>
+		<phrase i="1358" t="Show BT Headsets"/>
+		<phrase i="1359" t="Paired Headsets"/>
+		<phrase i="1360" t="Bluetooth Mode"/>
+		<phrase i="1361" t="Scan"/>
+		<phrase i="1362" t="BT Scan Off"/>
+		<phrase i="1363" t="BT Radio Status"/>
+		<phrase i="1364" t="Bluetooth Radio On" t.VVX_101_201="BT Radio On"/>
+		<phrase i="1365" t="Bluetooth Radio Off" t.VVX_101_201="BT Radio  Off"/>
+		<phrase i="1366" t="Device Info"/>
+		<phrase i="1367" t="Add"/>
+		<phrase i="1368" t="Remove" t.VVX_101_201="Rmv"/>
+		<phrase i="1369" t="Connect" t.VVX_101_201="Conn"/>
+		<phrase i="1370" t="Disconnect"/>
+		<phrase i="1371" t="Flash"/>
+		<phrase i="1372" t="Sender ID"/>
+		<phrase i="1373" t="Reset To Factory"/>
+		<phrase i="1374" t="Neighbors"/>
+		<phrase i="1375" t="Current Configuration" t.VVX_101_201="Current Config"/>
+		<phrase i="1376" t="Freeze" t.VVX_101_201="Frz"/>
+		<phrase i="1377" t="Update" t.VVX_101_201="Updt"/>
+		<phrase i="1378" t="Headset attached"/>
+		<phrase i="1379" t="Headset removed"/>
+		<phrase i="1380" t="Extend"/>
+		<phrase i="1381" t="Page Transmit Extended" t.VVX_101_201="Page Xmit Extend"/>
+		<phrase i="1382" t="Bluetooth PIN Entry" t.VVX_101_201="Bluetooth PIN"/>
+		<phrase i="1383" t="Enter PIN"/>
+		<phrase i="1384" t="Paging Configuration" t.VVX_101_201="Paging Config"/>
+		<phrase i="1385" t="Group Paging"/>
+		<phrase i="1386" t="Priority Group"/>
+		<phrase i="1387" t="Emergency Group" t.IP_450="Emerg Group"/>
+		<phrase i="1388" t="Group Subscriptions" t.VVX_101_201="Group Subscript"/>
+		<phrase i="1389" t="Channel Subscriptions" t.VVX_101_201="Channel Subscript"/>
+		<phrase i="1390" t="Low Battery Shutdown"/>
+		<phrase i="1391" t="Banned"/>
+		<phrase i="1392" t="Details" t.VVX_101_201="Dtls"/>
+		<phrase i="1393" t="Network Auth. Failure" t.VVX_1500="Network Authentication Failure" t.VVX_500="Network Authentication Failure"/>
+		<phrase i="1394" t="PEAPv0/GTC"/>
+		<phrase i="1395" t="TLS Profile"/>
+		<phrase i="1396" t="Profile1"/>
+		<phrase i="1397" t="Profile2"/>
+		<phrase i="1398" t="PAC File Password" t.VVX_101_201="PAC File Pswd"/>
+		<phrase i="1399" t="PAC Filename"/>
+		<phrase i="1400" t="Remove PAC File"/>
+		<phrase i="1401" t="Download" t.VVX_101_201="Dwnl"/>
+		<phrase i="1402" t="PAC File Info"/>
+		<phrase i="1403" t="PAC file downloaded."/>
+		<phrase i="1404"/>
+		<phrase i="1405"/>
+		<phrase i="1406" t="Prov. Server" t.IP_330="Provisioning Server" t.IP_5000="Provisioning Server" t.VVX_1500="Provisioning Server" t.VVX_500="Provisioning Server"/>
+		<phrase i="1407" t="Network Interfaces" t.VVX_101_201="Ntwrk Interface"/>
+		<phrase i="1408" t="Interface Order"/>
+		<phrase i="1409" t="Wi-Fi Menu"/>
+		<phrase i="1410" t="USBNet Menu"/>
+		<phrase i="1411" t="DHCP Boot Server" t.VVX_101_201="Boot Server"/>
+		<phrase i="1412" t="Wi-Fi"/>
+		<phrase i="1413" t="USBNet"/>
+		<phrase i="1414" t="Server User"/>
+		<phrase i="1415" t="Server Password"/>
+		<phrase i="1416" t="CCX AP Required"/>
+		<phrase i="1417" t="Radio"/>
+		<phrase i="1418" t="AC Required"/>
+		<phrase i="1419" t="World Mode-802.11d" t.VVX_101_201="W Mode-802.11d"/>
+		<phrase i="1420" t="01"/>
+		<phrase i="1421" t="02"/>
+		<phrase i="1422" t="03"/>
+		<phrase i="1423" t="04"/>
+		<phrase i="1424" t="05"/>
+		<phrase i="1425" t="06"/>
+		<phrase i="1426" t="07"/>
+		<phrase i="1427" t="08"/>
+		<phrase i="1428" t="Band"/>
+		<phrase i="1429" t="5 GHz"/>
+		<phrase i="1430" t="2.4 GHz"/>
+		<phrase i="1431" t="5 GHz Enabled"/>
+		<phrase i="1432" t="2.4 GHz Enabled"/>
+		<phrase i="1433" t="SubBand1 Enabled"/>
+		<phrase i="1434" t="SubBand2 Enabled"/>
+		<phrase i="1435" t="SubBand3 Enabled"/>
+		<phrase i="1436" t="SubBand4 Enabled"/>
+		<phrase i="1437" t="P0"/>
+		<phrase i="1438" t="P1"/>
+		<phrase i="1439" t="P2"/>
+		<phrase i="1440" t="P3"/>
+		<phrase i="1441" t="P4"/>
+		<phrase i="1442" t="P5"/>
+		<phrase i="1443" t="P6"/>
+		<phrase i="1444" t="P7"/>
+		<phrase i="1445" t="40 Bits"/>
+		<phrase i="1446" t="104 Bits"/>
+		<phrase i="1447" t="1"/>
+		<phrase i="1448" t="2"/>
+		<phrase i="1449" t="3"/>
+		<phrase i="1450" t="4"/>
+		<phrase i="1451" t="Key 1" t.VVX_101_201="Key1"/>
+		<phrase i="1452" t="Key 2"/>
+		<phrase i="1453" t="Key 3"/>
+		<phrase i="1454" t="Key 4"/>
+		<phrase i="1455" t="PSK Type"/>
+		<phrase i="1456" t="OKC"/>
+		<phrase i="1457" t="CCKM"/>
+		<phrase i="1458" t="802.11r"/>
+		<phrase i="1459" t="In-Band Provisioning" t.VVX_101_201="In-Band Prov"/>
+		<phrase i="1460" t="Unauthenticated"/>
+		<phrase i="1461" t="Talk"/>
+		<phrase i="1462" t="Server refused the connection"/>
+		<phrase i="1463" t="Server closed the connection"/>
+		<phrase i="1464" t="Invalid hostname"/>
+		<phrase i="1465" t="Connection timeout"/>
+		<phrase i="1466" t="SSL/TLS handshake failed"/>
+		<phrase i="1467" t="Proxy server refused the connection"/>
+		<phrase i="1468" t="Proxy server closed the connection"/>
+		<phrase i="1469" t="Invalid proxy hostname"/>
+		<phrase i="1470" t="Proxy timed out"/>
+		<phrase i="1471" t="Proxy authentication required"/>
+		<phrase i="1472" t="Access to remote content was denied"/>
+		<phrase i="1473" t="Operation is not permitted"/>
+		<phrase i="1474" t="Remote content was not found"/>
+		<phrase i="1475" t="Authentication required"/>
+		<phrase i="1476" t="Protocol unknown"/>
+		<phrase i="1477" t="Invalid operation"/>
+		<phrase i="1478" t="Unknown network error"/>
+		<phrase i="1479" t="Unknown proxy error"/>
+		<phrase i="1480" t="Unknown content error"/>
+		<phrase i="1481" t="Protocol failure"/>
+		<phrase i="1482" t="VLAN Menu"/>
+		<phrase i="1483" t="Configuration Error"/>
+		<phrase i="1484" t="not found"/>
+		<phrase i="1485" t="Battery Charging"/>
+		<phrase i="1486" t="Battery Fully Charged"/>
+		<phrase i="1487" t="Battery strength at Medium"/>
+		<phrase i="1488" t="Battery strength at High"/>
+		<phrase i="1489" t="Battery strength at Full"/>
+		<phrase i="1490" t="Low Battery"/>
+		<phrase i="1491" t="Critically Low Battery"/>
+		<phrase i="1492" t="Update Complete"/>
+		<phrase i="1493" t="PDC Configuration" t.VVX_101_201="PDC Cfig"/>
+		<phrase i="1494" t="Server Address"/>
+		<phrase i="1495" t="Server Port"/>
+		<phrase i="1496" t="Phone Orientation" t.VVX_101_201="Phone Orien"/>
+		<phrase i="1497" t="Desktop User"/>
+		<phrase i="1498" t="Reconnect" t.VVX_101_201="Reco"/>
+		<phrase i="1499" t="Accept While Busy" t.VVX_101_201="AcptBusy"/>
+		<phrase i="1500" t="Added Timeout (s)" t.IP_450="Added T-Out(s)"/>
+		<phrase i="1501" t="Paging" t.VVX_101_201="Page"/>
+		<phrase i="1502" t="Paging/PTT Configuration" t.VVX_101_201="Page/PTT Config"/>
+		<phrase i="1503" t="Group Paging Configuration" t.VVX_101_201="Group PG Settings"/>
+		<phrase i="1504" t="Paging/PTT Settings" t.VVX_101_201="PG/PTT Settings"/>
+		<phrase i="1505" t="PTT Push-to-Talk"/>
+		<phrase i="1506" t="End Page" t.IP_330="EndPage" t.VVX_101_201="EnPg"/>
+		<phrase i="1507" t="End PTT" t.VVX_101_201="EPTT"/>
+		<phrase i="1508" t="IM History List"/>
+		<phrase i="1509" t="IM Active"/>
+		<phrase i="1510" t="Automatic login timeout."/>
+		<phrase i="1511" t="Line is not connected"/>
+		<phrase i="1512" t="Default call mode." t.VVX_101_201="Dflt call mode"/>
+		<phrase i="1513" t="Call Mode Selected - Video."/>
+		<phrase i="1514" t="Call Mode Selected - Audio Only."/>
+		<phrase i="1515" t="Chat History"/>
+		<phrase i="1516" t="Mobile"/>
+		<phrase i="1517" t="Computer"/>
+		<phrase i="1518" t="Mobile or Computer Audio" t.VVX_101_201="Mobile/Comp Aud"/>
+		<phrase i="1519" t="Caller ID Type"/>
+		<phrase i="1520" t="Bellcore"/>
+		<phrase i="1521" t="British Telecom"/>
+		<phrase i="1522" t="DTMF"/>
+		<phrase i="1523" t="Missing files, config. reverted" t.IP_330="Config. reverted"/>
+		<phrase i="1524" t="Activate"/>
+		<phrase i="1525" t="Tone Volume"/>
+		<phrase i="1526" t="Ringing"/>
+		<phrase i="1527" t="Alerts"/>
+		<phrase i="1528" t="Calls"/>
+		<phrase i="1529" t="OAI 1"/>
+		<phrase i="1530" t="OAI 2"/>
+		<phrase i="1531" t="Ring Pattern"/>
+		<phrase i="1532" t="Barcode"/>
+		<phrase i="1533" t="Docked"/>
+		<phrase i="1534" t="Instant Message"/>
+		<phrase i="1535" t="Local Hold Reminder"/>
+		<phrase i="1536" t="Loss of Network"/>
+		<phrase i="1537" t="Message Waiting"/>
+		<phrase i="1538" t="Negative Confirm"/>
+		<phrase i="1539" t="Positive Confirm"/>
+		<phrase i="1540" t="PTT Start of Transmission"/>
+		<phrase i="1541" t="PTT End of Transmission"/>
+		<phrase i="1542" t="Undocked"/>
+		<phrase i="1543" t="Welcome"/>
+		<phrase i="1544" t="Match Tone Cadence" t.VVX_101_201="Match Tone Caden"/>
+		<phrase i="1545" t="Custom1"/>
+		<phrase i="1546" t="Hearing Aid Compatibility" t.VVX_101_201="Hearing Aid Comp"/>
+		<phrase i="1547" t="Hostname"/>
+		<phrase i="1548" t="Remove Cached Login Data"/>
+		<phrase i="1549" t="Generate CSR"/>
+		<phrase i="1550" t="Generate" t.VVX_101_201="Genrt"/>
+		<phrase i="1551" t="CSR generation complete"/>
+		<phrase i="1552" t="Common Name"/>
+		<phrase i="1553" t="Organization" t.VVX_101_201="Org"/>
+		<phrase i="1554" t="Email Address" t.VVX_101_201="Email"/>
+		<phrase i="1555" t="State"/>
+		<phrase i="1556" t="is required"/>
+		<phrase i="1557" t="default"/>
+		<phrase i="1558" t="Dial mode"/>
+		<phrase i="1559" t="Enter name"/>
+		<phrase i="1560" t="Leading caps (Abc)" t.VVX_101_201="Lead caps(Abc)"/>
+		<phrase i="1561" t="Uppercase (ABC)"/>
+		<phrase i="1562" t="Lowercase (abc)"/>
+		<phrase i="1563" t="Bluetooth"/>
+		<phrase i="1564"/>
+		<phrase i="1565" t="Encryption"/>
+		<phrase i="1566" t="PSK"/>
+		<phrase i="1567" t="WPA"/>
+		<phrase i="1568" t="WPA(2)-PSK"/>
+		<phrase i="1569" t="Hex Key"/>
+		<phrase i="1570" t="Enterprise"/>
+		<phrase i="1571" t="EAP-Method"/>
+		<phrase i="1572" t="Fast Roaming"/>
+		<phrase i="1573" t="PEAPv0/MSCHAPv2"/>
+		<phrase i="1574" t="EAP-FAST"/>
+		<phrase i="1575" t="AC Required"/>
+		<phrase i="1576" t="Location Service"/>
+		<phrase i="1577" t="RTLS"/>
+		<phrase i="1578" t="Transmit Interval"/>
+		<phrase i="1579" t="ELP"/>
+		<phrase i="1580" t="ELP Port"/>
+		<phrase i="1581" t="Tx power Ctrl"/>
+		<phrase i="1582" t="2.4 GHz Tx Power"/>
+		<phrase i="1583" t="Preferred band"/>
+		<phrase i="1584" t="Threshold(dBm)"/>
+		<phrase i="1585" t="Band Roaming"/>
+		<phrase i="1586" t="Tx Pwr SubBand1"/>
+		<phrase i="1587" t="Tx Pwr SubBand2"/>
+		<phrase i="1588" t="Tx Pwr SubBand3"/>
+		<phrase i="1589" t="Tx Pwr SubBand4"/>
+		<phrase i="1590" t="Tx Pwr Ctrl SubBand1" t.VVX_101_201="TxPwrCtrlSubB1"/>
+		<phrase i="1591" t="Tx Pwr Ctrl SubBand2" t.VVX_101_201="TxPwrCtrlSubB2"/>
+		<phrase i="1592" t="Tx Pwr Ctrl SubBand3" t.VVX_101_201="TxPwrCtrlSubB3"/>
+		<phrase i="1593" t="Tx Pwr Ctrl SubBand4" t.VVX_101_201="TxPwrCtrlSubB4"/>
+		<phrase i="1594" t="Tx Pwr(Chan 1-11)" t.VVX_101_201="Tx Pwr(Chan1-11)"/>
+		<phrase i="1595" t="Tx Pwr(Chan 1-13)" t.VVX_101_201="Tx Pwr(Chan1-13)"/>
+		<phrase i="1596" t="Tx Pwr(Chan 1-14)" t.VVX_101_201="Tx Pwr(Chan1-14)"/>
+		<phrase i="1597" t="User Priority"/>
+		<phrase i="1598" t="5 minutes"/>
+		<phrase i="1599" t="10 minutes"/>
+		<phrase i="1600" t="Auto TPC"/>
+		<phrase i="1601" t="Multi-key Answer"/>
+		<phrase i="1602" t="Lock the Keypad?"/>
+		<phrase i="1603" t="Unlock the Keypad?"/>
+		<phrase i="1604" t="802.1X Menu"/>
+		<phrase i="1605" t="802.1X Auth"/>
+		<phrase i="1606" t="MD5"/>
+		<phrase i="1607" t="Anon User ID"/>
+		<phrase i="1608" t="TTLS/MSCHAPv2"/>
+		<phrase i="1609" t="TTLS/GTC"/>
+		<phrase i="1610" t="EAP-TLS"/>
+		<phrase i="1611" t="EAP-PEAPv0/MSCHAPv2"/>
+		<phrase i="1612" t="FAST"/>
+		<phrase i="1613" t="Application Session" t.VVX_101_201="App Session"/>
+		<phrase i="1614" t="Application Call"/>
+		<phrase i="1615" t="IM Session"/>
+		<phrase i="1616" t="IM Call"/>
+		<phrase i="1617" t="Transfer/Conference"/>
+		<phrase i="1618" t="Confrnce" t.VVX_101_201="Conf"/>
+		<phrase i="1619" t="Blind Transfer" t.VVX_101_201="BTrn"/>
+		<phrase i="1620" t="New Calls" t.VVX_101_201="New"/>
+		<phrase i="1621" t="Favorites"/>
+		<phrase i="1622" t="Reports"/>
+		<phrase i="1623" t="Emergency"/>
+		<phrase i="1624" t="User Login"/>
+		<phrase i="1625" t="Change User Login Password" t.VVX_101_201="Change Login Pswd"/>
+		<phrase i="1626" t="SIPTEXTMSG"/>
+		<phrase i="1627" t="IM Name"/>
+		<phrase i="1628" t="Duplicate IM User Name" t.VVX_101_201="Dupl IM Username"/>
+		<phrase i="1629" t="IM Chats"/>
+		<phrase i="1630" t="Voicemail"/>
+		<phrase i="1631" t="Basic Settings"/>
+		<phrase i="1632" t="Advanced Settings" t.VVX_101_201="Advance Settings"/>
+		<phrase i="1633" t="Feature Settings"/>
+		<phrase i="1634" t="Quick Notes"/>
+		<phrase i="1635" t="Backlight Timeout"/>
+		<phrase i="1636" t="Auto (Automatic Mode Detect)" t.VVX_101_201="Auto Detect Mode"/>
+		<phrase i="1637" t="PSTN Only"/>
+		<phrase i="1638" t="Entry Mode"/>
+		<phrase i="1639" t="No channels selected"/>
+		<phrase i="1640" t="Page"/>
+		<phrase i="1641" t="Paging Groups List" t.VVX_101_201="Paging Groups"/>
+		<phrase i="1642" t="Transmit not allowed"/>
+		<phrase i="1643" t="Default:"/>
+		<phrase i="1644" t="Recent:"/>
+		<phrase i="1645" t="Page Mode not allowed"/>
+		<phrase i="1646" t="PTT Mode not allowed"/>
+		<phrase i="1647" t="PTT Mode Configuration" t.VVX_101_201="PTT Mode Config"/>
+		<phrase i="1648" t="PTT Mode"/>
+		<phrase i="1649" t="Group Paging"/>
+		<phrase i="1650" t="Default Channel"/>
+		<phrase i="1651" t="Priority Channel" t.IP_450="Pri Channel" t.VVX_101_201="Priority Channel"/>
+		<phrase i="1652" t="Emerg Channel" t.IP_450="Emerg Channel" t.VVX_1500="Emergency Channel" t.VVX_500="Emergency Channel" t.VVX_101_201="Emerg Channel"/>
+		<phrase i="1653" t="Emergency Vol(dB)" t.IP_450="Emerg Vol(dB)" t.VVX_101_201="Emerg Vol(dB)"/>
+		<phrase i="1654" t="PTT Configuration"/>
+		<phrase i="1655" t="Channel"/>
+		<phrase i="1656" t="Transmit"/>
+		<phrase i="1657" t="Subscribe"/>
+		<phrase i="1658" t="Compatibility"/>
+		<phrase i="1659" t="Codec"/>
+		<phrase i="1660" t="Default Group"/>
+		<phrase i="1661" t="Default Channel"/>
+		<phrase i="1662" t="Allow off-hk PTT" t.IP_450="Alw off-hk PTT" t.VVX_1500="Allow off-hook PTT" t.VVX_500="Allow off-hook PTT"/>
+		<phrase i="1663" t="Allow off-hk Page" t.IP_450="Alw off-hk Page" t.VVX_1500="Allow off-hook Page" t.VVX_500="Allow off-hook Page" t.VVX_101_201="Allow off-hk Pg"/>
+		<phrase i="1664" t="Initial Timeout"/>
+		<phrase i="1665" t="Contin Timeout (s)" t.IP_450="Contin T-Out(s)" t.VVX_1500="Continuation Timeout" t.VVX_500="Continuation Timeout"/>
+		<phrase i="1666" t="Call Waiting" t.VVX_101_201="CallWtng"/>
+		<phrase i="1667" t="PTT Channel Configuration"/>
+		<phrase i="1668" t="Payload size (msec)" t.VVX_101_201="Payload sz(msec)"/>
+		<phrase i="1669" t="Host"/>
+		<phrase i="1670" t="Ping"/>
+		<phrase i="1671" t="Trace Route"/>
+		<phrase i="1672" t="Enter an IP address or DNS name."/>
+		<phrase i="1673" t="Web Proxy credential is invalid"/>
+		<phrase i="1674" t="Hello"/>
+		<phrase i="1675" t="Goodbye"/>
+		<phrase i="1676" t="Invalid battery, shutdown initiated"/>
+		<phrase i="1677" t="call handled remotely"/>
+		<phrase i="1678" t="call not answered"/>
+		<phrase i="1679" t="Quick Barcode Connector" t.VVX_101_201="Qck BC Connector"/>
+		<phrase i="1680" t="Operating Mode"/>
+		<phrase i="1681" t="Single Endpoint"/>
+		<phrase i="1682" t="Multiple Endpoint"/>
+		<phrase i="1683" t="Server Port"/>
+		<phrase i="1684" t="Recent" t.VVX_101_201="Rcnt"/>
+		<phrase i="1685" t="times"/>
+		<phrase i="1686" t="Office"/>
+		<phrase i="1687" t="Home"/>
+		<phrase i="1688" t="Pager"/>
+		<phrase i="1689" t="Type"/>
+		<phrase i="1690" t="Order"/>
+		<phrase i="1691" t="All Calls"/>
+		<phrase i="1692" t="Displayed"/>
+		<phrase i="1693" t="Ascending"/>
+		<phrase i="1694" t="Descending"/>
+		<phrase i="1695" t="All Lines"/>
+		<phrase i="1696" t="Close"/>
+		<phrase i="1697" t="Keyboard"/>
+		<phrase i="1698" t="Today"/>
+		<phrase i="1699" t="Yesterday"/>
+		<phrase i="1700" t="Tomorrow"/>
+		<phrase i="1701" t="hrs"/>
+		<phrase i="1702" t="mins"/>
+		<phrase i="1703" t="sec"/>
+		<phrase i="1704" t="month"/>
+		<phrase i="1705" t="months"/>
+		<phrase i="1706" t="year"/>
+		<phrase i="1707" t="years"/>
+		<phrase i="1708" t="Missed Call"/>
+		<phrase i="1709" t="Received Call"/>
+		<phrase i="1710" t="Placed Call"/>
+		<phrase i="1711" t="Active Sessions - Press" t.VVX_101_201="Active Sessions"/>
+		<phrase i="1712" t="Browser"/>
+		<phrase i="1713" t="Enter Label"/>
+		<phrase i="1714" t="Enter New Name"/>
+		<phrase i="1715" t="WiFi: No APs Found"/>
+		<phrase i="1716" t="PDC Configuration" t.VVX_101_201="PDC Config"/>
+		<phrase i="1717" t="Contacts / Call Lists" t.VVX_101_201="Cont/Call Lists"/>
+		<phrase i="1718" t="LED Diagnostics"/>
+		<phrase i="1719" t="Press &lt;1&gt; to toggle the LEDs" t.VVX_101_201="Press &lt;1&gt; to toggle"/>
+		<phrase i="1720" t="Press any other key to cancel" t.VVX_101_201="Press any key to cancel"/>
+		<phrase i="1721" t="Error creating config edit session"/>
+		<phrase i="1722" t="License keys have expired"/>
+		<phrase i="1723" t="Please wait… "/>
+		<phrase i="1724" t="Format file system"/>
+		<phrase i="1725" t="Factory reset"/>
+		<phrase i="1726" t="Flash settings"/>
+		<phrase i="1727" t="Applying configuration changes"/>
+		<phrase i="1728" t="Master configuration file change"/>
+		<phrase i="1729" t="Runtime configuration change"/>
+		<phrase i="1730" t="Boot server DHCP option changed"/>
+		<phrase i="1731" t="Applying VLAN option changes"/>
+		<phrase i="1732" t="Applying configuration changes from the web interface"/>
+		<phrase i="1733" t="Applying configuration changes from the web interface"/>
+		<phrase i="1734" t="CDP changed"/>
+		<phrase i="1735" t="LLDP changed"/>
+		<phrase i="1736" t="PMT safeReboot"/>
+		<phrase i="1737" t="PMT safeRestart"/>
+		<phrase i="1738" t="PNET module reboot" t.VVX_101_201="PNET mod reboot"/>
+		<phrase i="1739" t="PNET module restart" t.VVX_101_201="PNET mod restart"/>
+		<phrase i="1740" t="HT reboot command" t.VVX_101_201="HT reboot comm"/>
+		<phrase i="1741" t="Hard reset"/>
+		<phrase i="1742" t="Cannot safely restart"/>
+		<phrase i="1743" t="Cannot safely update net config"/>
+		<phrase i="1744" t="Cannot safely check net config"/>
+		<phrase i="1745" t="Cannot safely fail over"/>
+		<phrase i="1746" t="Applying CMA configuration"/>
+		<phrase i="1747" t="Please wait…"/>
+		<phrase i="1748" t="User login disabled"/>
+		<phrase i="1749" t="Contact directory has changed on the server"/>
+		<phrase i="1750" t="Global re-configuration" t.VVX_101_201="Global re-config"/>
+		<phrase i="1751" t="Restarting due to feature license changes"/>
+		<phrase i="1752" t="Applying changes to IP configuration"/>
+		<phrase i="1753" t="DNS server or domain changed"/>
+		<phrase i="1754" t="Configuration changed"/>
+		<phrase i="1755" t="Provisioning update" t.VVX_101_201="Prov update"/>
+		<phrase i="1756" t="Please wait…"/>
+		<phrase i="1757" t="Old password is incorrect." t.IP_450="Old password is wrong"/>
+		<phrase i="1758" t="New passwords do not match." t.IP_450="New passwords differ"/>
+		<phrase i="1759" t="Select Country"/>
+		<phrase i="1760" t="Select Language"/>
+		<phrase i="1761" t="Sorry, password too long"/>
+		<phrase i="1762" t="Audio only" t.VVX_101_201="Aud"/>
+		<phrase i="1763" t="No applications configured."/>
+		<phrase i="1764" t="Priority:"/>
+		<phrase i="1765" t="Any line"/>
+		<phrase i="1766" t="\&quot; %s \&quot; scheduled at %s is overdue"/>
+		<phrase i="1767" t="Prompt before accepting invitations"/>
+		<phrase i="1768" t="Automatically accept invitations"/>
+		<phrase i="1769" t="kbps"/>
+		<phrase i="1770" t="Set by Profile"/>
+		<phrase i="1771" t="Bluetooth disabled"/>
+		<phrase i="1772" t="BT radio forced off"/>
+		<phrase i="1773" t="No status available"/>
+		<phrase i="1774" t="Need to turn\n Bluetooth radio on\n to manage devices"/>
+		<phrase i="1775" t="**_**"/>
+		<phrase i="1776" t="Turning BT radio On"/>
+		<phrase i="1777" t="Turning BT radio Off"/>
+		<phrase i="1778" t="Please wait…"/>
+		<phrase i="1779" t="Name="/>
+		<phrase i="1780" t="Type="/>
+		<phrase i="1781" t="Status="/>
+		<phrase i="1782" t="Address="/>
+		<phrase i="1783" t="Illegal operation"/>
+		<phrase i="1784" t="This device is already paired"/>
+		<phrase i="1785" t="This device is not paired"/>
+		<phrase i="1786" t="This device is already connected"/>
+		<phrase i="1787" t="This device is not connected"/>
+		<phrase i="1788" t="Another device is already connected"/>
+		<phrase i="1789" t="No device selected"/>
+		<phrase i="1790" t="Adding device"/>
+		<phrase i="1791" t="Removing device"/>
+		<phrase i="1792" t="Connecting device"/>
+		<phrase i="1793" t="Disconnecting device"/>
+		<phrase i="1794" t="Scanning …"/>
+		<phrase i="1795" t="**_**"/>
+		<phrase i="1796" t="Device added"/>
+		<phrase i="1797" t="Device removed"/>
+		<phrase i="1798" t="Device connected"/>
+		<phrase i="1799" t="Device disconnected"/>
+		<phrase i="1800" t="Add device failed"/>
+		<phrase i="1801" t="Remove device failed"/>
+		<phrase i="1802" t="Connect device failed"/>
+		<phrase i="1803" t="Disconnect device failed"/>
+		<phrase i="1804" t="BT radio stopped working"/>
+		<phrase i="1805" t="No device info"/>
+		<phrase i="1806" t="BT Headset"/>
+		<phrase i="1807" t="Paired"/>
+		<phrase i="1808" t="Connected"/>
+		<phrase i="1809" t="Not Paired"/>
+		<phrase i="1810" t="Calendar Settings"/>
+		<phrase i="1811" t="Reminder"/>
+		<phrase i="1812" t="Paging/PTT"/>
+		<phrase i="1813" t="Upgrade Server"/>
+		<phrase i="1814" t="Save your changes?"/>
+		<phrase i="1815" t="Incoming Call"/>
+		<phrase i="1816" t="Press the Unlock key and then \n Yes to unlock the keypad "/>
+		<phrase i="1817" t="Trying…"/>
+		<phrase i="1818" t="Not delivered"/>
+		<phrase i="1819" t="Clear Icon" t.IP_330="ClrIcon" t.IP_450="ClrIcon" t.VVX_101_201="Clear"/>
+		<phrase i="1820" t="Scanning for BT headsets"/>
+		<phrase i="1821" t="Need to turn\n Bluetooth radio on\n to scan for devices"/>
+		<phrase i="1822" t="Place device into\n discoverable mode"/>
+		<phrase i="1823" t="**_**"/>
+		<phrase i="1824" t="PIN entry timed out"/>
+		<phrase i="1825" t="Headset ringing"/>
+		<phrase i="1826" t="Scan timed out. No devices found."/>
+		<phrase i="1827" t="Cannot run site survey with current configuration"/>
+		<phrase i="1828" t="10"/>
+		<phrase i="1829" t="20"/>
+		<phrase i="1830" t="30"/>
+		<phrase i="1831" t="40"/>
+		<phrase i="1832" t="50"/>
+		<phrase i="1833" t="60"/>
+		<phrase i="1834" t="70"/>
+		<phrase i="1835" t="Presence server is unreachable"/>
+		<phrase i="1836" t="Packet Count"/>
+		<phrase i="1837" t="General Information" t.VVX_101_201="General Info"/>
+		<phrase i="1838" t="AP List"/>
+		<phrase i="1839" t="Re/Association Stats" t.VVX_101_201="Re/Assoc Stats"/>
+		<phrase i="1840" t="EAP Information"/>
+		<phrase i="1841" t="Missed Rx Count"/>
+		<phrase i="1842" t="Missed Tx Count"/>
+		<phrase i="1843" t="Rx Retry Count"/>
+		<phrase i="1844" t="Tx Retry Count"/>
+		<phrase i="1845" t="Last Rate"/>
+		<phrase i="1846" t="Tx Power(dbm)"/>
+		<phrase i="1847" t="Assoc Count"/>
+		<phrase i="1848" t="Reassoc Count"/>
+		<phrase i="1849" t="Assoc Fail Count"/>
+		<phrase i="1850" t="Reassoc Fail Count" t.VVX_101_201="Reassoc Fail Cnt"/>
+		<phrase i="1851" t="MIC Err Count"/>
+		<phrase i="1852" t="MIC Err Last Seq"/>
+		<phrase i="1853" t="ICV Err Count"/>
+		<phrase i="1854" t="QoS Fail Count"/>
+		<phrase i="1855" t="EAP Err Count"/>
+		<phrase i="1856" t="Last EAP Err Code" t.VVX_101_201="Last EAP Err Cod"/>
+		<phrase i="1857" t="802.1X Failure Info"/>
+		<phrase i="1858" t="Unknown Error"/>
+		<phrase i="1859" t="EAP method mismatch"/>
+		<phrase i="1860" t="TLS Certificate Error"/>
+		<phrase i="1861" t="Bad Certificate"/>
+		<phrase i="1862" t="Unsupported Certificate"/>
+		<phrase i="1863" t="Certificate Revoked"/>
+		<phrase i="1864" t="Certificate expired"/>
+		<phrase i="1865" t="Unknown Certificate"/>
+		<phrase i="1866" t="Illegal parameter in certificate"/>
+		<phrase i="1867" t="Unknown CA"/>
+		<phrase i="1868" t="Server certificate error"/>
+		<phrase i="1869" t="Server certificate not valid"/>
+		<phrase i="1870" t="Server certificate expired"/>
+		<phrase i="1871" t="CRL not valid"/>
+		<phrase i="1872" t="CRL expired"/>
+		<phrase i="1873" t="TLS error"/>
+		<phrase i="1874" t="Credential failure"/>
+		<phrase i="1875" t="PAC failure"/>
+		<phrase i="1876" t="PAC File not found"/>
+		<phrase i="1877" t="No password for PAC file"/>
+		<phrase i="1878" t="Wrong password for PAC file"/>
+		<phrase i="1879" t="Invalid attributes in PAC file"/>
+		<phrase i="1880" t="802.11n"/>
+		<phrase i="1881" t="Insufficient bandwidth"/>
+		<phrase i="1882" t="Bluetooth Settings" t.VVX_101_201="Bluetooth Set"/>
+		<phrase i="1883" t="Location"/>
+		<phrase i="1884" t="Organizer" t.VVX_101_201="ORG"/>
+		<phrase i="1885" t="Required Attendees" t.VVX_101_201="Req Attendees"/>
+		<phrase i="1886" t="Description"/>
+		<phrase i="1887" t="More Actions" t.VVX_101_201="More"/>
+		<phrase i="1888" t="Event Started"/>
+		<phrase i="1889" t="In session with"/>
+		<phrase i="1890" t="No meeting scheduled"/>
+		<phrase i="1891" t="Disconnected from server"/>
+		<phrase i="1892" t="Unsupported EAP method"/>
+		<phrase i="1893" t="Exchange server unreachable"/>
+		<phrase i="1894" t="Removed from flash"/>
+		<phrase i="1895" t="Removed from file system"/>
+		<phrase i="1896" t="PAC file already exists"/>
+		<phrase i="1897" t="PAC file does not exist"/>
+		<phrase i="1898" t="Sennheiser EHS"/>
+		<phrase i="1899" t="Pending"/>
+		<phrase i="1900" t="Wrong Username"/>
+		<phrase i="1901" t="Wrong Username or Password"/>
+		<phrase i="1902" t="Max number of devices\npaired. Remove a \ndevice to make room."/>
+		<phrase i="1903" t="Originated Elsewhere"/>
+		<phrase i="1904" t="Invalid req: Conf call in progress"/>
+		<phrase i="1905" t="DHCP Failed"/>
+		<phrase i="1906" t="Authenticating"/>
+		<phrase i="1907" t="Messaging server not registered"/>
+		<phrase i="1908" t="Contacts"/>
+		<phrase i="1909" t="Save Contact"/>
+		<phrase i="1910" t="Table is full"/>
+		<phrase i="1911" t="Invalid contact"/>
+		<phrase i="1912" t="Presence server not registered"/>
+		<phrase i="1913" t="Presence feature disabled"/>
+		<phrase i="1914" t="Messaging feature disabled"/>
+		<phrase i="1915" t="Request sent"/>
+		<phrase i="1916" t="Error Loading Root Cert"/>
+		<phrase i="1917" t="DHCP Server"/>
+		<phrase i="1918" t="Bluetooth connection error\ndetected, attempting\nauto recovery"/>
+		<phrase i="1919" t="Bluetooth connection\nauto-recovery succeeded"/>
+		<phrase i="1920" t="Bluetooth connection\nauto-recovery failed"/>
+		<phrase i="1921" t="IP address change"/>
+		<phrase i="1922" t="HT restart command" t.VVX_101_201="HT rst command"/>
+		<phrase i="1923" t="Reboot to set up"/>
+		<phrase i="1924" t="Alternative DSP image" t.VVX_101_201="Alternative DSP"/>
+		<phrase i="1925" t="Failed to allocate video memory"/>
+		<phrase i="1926" t="ZTP"/>
+		<phrase i="1927" t="Hookswitch Mode"/>
+		<phrase i="1928" t="Jabra EHS"/>
+		<phrase i="1929" t="Plantronics EHS"/>
+		<phrase i="1930" t="Enter device certificate"/>
+		<phrase i="1931" t="Enter device key"/>
+		<phrase i="1932" t="Wrong device key. Enter correct key."/>
+		<phrase i="1933" t="No device certificate available"/>
+		<phrase i="1934" t="Login default only enabled" t.IP_330="Login def only enabled"/>
+		<phrase i="1935" t="Test Handset Audio" t.VVX_101_201="Test Handset Aud"/>
+		<phrase i="1936" t="Test Speakerphone Audio"/>
+		<phrase i="1937" t="Processing configuration…" t.VVX_101_201="Proc config"/>
+		<phrase i="1938" t="This may take a few seconds."/>
+		<phrase i="1939" t="Accepted"/>
+		<phrase i="1940" t="Declined"/>
+		<phrase i="1941" t="Tentative"/>
+		<phrase i="1942" t="Record/Play Test" t.VVX_101_201="Rec/Play"/>
+		<phrase i="1943" t="Brightness Diagnostics" t.VVX_101_201="Brightness Diagn"/>
+		<phrase i="1944" t="Failed to initialize brightness diagnostics"/>
+		<phrase i="1945" t="Factory Installed"/>
+		<phrase i="1946" t="Self-Signed"/>
+		<phrase i="1947" t="Invalid certificate"/>
+		<phrase i="1948" t="USB over current detected at port %d. Restoring USB Power."/>
+		<phrase i="1949" t="Restoring USB power."/>
+		<phrase i="1950" t="Common name validation" t.IP_330="Cmn Name Validation" t.VVX_101_201="Comm Name Valid"/>
+		<phrase i="1951" t="Profile Selection" t.VVX_101_201="Prof Selection"/>
+		<phrase i="1952" t="USB playback in progress"/>
+		<phrase i="1953" t="Voicemail playback in progress"/>
+		<phrase i="1954" t="Appear Away"/>
+		<phrase i="1955" t="Appear Offline"/>
+		<phrase i="1956" t="Enter Certificate URL" t.VVX_101_201="Enter Cert URL"/>
+		<phrase i="1957" t="Enter Key URL"/>
+		<phrase i="1958" t="File system PAC file removal failed" t.IP_330="FS PAC file removal failed"/>
+		<phrase i="1959" t="Flash PAC file removal failed"/>
+		<phrase i="1960" t="Chg Mic"/>
+		<phrase i="1961" t="Front Mic"/>
+		<phrase i="1962" t="Back Mic"/>
+		<phrase i="1963" t="remote calls"/>
+		<phrase i="1964" t="remote call"/>
+		<phrase i="1965" t="call"/>
+		<phrase i="1966" t="calls"/>
+		<phrase i="1967" t="item"/>
+		<phrase i="1968" t="items"/>
+		<phrase i="1969" t="Invalid Regulatory Domain"/>
+		<phrase i="1970" t="Invalid Regulatory Domain Setting"/>
+		<phrase i="1971" t="Max active channel reached" t.IP_330="Max channel reached"/>
+		<phrase i="1972" t="Last"/>
+		<phrase i="1973" t="Next"/>
+		<phrase i="1974" t="Are you sure you want to delete this contact?"/>
+		<phrase i="1975" t="Bookmark"/>
+		<phrase i="1976" t="Dialpad" t.VVX_101_201="Dial"/>
+		<phrase i="1977" t="EditCancel"/>
+		<phrase i="1978" t="Email"/>
+		<phrase i="1979" t="Job Title"/>
+		<phrase i="1980" t="Operation canceled"/>
+		<phrase i="1981" t="Portal"/>
+		<phrase i="1982" t="Quit"/>
+		<phrase i="1983" t="Return"/>
+		<phrase i="1984" t="Month"/>
+		<phrase i="1985" t="Day"/>
+		<phrase i="1986" t="Silent Ring"/>
+		<phrase i="1987" t="Low Trill"/>
+		<phrase i="1988" t="Low Double Trill"/>
+		<phrase i="1989" t="Medium Trill"/>
+		<phrase i="1990" t="Medium Double Trill" t.VVX_101_201="Med Double Trill"/>
+		<phrase i="1991" t="High Trill"/>
+		<phrase i="1992" t="High Double Trill"/>
+		<phrase i="1993" t="Highest Trill"/>
+		<phrase i="1994" t="Highest Double Trill" t.VVX_101_201="Highest Dbl Trill"/>
+		<phrase i="1995" t="Beeble"/>
+		<phrase i="1996" t="Triplet"/>
+		<phrase i="1997" t="Ringback-style"/>
+		<phrase i="1998" t="Low Trill Precedence" t.VVX_101_201="Low Trill Prec"/>
+		<phrase i="1999" t="Ring Splash"/>
+		<phrase i="2000"/>
+		<phrase i="2001"/>
+		<phrase i="2002"/>
+		<phrase i="2003"/>
+		<phrase i="2004"/>
+		<phrase i="2005"/>
+		<phrase i="2006"/>
+		<phrase i="2007"/>
+		<phrase i="2008"/>
+		<phrase i="2009"/>
+		<phrase i="2010" t="Recent Calls"/>
+		<phrase i="2011" t="&gt; %1 results found. Refine search." t.VVX_101_201="&gt; %1 results. Refine search."/>
+		<phrase i="2012" t="Cannot join calls from different lines." t.IP_330="Cannot join calls."/>
+		<phrase i="2013" t="In a call"/>
+		<phrase i="2014" t="Off Work"/>
+		<phrase i="2015" t="Digital headset attached"/>
+		<phrase i="2016" t="Digital headset removed"/>
+		<phrase i="2017" t="Idle Timeout"/>
+		<phrase i="2018" t="Off Hours"/>
+		<phrase i="2019" t="Favorite Index"/>
+		<phrase i="2020" t="Time/date out of sync"/>
+		<phrase i="2021" t="participants" t.VVX_300="Pax" t.VVX_101_201="Pax"/>
+		<phrase i="2022" t="Calendar: Synchronizing"/>
+		<phrase i="2023" t="Add To Favorites"/>
+		<phrase i="2024" t="Web"/>
+		<phrase i="2025" t="Remove USB device" t.VVX_101_201="Rmv USB Device"/>
+		<phrase i="2026" t="Invitation Options" t.VVX_101_201="Invitation Opt"/>
+		<phrase i="2027" t="Calendar"/>
+		<phrase i="2028" t="Do you want to enter Login Credentials?"/>
+		<phrase i="2029" t="Disconnect from the server"/>
+		<phrase i="2030" t="Connect to the server" t.VVX_101_201="Connect to Srv"/>
+		<phrase i="2031" t="Connected to the server"/>
+		<phrase i="2032" t="Remote User"/>
+		<phrase i="2033" t="CSR generation failed"/>
+		<phrase i="2034" t="Min. country code length is 2" t.IP_330="Error in country code"/>
+		<phrase i="2035" t="Country code is required"/>
+		<phrase i="2036" t="(abc) Enter URL"/>
+		<phrase i="2037" t="(123) Enter URL"/>
+		<phrase i="2038" t="Favorite index already exists."/>
+		<phrase i="2039" t="Barcode Update in progress\nCompleted: %3d%%"/>
+		<phrase i="2040" t="%1 lines and %2 contacts"/>
+		<phrase i="2041" t="GuestIn"/>
+		<phrase i="2042" t="GuestOut"/>
+		<phrase i="2043" t="Hoteling"/>
+		<phrase i="2044" t="ASignIn" t.VVX_101_201="ASnIn"/>
+		<phrase i="2045" t="ASignOut" t.VVX_101_201="ASOt"/>
+		<phrase i="2046" t="UseHost" t.VVX_101_201="Host"/>
+		<phrase i="2047" t="empty"/>
+		<phrase i="2048" t="q'ing"/>
+		<phrase i="2049" t="ALERT"/>
+		<phrase i="2050" t="Contacts"/>
+		<phrase i="2051" t="Contact List"/>
+		<phrase i="2052" t="Contact Status"/>
+		<phrase i="2053" t="Watch Contact"/>
+		<phrase i="2054" t="Block Contact"/>
+		<phrase i="2055" t="Add Contact"/>
+		<phrase i="2056" t="Contact Privacy"/>
+		<phrase i="2057" t="You cannot add yourself to your contact list" t.IP_330="Cannot add yourself" t.IP_450="Cannot add yourself"/>
+		<phrase i="2058" t="Contact Invitation Pending"/>
+		<phrase i="2059" t="Sign-in Address" t.VVX_101_201="SgInAddr"/>
+		<phrase i="2060" t="Line Type" t.VVX_101_201="LineType"/>
+		<phrase i="2061" t="was answered by"/>
+		<phrase i="2062" t="Cannot play media"/>
+		<phrase i="2063" t="Media format not supported"/>
+		<phrase i="2064" t="Media network error"/>
+		<phrase i="2065" t="Media access denied"/>
+		<phrase i="2066" t="Sign In" t.VVX_101_201="SgIn"/>
+		<phrase i="2067" t="Private Call"/>
+		<phrase i="2068" t="Disable Call Forwarding" t.IP_330="Disable Call Fwd" t.VVX_101_201="Disable Call Fwd"/>
+		<phrase i="2069" t="Forward to a Contact" t.IP_330="Fwd to a Contact" t.VVX_101_201="Fwd to Contact"/>
+		<phrase i="2070" t="Forward to Voicemail" t.IP_330="Fwd to Voicemail" t.VVX_101_201="Fwd to Voicemail"/>
+		<phrase i="2071" t="Special Interop"/>
+		<phrase i="2072" t="Standard"/>
+		<phrase i="2073" t="LCS2005"/>
+		<phrase i="2074" t="OCS2007r2"/>
+		<phrase i="2075" t="Lync2010"/>
+		<phrase i="2076" t="SRTP Enabled"/>
+		<phrase i="2077" t="SRTP Offer"/>
+		<phrase i="2078" t="Auto Discovery"/>
+		<phrase i="2079" t="Max Lync contacts number is reached" t.IP_330="Max Cncts reached"/>
+		<phrase i="2080" t="Limited functionality due to outage"/>
+		<phrase i="2081" t="Server is unreachable"/>
+		<phrase i="2082" t="Group Contacts"/>
+		<phrase i="2083" t="Limited functionality"/>
+		<phrase i="2084" t="Firmware version is" t.VVX_101_201="Firmware version"/>
+		<phrase i="2085" t="Internal Address"/>
+		<phrase i="2086" t="Enterprise Account" t.VVX_101_201="Enterprise Acct"/>
+		<phrase i="2087" t="Account"/>
+		<phrase i="2088" t="Reduced Security On" t.VVX_101_201="Reduced Security"/>
+		<phrase i="2089" t="Location Information" t.VVX_101_201="Location Info"/>
+		<phrase i="2090" t="Location Selection" t.VVX_101_201="Select Location"/>
+		<phrase i="2091" t="Set your location" t.VVX_101_201="Set location"/>
+		<phrase i="2092" t="City"/>
+		<phrase i="2093" t="Road"/>
+		<phrase i="2094" t="Street"/>
+		<phrase i="2095" t="Trail. Street Suffix"/>
+		<phrase i="2096" t="Street Suffix"/>
+		<phrase i="2097" t="House Number"/>
+		<phrase i="2098" t="House Number Suffix" t.VVX_101_201="Home Number Suff"/>
+		<phrase i="2099" t="Add. Info"/>
+		<phrase i="2100" t="Place Name"/>
+		<phrase i="2101" t="Zip Code"/>
+		<phrase i="2102" t="SRTP Menu"/>
+		<phrase i="2103" t="SRTP Require"/>
+		<phrase i="2104" t="Use Login Credentials" t.VVX_101_201="Use Login Cred"/>
+		<phrase i="2105" t="This is an Emergency Call" t.IP_330="Emergency Call" t.IP_450="Emergency Call"/>
+		<phrase i="2106" t="Barcode Connect"/>
+		<phrase i="2107" t="Barcode Disconnect" t.VVX_101_201="Barcode Discon"/>
+		<phrase i="2108" t="Sufficient bandwidth is not available." t.IP_330="Insufficient bandwidth." t.IP_450="Insufficient bandwidth."/>
+		<phrase i="2109" t="Please try the call again later." t.IP_330="Please try the call again." t.IP_450="Please try the call again."/>
+		<phrase i="2110" t="Microsoft Lync"/>
+		<phrase i="2111" t="Signing into Microsoft Lync"/>
+		<phrase i="2112" t="Are you sure you want to sign out?"/>
+		<phrase i="2113" t="Successfully signed in"/>
+		<phrase i="2114" t="Call may take longer to connect" t.IP_330="Call delayed"/>
+		<phrase i="2115" t="Missing domain in sign-in address"/>
+		<phrase i="2116" t="Missing server address"/>
+		<phrase i="2117" t="Signed into Microsoft Lync"/>
+		<phrase i="2118" t="Delegation"/>
+		<phrase i="2119" t="Team Call"/>
+		<phrase i="2120" t="Help Desk"/>
+		<phrase i="2121" t="Normal Ring Type"/>
+		<phrase i="2122" t="Private Ring Type"/>
+		<phrase i="2123" t="Lync Sign In has failed" t.IP_330="Lync Sign In failed."/>
+		<phrase i="2124" t="Please update Sign In information"/>
+		<phrase i="2125" t="Generic"/>
+		<phrase i="2126" t="Lync"/>
+		<phrase i="2127" t="Base Profile"/>
+		<phrase i="2128" t="Contact Information" t.VVX_101_201="Contact Info"/>
+		<phrase i="2129" t="Advanced Options"/>
+		<phrase i="2130" t="Cannot sign out while there are calls. Please end all calls first." t.IP_330="Cannot sign out"/>
+		<phrase i="2131" t="Enter Sign In Information"/>
+		<phrase i="2132" t="Emergency Dial"/>
+		<phrase i="2133" t="Press Talk twice in 2 seconds"/>
+		<phrase i="2134" t="Mutual TLS"/>
+		<phrase i="2135" t="Manual" t.VVX_101_201="Man"/>
+		<phrase i="2136" t="Normal Vibration"/>
+		<phrase i="2137" t="Private Vibration" t.VVX_101_201="Private Vib"/>
+		<phrase i="2138" t="Type"/>
+		<phrase i="2139" t="Idle Browser"/>
+		<phrase i="2140" t="MCS Rates"/>
+		<phrase i="2141" t="Limited"/>
+		<phrase i="2142" t="Disclaimer"/>
+		<phrase i="2143" t="Reset" t.VVX_300="Reset" t.VVX_1500="Reset Status" t.VVX_500="Reset Status"/>
+		<phrase i="2144" t="Signing in to Microsoft Lync"/>
+		<phrase i="2145" t="OCSP"/>
+		<phrase i="2146" t="Not Available"/>
+		<phrase i="2147" t="Setting default background"/>
+		<phrase i="2148" t="Transfer Failed"/>
+		<phrase i="2149" t="Clear browser data" t.VVX_101_201="Clear browser"/>
+		<phrase i="2150" t="PIN Authentication" t.VVX_101_201="PIN Auth"/>
+		<phrase i="2151" t="Extension"/>
+		<phrase i="2152" t="PIN"/>
+		<phrase i="2153" t="User Credentials" t.VVX_101_201="User Cred"/>
+		<phrase i="2154" t="Music on Hold"/>
+		<phrase i="2155" t="Music File"/>
+		<phrase i="2156" t="File size exceeds max limit"/>
+		<phrase i="2157" t="Music File Downloaded"/>
+		<phrase i="2158" t="Using default MOH File"/>
+		<phrase i="2159" t="Current MOH is Active"/>
+		<phrase i="2160" t="Contact is outside of organization" t.IP_330="Contact is outside of org."/>
+		<phrase i="2161" t="Do not detach USB"/>
+		<phrase i="2162" t="at port"/>
+		<phrase i="2163" t="VVX Camera attached. Camera ready."/>
+		<phrase i="2164" t="VVX Camera attached. Video available when next idle."/>
+		<phrase i="2165" t="VVX Camera attached. Contact administrator to enable video."/>
+		<phrase i="2166" t="VVX Camera removed."/>
+		<phrase i="2167" t="VVX Camera attached. Firmware sync in progress. Do not remove camera."/>
+		<phrase i="2168" t="VVX Camera firmware upgrade failed. Contact administrator."/>
+		<phrase i="2169" t="VVX Camera firmware sync complete. Camera ready."/>
+		<phrase i="2170" t="VVX Camera firmware sync complete. Contact administrator to enable video."/>
+		<phrase i="2171" t="VVX Camera Firmware sync complete. Video available when next idle."/>
+		<phrase i="2172" t="VVX Camera is not connected."/>
+		<phrase i="2173" t="VVX Camera firmware sync complete. Camera rebooting."/>
+		<phrase i="2174" t="Missing Extension and PIN"/>
+		<phrase i="2175" t="Missing Extension"/>
+		<phrase i="2176" t="Missing PIN"/>
+		<phrase i="2177" t="and reboot"/>
+		<phrase i="2178" t="Video Mode"/>
+		<phrase i="2179" t="Internal Error. Try again."/>
+		<phrase i="2180" t="User is not SIP enabled"/>
+		<phrase i="2181" t="Internal Windows authentication error."/>
+		<phrase i="2182" t="The extension is invalid"/>
+		<phrase i="2183" t="Invalid PIN "/>
+		<phrase i="2184" t="Phone Number is Ambiguous"/>
+		<phrase i="2185" t="The PIN is not set"/>
+		<phrase i="2186" t="The PIN is expired"/>
+		<phrase i="2187" t="The account is locked"/>
+		<phrase i="2188" t="The account is disabled"/>
+		<phrase i="2189" t="Internal Server Error"/>
+		<phrase i="2190" t="Certificate negotiation failed"/>
+		<phrase i="2191" t="The certificate is expired"/>
+		<phrase i="2192" t="The certificate is invalid"/>
+		<phrase i="2193" t="The certificate is not found"/>
+		<phrase i="2194" t="User not found in database"/>
+		<phrase i="2195" t="Error processing OCS-signed certificate"/>
+		<phrase i="2196" t="Invalid canary ticket"/>
+		<phrase i="2197" t="Live ID token be resolved"/>
+		<phrase i="2198" t="Live ID token with incorrect site policy"/>
+		<phrase i="2199" t="ID token not associated with user account"/>
+		<phrase i="2200" t="No valid security token"/>
+		<phrase i="2201" t="Unsupported security token type"/>
+		<phrase i="2202" t="No valid subject statement"/>
+		<phrase i="2203" t="No valid message security"/>
+		<phrase i="2204" t="Failed authentication"/>
+		<phrase i="2205" t="No valid security principal"/>
+		<phrase i="2206" t="Private key generation in progress. You cannot sign out now. Try again later."/>
+		<phrase i="2207" t="Tab"/>
+		<phrase i="2208" t="Lync Directory"/>
+		<phrase i="2209" t="Phone is not registered with Lync"/>
+		<phrase i="2210" t="Add to Contacts" t.VVX_300="Add" t.VVX_101_201="ACnts"/>
+		<phrase i="2211" t="No contacts"/>
+		<phrase i="2212" t="ABS"/>
+		<phrase i="2213" t="Failed to process the request"/>
+		<phrase i="2214" t="Service not configured"/>
+		<phrase i="2215" t="Added to Lync Contacts"/>
+		<phrase i="2216" t="IP Mode"/>
+		<phrase i="2217" t="IPv4"/>
+		<phrase i="2218" t="IPv6"/>
+		<phrase i="2219" t="IPv4 and IPv6"/>
+		<phrase i="2220" t="IPv4 Configuration" t.VVX_101_201="IPv4 Config"/>
+		<phrase i="2221" t="IPv6 Configuration" t.VVX_101_201="IPv6 Config"/>
+		<phrase i="2222" t="Preferred Network" t.VVX_101_201="Preferred Ntwk"/>
+		<phrase i="2223" t="IPv6 Addr Discovery" t.VVX_101_201="IPv6 Addr Discov"/>
+		<phrase i="2224" t="DHCPv6"/>
+		<phrase i="2225" t="SLAAC"/>
+		<phrase i="2226" t="Global Addr"/>
+		<phrase i="2227" t="Link Local Addr"/>
+		<phrase i="2228" t="ULA"/>
+		<phrase i="2229" t="IPv6 Addr"/>
+		<phrase i="2230" t="IPv4 Addr"/>
+		<phrase i="2231" t="IP Configuration"/>
+		<phrase i="2232" t="Enter valid IPv4 Address"/>
+		<phrase i="2233" t="Enter valid IPv6 Address"/>
+		<phrase i="2234" t="IPv6 Gateway"/>
+		<phrase i="2235" t="Boot Srv Disc"/>
+		<phrase i="2236" t="DHCPv4"/>
+		<phrase i="2237" t="DHCPv4v6"/>
+		<phrase i="2238" t="Duplicate IPv6 Address"/>
+		<phrase i="2239" t="Duplicate IPv4 Address"/>
+		<phrase i="2240" t="DHCPv6 Failed"/>
+		<phrase i="2241" t="Enter valid IPv4/IPv6 Addr" t.IP_330="Enter IPv4/IPv6 Addr"/>
+		<phrase i="2242" t="Enter valid IPv4 Addr or URL" t.IP_330="Enter IPv4 Addr or URL"/>
+		<phrase i="2243" t="Enter valid IPv6 Addr or URL" t.IP_330="Enter IPv6 Addr or URL"/>
+		<phrase i="2244" t="1/A/a/0x" t.VVX_101_201="1/A"/>
+		<phrase i="2245" t="IPv6 VLAN Discovery" t.VVX_101_201="IPv6 VLAN Discov"/>
+		<phrase i="2246" t="Enter valid Link Local Addr"/>
+		<phrase i="2247" t="Enter valid ULA"/>
+		<phrase i="2248" t="Enter valid Global Addr"/>
+		<phrase i="2249" t="SHA1 Fingerprint"/>
+		<phrase i="2250" t="SHA1"/>
+		<phrase i="2251" t="TR-069"/>
+		<phrase i="2252" t="CPE User Name"/>
+		<phrase i="2253" t="CPE Password"/>
+		<phrase i="2254" t="Inform Enable"/>
+		<phrase i="2255" t="Inform Time"/>
+		<phrase i="2256" t="TR069 Menu"/>
+		<phrase i="2257" t="ACS Configuration" t.VVX_101_201="ACS Config"/>
+		<phrase i="2258" t="Phone/CPE Configuration" t.VVX_101_201="Phone/CPE Config"/>
+		<phrase i="2259" t="Upgrade Management" t.VVX_101_201="Upgrade Mngmt"/>
+		<phrase i="2260" t="Server Inform"/>
+		<phrase i="2261" t="Inform Time"/>
+		<phrase i="2262" t="Inform Interval"/>
+		<phrase i="2263" t="Broadsoft Directory" t.VVX_101_201="Broadsoft Dir"/>
+		<phrase i="2264" t="UC-One Contacts"/>
+		<phrase i="2265" t="IPv4 Gateway"/>
+		<phrase i="2266" t="LCD Recovery Routine"/>
+		<phrase i="2267" t="EM1"/>
+		<phrase i="2268" t="EM2"/>
+		<phrase i="2269" t="EM3"/>
+		<phrase i="2270" t="Unassigned"/>
+		<phrase i="2271" t="Line Key Info"/>
+		<phrase i="2272" t="Reset PSTN Country Settings"/>
+		<phrase i="2273" t="Country Settings"/>
+		<phrase i="2274" t="Cleared the PSTN settings"/>
+		<phrase i="2275" t="Return to Calls"/>
+		<phrase i="2276" t="Call parked to orbit number"/>
+		<phrase i="2277" t="Call cannot be parked. Maximum calls parked to server"/>
+		<phrase i="2278" t="Parking in progress"/>
+		<phrase i="2279" t="to retrieve parked call"/>
+		<phrase i="2280" t="Parkee hung up call before it was retrieved"/>
+		<phrase i="2281" t="Parked call dropped"/>
+		<phrase i="2282" t="Call picked up by"/>
+		<phrase i="2283" t="Parking failed. Try again later."/>
+		<phrase i="2284" t="Parked call transferred to fallback URI"/>
+		<phrase i="2285" t="Parking failed. No response from server"/>
+		<phrase i="2286" t="No parked call to retrieve"/>
+		<phrase i="2287" t="Device Update Available. Press Reboot to Update."/>
+		<phrase i="2288" t="Dev Updt" t.VVX_101_201="DUpdt"/>
+		<phrase i="2289" t="Rebooting in 15 Seconds for device update. Press any key to cancel device update"/>
+		<phrase i="2290" t="Current Version" t.VVX_101_201="Cur Version"/>
+		<phrase i="2291" t="Version on Server" t.VVX_101_201="Srv Version"/>
+		<phrase i="2292" t="Inactivity Timeout"/>
+		<phrase i="2293" t="Lync Device Update"/>
+		<phrase i="2294" t="Update Status" t.VVX_101_201="Status"/>
+		<phrase i="2295" t="Device Idle"/>
+		<phrase i="2296" t="Update Available"/>
+		<phrase i="2297" t="Update Unavailable" t.VVX_101_201="Updt Unavailable"/>
+		<phrase i="2298" t="Not Enabled on Server"/>
+		<phrase i="2299" t="Not Enabled on Phone"/>
+		<phrase i="2300" t="Bad Request"/>
+		<phrase i="2301" t="Bad Response"/>
+		<phrase i="2302" t="File Transfer Error"/>
+		<phrase i="2303" t="Unknown Error"/>
+		<phrase i="2304" t="Contacted At"/>
+		<phrase i="2305" t="Enterprise Search" t.VVX_101_201="Enterprise Srch"/>
+		<phrase i="2306" t="All Contacts"/>
+		<phrase i="2307" t="Authentication Failure"/>
+		<phrase i="2308" t="Server's certificate could not be verified"/>
+		<phrase i="2309" t="Out of memory"/>
+		<phrase i="2310" t="Filter Contacts"/>
+		<phrase i="2311" t="Empty reply from server"/>
+		<phrase i="2312" t="Service not found"/>
+		<phrase i="2313" t="Search failed. Please check your configuration"/>
+		<phrase i="2314" t="Number not available"/>
+		<phrase i="2315" t="%s of %s records found"/>
+		<phrase i="2316" t="%s records found"/>
+		<phrase i="2317" t="%s record found"/>
+		<phrase i="2318" t="No records found"/>
+		<phrase i="2319" t="Sorry, enterprise search failed"/>
+		<phrase i="2320" t="Add to local directory"/>
+		<phrase i="2321" t="Contact added to local directory"/>
+		<phrase i="2322" t="Contact already exists in local directory"/>
+		<phrase i="2323" t="Unable to add the contact to local directory"/>
+		<phrase i="2324" t="Work"/>
+		<phrase i="2325" t="Advanced Search" t.VVX_101_201="AFnd"/>
+		<phrase i="2326" t="Options"/>
+		<phrase i="2327" t="Case-sensitive" t.VVX_1500="Cs.Sn" t.VVX_500="Cs.Sn"/>
+		<phrase i="2328" t="Search contacts" t.VVX_101_201="Srch"/>
+		<phrase i="2329" t="Are you sure you want to add this contact to the Local Directory?"/>
+		<phrase i="2330" t="added you as Delegate"/>
+		<phrase i="2331" t="removed you as Delegate"/>
+		<phrase i="2332" t="added as your Delegate"/>
+		<phrase i="2333" t="removed as your Delegate"/>
+		<phrase i="2334" t="Boss Admin Contacts updated"/>
+		<phrase i="2335" t="Multiple Users Added you as Delegate"/>
+		<phrase i="2336" t="Multiple Users Removed you as Delegate"/>
+		<phrase i="2337" t="Multiple Users added as your Delegate"/>
+		<phrase i="2338" t="Multiple Users removed as your Delegate"/>
+		<phrase i="2339" t="Simultaneous Ring is Activated"/>
+		<phrase i="2340" t="Simultaneous Ring is Deactivated"/>
+		<phrase i="2341" t="On behalf"/>
+		<phrase i="2342" t="Call on behalf of"/>
+		<phrase i="2343" t="Delegation Ring Type" t.VVX_101_201="Delegation Ring"/>
+		<phrase i="2344" t="Call Forward is Activated"/>
+		<phrase i="2345" t="Call Forward is Deactivated"/>
+		<phrase i="2346" t="Not Applicable"/>
+		<phrase i="2347" t="Not Contacted Server"/>
+		<phrase i="2348" t="Also Ringing Delegates"/>
+		<phrase i="2349" t="Keyboard Layout"/>
+		<phrase i="2350" t="Better Together Activated"/>
+		<phrase i="2351" t="Better Together Deactivated"/>
+		<phrase i="2352" t="BTOE"/>
+		<phrase i="2353" t="BTOE Pairing Status"/>
+		<phrase i="2354" t="Pair"/>
+		<phrase i="2355" t="UnPair"/>
+		<phrase i="2356" t="Trying to Pair with PC"/>
+		<phrase i="2357" t="Successfully Paired"/>
+		<phrase i="2358" t="Successfully Un-Paired"/>
+		<phrase i="2359" t="Run the BToE app on your PC to pair"/>
+		<phrase i="2360" t="Paired Lync Client"/>
+		<phrase i="2361" t="Please Sign-in/start Lync client"/>
+		<phrase i="2362" t="Device installation in PC is in progress"/>
+		<phrase i="2363" t="Forwarded by"/>
+		<phrase i="2364" t="Device update available"/>
+		<phrase i="2365" t="Parked call is dropped. No response from server"/>
+		<phrase i="2366" t="and Delegates"/>
+		<phrase i="2367" t="Are you sure you want to delete this as favorite?"/>
+		<phrase i="2368" t="Paper"/>
+		<phrase i="2369" t="LCD"/>
+		<phrase i="2370" t="on"/>
+		<phrase i="2371" t="Pairing Failed"/>
+		<phrase i="2372" t="PC port is Down"/>
+		<phrase i="2373" t="Unable to activate BTOE"/>
+		<phrase i="2374" t="A presenter has muted you"/>
+		<phrase i="2375" t="A presenter wants you to unmute yourself"/>
+		<phrase i="2376" t="Transferred"/>
+		<phrase i="2377" t="RemotelyHandled"/>
+		<phrase i="2378" t="Rejected"/>
+		<phrase i="2379" t="Preempted"/>
+		<phrase i="2380" t="Partial"/>
+		<phrase i="2381" t="UserForwarded"/>
+		<phrase i="2382" t="Forwarded"/>
+		<phrase i="2383" t="Exchange Calendar registration has failed"/>
+		<phrase i="2384" t="Nickname"/>
+		<phrase i="2385" t="SIP Address" t.VVX_101_201="SIP Addr"/>
+		<phrase i="2386" t="Business"/>
+		<phrase i="2387" t="Home"/>
+		<phrase i="2388" t="Mobile"/>
+		<phrase i="2389" t="Pager"/>
+		<phrase i="2390" t="Select an address to dial"/>
+		<phrase i="2391" t="Select a search attribute"/>
+		<phrase i="2392" t="Global Address Book" t.VVX_101_201="Global Addr Book"/>
+		<phrase i="2393" t="Global Address Book" t.VVX_101_201="Global Addr Book"/>
+		<phrase i="2394" t="Global Address Book" t.VVX_101_201="Global Addr Book"/>
+		<phrase i="2395" t="View Persistency"/>
+		<phrase i="2396" t="SIP Address is required"/>
+		<phrase i="2397" t="Duplicate SIP Address"/>
+		<phrase i="2398" t="Nickname is required"/>
+		<phrase i="2399" t="Duplicate Nickname"/>
+		<phrase i="2400" t="Contact Directory" t.VVX_101_201="Contact Dir"/>
+		<phrase i="2401" t="Initializing network"/>
+		<phrase i="2402" t="SOPI"/>
+		<phrase i="2403" t="Power Alert"/>
+		<phrase i="2404" t="cannot be powered on"/>
+		<phrase i="2405" t="Top USB Port Device" t.VVX_101_201="Top USB Device"/>
+		<phrase i="2406" t="Rear USB Port Device" t.VVX_101_201="Rear USB Device"/>
+		<phrase i="2407" t="Top USB Port"/>
+		<phrase i="2408" t="Rear USB Port"/>
+		<phrase i="2409" t="is powered down"/>
+		<phrase i="2410" t="Expansion Module"/>
+		<phrase i="2411" t="or"/>
+		<phrase i="2412" t="was powered down due to limited power"/>
+		<phrase i="2413" t="caused by expansion module attachment."/>
+		<phrase i="2414" t="was powered down due to over current."/>
+		<phrase i="2415" t="due to limited power."/>
+		<phrase i="2416" t="Ensure that PC port is connected"/>
+		<phrase i="2417" t="Blocked"/>
+		<phrase i="2418" t="In a conference call"/>
+		<phrase i="2419" t="Presenting"/>
+		<phrase i="2420" t="Out of Office"/>
+		<phrase i="2421" t="Urgent interruptions only"/>
+		<phrase i="2422" t="Off Work"/>
+		<phrase i="2423" t="No hold calls"/>
+		<phrase i="2424" t="You will be notified if the audience is unmuted and you can control your mute status then"/>
+		<phrase i="2425" t="Device"/>
+		<phrase i="2426" t="Device Name"/>
+		<phrase i="2427" t="Software Upgrade"/>
+		<phrase i="2428" t="Update Server"/>
+		<phrase i="2429" t="Update Frequency"/>
+		<phrase i="2430" t="Update Time"/>
+		<phrase i="2431" t="Never"/>
+		<phrase i="2432" t="Mute Button Function" t.VVX_101_201="Mute Butn Funct"/>
+		<phrase i="2433" t="Microphone Only"/>
+		<phrase i="2434" t="Microphone and Camera" t.VVX_101_201="Mic and Camera"/>
+		<phrase i="2435" t="Power Frequency"/>
+		<phrase i="2436" t="50 Hz"/>
+		<phrase i="2437" t="50 Hz - 30fps (East Japan)" t.VVX_101_201="50Hz-30fps(EJapan)"/>
+		<phrase i="2438" t="60 Hz"/>
+		<phrase i="2439" t="Headset mode disabled"/>
+		<phrase i="2440" t="All audio modes are disabled"/>
+		<phrase i="2441" t="Go off-hook for audio"/>
+		<phrase i="2442" t="Security Classification" t.VVX_101_201="Security Class"/>
+		<phrase i="2443" t="Security Level"/>
+		<phrase i="2444" t="Current call security level downgraded to"/>
+		<phrase i="2445" t="Current call security level upgraded to"/>
+		<phrase i="2446" t="Assigned"/>
+		<phrase i="2447" t="Override in progress"/>
+		<phrase i="2448" t="Call Recording Mode"/>
+		<phrase i="2449" t="Always with Pause/Resume" t.VVX_300="Always with P/R"/>
+		<phrase i="2450" t="On Demand"/>
+		<phrase i="2451" t="On Demand with User Initiated Start" t.VVX_300="On Dem with Start"/>
+		<phrase i="2452" t="Recording paused"/>
+		<phrase i="2453" t="Recording resumed"/>
+		<phrase i="2454" t="Recording stopped"/>
+		<phrase i="2455" t="Recording started"/>
+		<phrase i="2456" t="Could not start Recording now"/>
+		<phrase i="2457" t="Processing previous request…"/>
+		<phrase i="2458" t="Web Server Configuration" t.VVX_101_201="Web Server Config"/>
+		<phrase i="2459" t="HTTP/HTTPS"/>
+		<phrase i="2460" t="HTTP Only"/>
+		<phrase i="2461" t="HTTPS Only"/>
+		<phrase i="2462" t="Default admin password is in use. Contact your administrator." t.VVX_300="Change default admin pwd" t.VVX_101_201="Default admin password in use"/>
+		<phrase i="2463" t="Web Server"/>
+		<phrase i="2464" t="Default admin password is in use. Change the password."/>
+		<phrase i="2465" t="Web Config Mode" t.VVX_101_201="Web Config"/>
+		<phrase i="2466" t="DND Feature disabled"/>
+		<phrase i="2467" t="Cannot dial to Private name"/>
+		<phrase i="2468" t="Reject Waiting Call"/>
+		<phrase i="2469" t="The presenter has muted the audience"/>
+		<phrase i="2470" t="The presenter has turned off audience mute"/>
+		<phrase i="2471" t="Cannot connect because the other party has put the call on hold"/>
+		<phrase i="2472" t="Exit: press same key again"/>
+		<phrase i="2473" t="Add to Favorites with an index of %1?"/>
+		<phrase i="2474" t="Edit Index" t.VVX_101_201="EdtIx"/>
+		<phrase i="2475" t="Set Date/Time"/>
+		<phrase i="2476" t="Hour"/>
+		<phrase i="2477" t="Minute"/>
+		<phrase i="2478" t="Year"/>
+		<phrase i="2479" t="Month"/>
+		<phrase i="2480" t="Add Fav" t.VVX_101_201="Fav"/>
+		<phrase i="2481" t="Hold Failed. Moving back to call."/>
+		<phrase i="2482" t="Certificate fetching In progress"/>
+		<phrase i="2483" t="Certificate fetching failed."/>
+		<phrase i="2484" t="The selected linekey cannot be assigned a contact"/>
+		<phrase i="2485" t="Retrieving user information"/>
+		<phrase i="2486" t="Boss VM" t.VVX_101_201="VM"/>
+		<phrase i="2487" t="Other"/>
+		<phrase i="2488" t="Renewing Security Association."/>
+		<phrase i="2489" t="Intercom" t.VVX_101_201="Intcm"/>
+		<phrase i="2490" t="Genband"/>
+		<phrase i="2491" t="Sign-out in progress"/>
+		<phrase i="2492" t="Product Serial Number" t.VVX_101_201="Product SN"/>
+		<phrase i="2493" t="Device Software Version" t.VVX_101_201="Device SW Ver"/>
+		<phrase i="2494" t="Safe Xfer" t.VVX_300="Safe Xfr" t.VVX_101_201="STfer"/>
+		<phrase i="2495" t="Encrypted Device key is not supported"/>
+		<phrase i="2496" t="SSL v2/v3"/>
+		<phrase i="2497" t="BroadWorks Anywhere"/>
+		<phrase i="2498" t="Remote Office"/>
+		<phrase i="2499" t="Line ID Delivery Blocking"/>
+		<phrase i="2500" t="Anonymous Call Rejection"/>
+		<phrase i="2501" t="Simultaneous Ring Personal" t.VVX_101_201="Simul Rng Prsnl"/>
+		<phrase i="2502" t="UC-One Call Settings" t.VVX_101_201="UCOne CSettings"/>
+		<phrase i="2503" t="UC-One"/>
+		<phrase i="2504" t="Call Settings Type Select"/>
+		<phrase i="2505" t="Call is Parked"/>
+		<phrase i="2506" t="Park Info" t.VVX_101_201="PInfo"/>
+		<phrase i="2507" t="Parked Call"/>
+		<phrase i="2508" t="UC-One Credentials" t.VVX_101_201="UCOne Creds"/>
+		<phrase i="2509" t="Pvt Hold" t.VVX_101_201="PHold"/>
+		<phrase i="2510" t="Answer Confirmation Required"/>
+		<phrase i="2511" t="Invalid Phone Number"/>
+		<phrase i="2512" t="Invalid Domain Name"/>
+		<phrase i="2513" t="Invalid SIP URI"/>
+		<phrase i="2514" t="Primary Number"/>
+		<phrase i="2515" t="Alt. Number / SIP URI"/>
+		<phrase i="2516" t="Call Control"/>
+		<phrase i="2517" t="Diversion Inhibitor"/>
+		<phrase i="2518" t="No location found"/>
+		<phrase i="2519" t="Delete location?"/>
+		<phrase i="2520" t="Phone Number cannot be empty"/>
+		<phrase i="2521" t="Delete Location Entry"/>
+		<phrase i="2522" t="Number already exists"/>
+		<phrase i="2523" t="Requires at least one phone number"/>
+		<phrase i="2524" t="A Software Update Available. Press Update to start."/>
+		<phrase i="2525" t="Software Update"/>
+		<phrase i="2526" t="Postpone"/>
+		<phrase i="2527" t="Rebooting for software update in %s." t.VVX_300="Rebooting for Sw Updt in %s."/>
+		<phrase i="2528" t="15 minutes"/>
+		<phrase i="2529" t="1 hour"/>
+		<phrase i="2530" t="2 hours"/>
+		<phrase i="2531" t="4 hours"/>
+		<phrase i="2532" t="6 hours"/>
+		<phrase i="2533" t="Postpones/Allowed Postpones" t.VVX_101_201="Pstpns/Alwd Pstpns"/>
+		<phrase i="2534" t="SwUpdate" t.VVX_101_201="swUpd"/>
+		<phrase i="2535" t="Postpone time expired."/>
+		<phrase i="2536" t="Postponed"/>
+		<phrase i="2537" t="Locations"/>
+		<phrase i="2538" t="Default Transfer Type" t.VVX_101_201="Default Xfer Type"/>
+		<phrase i="2539" t="Transfer Type"/>
+		<phrase i="2540" t="Consultative"/>
+		<phrase i="2541" t="Forward Call to Delegates"/>
+		<phrase i="2542" t="Simultaneously Ring Delegates"/>
+		<phrase i="2543" t="Boss Ring Type"/>
+		<phrase i="2544" t="Boss Lines"/>
+		<phrase i="2545" t="Mute All" t.VVX_101_201="A.Mut"/>
+		<phrase i="2546" t="Ena.Anc" t.VVX_101_201="E.Anc"/>
+		<phrase i="2547" t="Dis.Anc" t.VVX_101_201="D.Anc"/>
+		<phrase i="2548" t="Roster" t.VVX_101_201="Rstr"/>
+		<phrase i="2549" t="Cannot remove the participant from the call"/>
+		<phrase i="2550" t="Invite"/>
+		<phrase i="2551" t="Demote"/>
+		<phrase i="2552" t="Promote"/>
+		<phrase i="2553" t="Prev."/>
+		<phrase i="2554" t="Participant"/>
+		<phrase i="2555" t="Attendee" t.VVX_101_201="Atnde"/>
+		<phrase i="2556" t="Incoming conference call"/>
+		<phrase i="2557" t="Meet Now" t.VVX_101_201="Meet"/>
+		<phrase i="2558" t="Starting conference call"/>
+		<phrase i="2559" t="The conference service is unresponsive. Try again later"/>
+		<phrase i="2560" t="Internal conference error. Try again."/>
+		<phrase i="2561" t="Conference service did not respond. Failed to add self to the conference"/>
+		<phrase i="2562" t="Audio-video conferencing server cannot accept the call"/>
+		<phrase i="2563" t="Failed to add participant to the conference"/>
+		<phrase i="2564" t="The participant did not respond to your invitation"/>
+		<phrase i="2565" t="The participant declined your invitation"/>
+		<phrase i="2566" t="The participant cannot accept the invitation"/>
+		<phrase i="2567" t="The participant does not exist"/>
+		<phrase i="2568" t="You have been promoted to presenter"/>
+		<phrase i="2569" t="You have been demoted to attendee"/>
+		<phrase i="2570" t="The user does not have permissions for the requested operation."/>
+		<phrase i="2571" t="You have been removed from the conference by a presenter"/>
+		<phrase i="2572" t="Test passed. Conference health is good."/>
+		<phrase i="2573" t="Conference Options"/>
+		<phrase i="2574" t="Dial-In Number"/>
+		<phrase i="2575" t="This meeting is now locked."/>
+		<phrase i="2576" t="This meeting is now unlocked."/>
+		<phrase i="2577" t="Dial All"/>
+		<phrase i="2578" t="Admit"/>
+		<phrase i="2579" t="Deny"/>
+		<phrase i="2580" t="Conf.Opt" t.VVX_101_201="Opt"/>
+		<phrase i="2581" t="Conferencing is unavailable. Try again later."/>
+		<phrase i="2582" t="Waiting in Lobby to be admitted to the meeting"/>
+		<phrase i="2583" t="Audio-video conferencing server canceled the call. Cannot connect to conference."/>
+		<phrase i="2584" t="Test Conference Health"/>
+		<phrase i="2585" t="Testing the Conference Health"/>
+		<phrase i="2586" t="Lobby waiting period has expired. Exiting the meeting."/>
+		<phrase i="2587" t="You were not admitted into the meeting"/>
+		<phrase i="2588" t="You have been replaced by another participant"/>
+		<phrase i="2589" t="You cannot invite a participant who is already in the conference."/>
+		<phrase i="2590" t="Conferencing server is attempting to transfer participant."/>
+		<phrase i="2591" t="Are you sure you want to start a conference?"/>
+		<phrase i="2592" t="Cannot invite multiple participants to the conference"/>
+		<phrase i="2593" t="Join Lync Meeting"/>
+		<phrase i="2594" t="Multiple conferences are not supported"/>
+		<phrase i="2595" t="Exchange Web Service authentication failed" t.VVX_101_201="EWS Auth Fail"/>
+		<phrase i="2596" t="Call logs is unavailable" t.VVX_101_201="Call Logs Unavl"/>
+		<phrase i="2597" t="Visual Voicemail is unavailable" t.VVX_101_201="VVM Unavl"/>
+		<phrase i="2598" t="Outlook Contacts is unavailable" t.VVX_101_201="Otlk Cont Unavl"/>
+		<phrase i="2599" t="Unified messaging is unavailable" t.VVX_101_201="Unfy Msg Unavl"/>
+		<phrase i="2600" t="Play on Phone is unavailable" t.VVX_101_201="PO Phone Unavl"/>
+		<phrase i="2601" t="Outlook Search"/>
+		<phrase i="2602" t="Mark as Read" t.VVX_101_201="Read"/>
+		<phrase i="2603" t="Mark as Unread" t.VVX_101_201="Unread"/>
+		<phrase i="2604" t="Source"/>
+		<phrase i="2605" t="Outlook"/>
+		<phrase i="2606" t="Email ID needed to start auto-discovery service." t.VVX_101_201="Email Req ADS"/>
+		<phrase i="2607" t="Auto-discovery service failed to fetch EWS URLs." t.VVX_101_201="ADS Fail EWSURL"/>
+		<phrase i="2608" t="Deleting voicemail"/>
+		<phrase i="2609" t="Playing voicemail"/>
+		<phrase i="2610" t="Marking voicemail as "/>
+		<phrase i="2611" t="Conference ID"/>
+		<phrase i="2612" t="To Cell"/>
+		<phrase i="2613" t="Music on Hold Status"/>
+		<phrase i="2614" t="Music on Hold is unavailable when an active call is in progress."/>
+		<phrase i="2615" t="Try again later"/>
+		<phrase i="2616" t="Filter"/>
+		<phrase i="2617" t="PC Audio"/>
+		<phrase i="2618" t="Answering the call plays audio on the phone and video on the computer"/>
+		<phrase i="2619" t="Beta expires in"/>
+		<phrase i="2620" t="Beta software expired"/>
+		<phrase i="2621" t="NTP server is not configured"/>
+		<phrase i="2622" t="Registration is not allowed on an expired load"/>
+		<phrase i="2623" t="Beta software"/>
+		<phrase i="2624" t="Maximum Participants limit has reached. Cannot connect to conference"/>
+		<phrase i="2625" t="The conference has ended because the hosts have left"/>
+		<phrase i="2626" t="The conference has ended because the organizer has terminated the session"/>
+		<phrase i="2627" t="This online meeting cannot be found"/>
+		<phrase i="2628" t="Simultaneously Ring to Team Call"/>
+		<phrase i="2629" t="Simultaneously Ring to a Contact"/>
+		<phrase i="2630" t="Call Settings"/>
+		<phrase i="2631" t="Music On Hold file download is still in progress, Please wait."/>
+		<phrase i="2632" t="Idle Screen Settings"/>
+		<phrase i="2633" t="Columns"/>
+		<phrase i="2634" t="Reminder Interval"/>
+		<phrase i="2635" t="Follow office hours"/>
+		<phrase i="2636" t="Remote Hold Reminder"/>
+		<phrase i="2637" t="Priority Notify"/>
+		<phrase i="2638" t="Barcode beep"/>
+		<phrase i="2639" t="PTT transmit"/>
+		<phrase i="2640" t="PTT wait"/>
+		<phrase i="2641" t="Audible Once"/>
+		<phrase i="2642" t="Audible Always"/>
+		<phrase i="2643" t="Reminder Type"/>
+		<phrase i="2644" t="Reminder Settings"/>
+		<phrase i="2645" t="Exchange Services Unavailable" t.VVX_300="Exchange Unavailable" t.VVX_101_201="Exch Unavl"/>
+		<phrase i="2646" t="Transparent Lines"/>
+		<phrase i="2647" t="Calllist: Synchronizing"/>
+		<phrase i="2648" t="Voicemail: Synchronizing"/>
+		<phrase i="2649" t="Contacts: Synchronizing"/>
+		<phrase i="2650" t="Initiated Voicemail callback"/>
+		<phrase i="2651" t="Voicemail callback timed out. No response from server"/>
+		<phrase i="2652" t="Dial the emergency number directly"/>
+		<phrase i="2653" t="Apps"/>
+		<phrase i="2654" t="Remote"/>
+		<phrase i="2655" t="PC"/>
+		<phrase i="2656" t="Failed to delete voice mail."/>
+		<phrase i="2657" t="Failed to update the voice mail."/>
+		<phrase i="2658" t="Failed to play the voice mail."/>
+		<phrase i="2659" t="Voice mail deleted."/>
+		<phrase i="2660" t="Initializing device, please wait…" t.VVX_101_201="Initializing device…"/>
+		<phrase i="2661" t="Receive"/>
+		<phrase i="2662" t="Case Insensitive" t.VVX_1500="Cs.In" t.VVX_500="Cs.In"/>
+		<phrase i="2663" t="Work Phone"/>
+		<phrase i="2664" t="Tx/Rx MOSCQ" t.VVX_101_201="T/R MOSCQ"/>
+		<phrase i="2665" t="Tx/Rx MOSLQ" t.VVX_101_201="T/R MOSLQ"/>
+		<phrase i="2666" t="LogOt"/>
+		<phrase i="2667" t="Disp Code" t.VVX_101_201="Disp"/>
+		<phrase i="2668" t="Emergcy" t.VVX_101_201="Emrg"/>
+		<phrase i="2669" t="Trace" t.VVX_101_201="Trace"/>
+		<phrase i="2670" t="Adv"/>
+		<phrase i="2671" t="Fav"/>
+		<phrase i="2672" t="(ms)"/>
+		<phrase i="2673" t="Message Center" t.VVX_101_201="MsgC"/>
+		<phrase i="2674" t="Delay"/>
+		<phrase i="2675" t="ETSearch" t.VVX_101_201="ESrch"/>
+		<phrase i="2676" t="OBO"/>
+		<phrase i="2677" t="SECR"/>
+		<phrase i="2678" t="Normal &amp; Silent"/>
+		<phrase i="2679" t="Whisper"/>
+		<phrase i="2680" t="Whisper &amp; Silent"/>
+		<phrase i="2681" t="Listen"/>
+		<phrase i="2682" t="Listen &amp; Silent"/>
+		<phrase i="2683" t="BargeIn cannot possible"/>
+		<phrase i="2684" t="Bridge In" t.VVX_101_201="BrIn"/>
+		<phrase i="2685" t="Visitor Login"/>
+		<phrase i="2686" t="Visitor Login" t.VVX_300="VLogin" t.VVX_101_201="V-In"/>
+		<phrase i="2687" t="Visitor Logout" t.VVX_300="VLogout" t.VVX_101_201="VOut"/>
+		<phrase i="2688" t="Visitor Desk Profile"/>
+		<phrase i="2689" t="Visitor profile download failed"/>
+		<phrase i="2690" t="Establishing VD Session"/>
+		<phrase i="2691" t="Enter Phone number"/>
+		<phrase i="2692" t="Enter PIN"/>
+		<phrase i="2693" t="ALU-CTS"/>
+		<phrase i="2694" t="Share"/>
+		<phrase i="2695" t="Restarting phone to apply new configuration"/>
+		<phrase i="2696" t="Call Log"/>
+		<phrase i="2697" t="View List"/>
+		<phrase i="2698" t="Max participants reached"/>
+		<phrase i="2699" t="Contact added"/>
+		<phrase i="2700" t="Contact already added"/>
+		<phrase i="2701" t="More records found, please refine your search"/>
+		<phrase i="2702" t="Select a data source"/>
+		<phrase i="2703" t="Participants"/>
+		<phrase i="2704" t="No Participants"/>
+		<phrase i="2705" t="HeadSet Mode Active"/>
+		<phrase i="2706" t="Speaker Mode Active"/>
+		<phrase i="2707" t="Invalid Request"/>
+		<phrase i="2708" t="Request Failed"/>
+		<phrase i="2709" t="Invalid Security Token"/>
+		<phrase i="2710" t="Authentication Bad Elements"/>
+		<phrase i="2711" t="Bad Request"/>
+		<phrase i="2712" t="Expired Data"/>
+		<phrase i="2713" t="Invalid TimeRange"/>
+		<phrase i="2714" t="Invalid Scope"/>
+		<phrase i="2715" t="Renew Needed"/>
+		<phrase i="2716" t="Unable To Renew"/>
+		<phrase i="2717" t="Failed Authentication"/>
+		<phrase i="2718" t="Cnts"/>
+		<phrase i="2719" t="Microphone Unmuted"/>
+		<phrase i="2720" t="SLA Lines Added"/>
+		<phrase i="2721" t="SLA Lines Deleted"/>
+		<phrase i="2722" t="Joined SLA Group"/>
+		<phrase i="2723" t="SLA Ring type"/>
+		<phrase i="2724" t="Web Services"/>
+		<phrase i="2725" t="Visitor Logout"/>
+		<phrase i="2726" t="New password should not be same as old password."/>
+		<phrase i="2727" t="Call Error"/>
+		<phrase i="2728" t="C-&gt;L"/>
+		<phrase i="2729" t="L-&gt;C"/>
+		<phrase i="2730" t="Mem. Usage"/>
+		<phrase i="2731" t="Disable"/>
+		<phrase i="2732" t="Enable"/>
+		<phrase i="2733" t="Server Error. Will re-signin now"/>
+		<phrase i="2734" t="Far-end is using the speakerphone"/>
+		<phrase i="2735" t="Far-end is not using the speakerphone"/>
+	</phrases>
+</dictionary>
