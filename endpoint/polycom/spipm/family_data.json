@@ -7,7 +7,7 @@
     "firmware_md5sum": "ec5ff456bcc7677e99c764d65f1d1dcb",
     "firmware_pkg": "spipm_firmware.tgz",
     "description": "Firmware 4.0.9, remove VVX phones",
-    "configuration_files": "$mac.cfg,$mac_reg.cfg,sip.cfg,contacts\/000000000000-directory.xml,logs\/$mac-app.log,logs\/$mac-boot.log,overrides\/$mac-phone.cfg",
+    "configuration_files": "$mac.cfg,$mac_reg.cfg,sip_spipm.cfg,contacts\/000000000000-directory.xml,logs\/$mac-app.log,logs\/$mac-boot.log,overrides\/$mac-phone.cfg",
     "changelog": "",
     "provisioning_types": [
       "tftp",
