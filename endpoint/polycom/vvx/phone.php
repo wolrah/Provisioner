@@ -68,7 +68,7 @@ class endpoint_polycom_vvx_phone extends endpoint_polycom_base {
         $result = parent::config_files();
         $this->configfiles = array(
             '$mac.cfg' => $this->mac . '_reg.cfg',
-            'sip.cfg' => 'sip.cfg'
+            'sip_vvx.cfg' => 'sip_vvx.cfg'
         );
 
         $macprefix = $this->server_type == 'dynamic' ? $this->mac . "_" : NULL;
